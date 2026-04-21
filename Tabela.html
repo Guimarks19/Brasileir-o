@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela do Brasileir&atilde;o</title>
+    <link rel="stylesheet" href="Tabela.css">
+</head>
+<body>
+    <header class="topbar">
+        <div class="brand">
+            <img id="logo-topo" src="logo do brasil.png" alt="Logo do Brasileir&atilde;o">
+            <span>Brasileir&atilde;o</span>
+        </div>
+        <nav class="menu">
+            <button class="ativo" type="button" data-tab="tabela">Tabela</button>
+            <button type="button" data-tab="jogos">Jogos</button>
+            <button type="button" data-tab="tabela">Classifica&ccedil;&atilde;o</button>
+            <button type="button" data-tab="jogos">Ao vivo</button>
+        </nav>
+    </header>
+
+    <main class="container">
+        <section id="hero-tabela" class="hero">
+            <div class="hero-texto">
+                <p class="hero-kicker">Campeonato Brasileiro</p>
+                <h1>Brasileir&atilde;o <span>2026</span></h1>
+                <p class="hero-subtitulo">Tabela oficial com classifica&ccedil;&atilde;o em tempo real</p>
+                <p id="status" class="info">Carregando...</p>
+            </div>
+            <img id="logo" src="logo do brasil.png" alt="Logo do Brasil">
+        </section>
+
+        <section id="hero-jogos" class="hero hero-jogos hidden">
+            <div class="hero-texto">
+                <p class="hero-kicker">Cobertura em tempo real</p>
+                <h1>Jogos <span>ao vivo</span></h1>
+                <p class="hero-subtitulo">Acompanhe partidas em andamento e os pr&oacute;ximos confrontos do Brasileir&atilde;o</p>
+                <p class="hero-chamada">Ao vivo, placares e agenda dos jogos que ainda v&atilde;o acontecer.</p>
+            </div>
+            <div class="hero-badge">
+                <span class="hero-badge-icone">(( ))</span>
+                <strong>Tempo real</strong>
+            </div>
+        </section>
+
+        <section id="painel-tabela" class="painel">
+            <div class="principal">
+                <div class="secao-titulo">
+                    <h2>Classifica&ccedil;&atilde;o</h2>
+                    <span class="temporada">Temporada 2026</span>
+                </div>
+
+                <table id="tabela">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Time</th>
+                            <th>Pontos</th>
+                            <th>Jogos</th>
+                            <th>Vit&oacute;rias</th>
+                            <th>Empates</th>
+                            <th>Derrotas</th>
+                            <th>Saldo</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+
+            <aside class="sidebar">
+                <section class="card info-card">
+                    <h3>Resumo</h3>
+                    <div class="info-grid">
+                        <div>
+                            <span class="info-label">Rodada</span>
+                            <strong id="rodada-atual">-</strong>
+                        </div>
+                        <div>
+                            <span class="info-label">L&iacute;der</span>
+                            <strong id="lider-time">-</strong>
+                        </div>
+                        <div>
+                            <span class="info-label">Pontos</span>
+                            <strong id="lider-pontos">-</strong>
+                        </div>
+                        <div>
+                            <span class="info-label">Atualizado</span>
+                            <strong id="ultima-atualizacao">-</strong>
+                        </div>
+                    </div>
+                </section>
+
+                <section class="card jogos-card">
+                    <h3>Ao vivo agora</h3>
+                    <div id="jogos-ao-vivo" class="jogos-lista">
+                        <p class="lista-vazia">Carregando jogos...</p>
+                    </div>
+                </section>
+
+                <section class="card jogos-card">
+                    <h3>Rodada atual</h3>
+                    <div id="jogos-rodada" class="jogos-lista">
+                        <p class="lista-vazia">Carregando jogos...</p>
+                    </div>
+                </section>
+
+                <section class="card legenda-card">
+                    <h3>Zonas da Tabela</h3>
+                    <div class="legenda-item">
+                        <span class="legenda-cor libertadores-cor"></span>
+                        <div>
+                            <strong>Libertadores</strong>
+                            <p>1&ordm; ao 4&ordm;</p>
+                        </div>
+                    </div>
+                <div class="legenda-item">
+                    <span class="legenda-cor pre-libertadores-cor"></span>
+                    <div>
+                        <strong>Pr&eacute;-Libertadores</strong>
+                        <p>5&ordm; lugar</p>
+                    </div>
+                </div>
+                <div class="legenda-item">
+                    <span class="legenda-cor sul-americana-cor"></span>
+                    <div>
+                        <strong>Sul-Americana</strong>
+                        <p>6&ordm; ao 11&ordm;</p>
+                    </div>
+                </div>
+                    <div class="legenda-item">
+                        <span class="legenda-cor rebaixamento-cor"></span>
+                        <div>
+                            <strong>Rebaixamento</strong>
+                            <p>17&ordm; ao 20&ordm;</p>
+                        </div>
+                    </div>
+                </section>
+            </aside>
+        </section>
+
+        <section id="painel-jogos" class="painel-jogos hidden">
+            <section class="jogos-destaque">
+                <div class="secao-titulo secao-titulo-jogos">
+                    <h2>Jogos em andamento</h2>
+                    <span class="temporada">Atualiza a cada 30 segundos</span>
+                </div>
+                <div id="jogos-tab-ao-vivo" class="jogos-grade">
+                    <p class="lista-vazia">Carregando jogos ao vivo...</p>
+                </div>
+            </section>
+
+            <section class="jogos-destaque">
+                <div class="secao-titulo secao-titulo-jogos">
+                    <h2>Pr&oacute;ximos jogos</h2>
+                    <span class="temporada">Agenda oficial da competi&ccedil;&atilde;o</span>
+                </div>
+                <div id="jogos-tab-proximos" class="jogos-grade">
+                    <p class="lista-vazia">Carregando pr&oacute;ximos jogos...</p>
+                </div>
+            </section>
+        </section>
+
+        <p class="aviso">
+            Para a API funcionar, abra este projeto em <strong>http://localhost</strong>.
+            Use o arquivo <strong>iniciar-localhost.bat</strong>.
+        </p>
+    </main>
+
+    <script src="tabela.js"></script>
+</body>
+</html>
