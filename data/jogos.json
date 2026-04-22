@@ -857,7 +857,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-22T00:21:08Z",
+      "lastUpdated": "2026-04-21T05:21:07Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -1034,7 +1034,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-22T00:21:08Z",
+      "lastUpdated": "2026-04-21T05:21:07Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-04-22T18:48:54.462Z",
+  "atualizadoEm": "2026-04-22T19:13:26.906Z",
   "origem": "static-json"
 }
