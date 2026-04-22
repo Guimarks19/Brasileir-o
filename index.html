@@ -3,169 +3,316 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tabela do Brasileir&atilde;o</title>
+    <title>Tabela do Brasileirao</title>
     <link rel="stylesheet" href="Tabela.css">
 </head>
 <body>
-    <header class="topbar">
-        <div class="brand">
-            <img id="logo-topo" src="logo do brasil.png" alt="Logo do Brasileir&atilde;o">
-            <span>Brasileir&atilde;o</span>
+    <div id="popup-beta" class="overlay">
+        <div class="modal-card">
+            <p class="hero-kicker">Aviso do desenvolvedor</p>
+            <h2>Beta publica</h2>
+            <p>Eu sou Guilherme Marques Carneiro, desenvolvedor deste projeto.</p>
+            <p>Este site e apenas uma versao beta para estudo, testes e conhecimento.</p>
+            <button id="fechar-popup-beta" type="button">Continuar</button>
         </div>
-        <nav class="menu">
-            <button class="ativo" type="button" data-tab="tabela">Tabela</button>
-            <button type="button" data-tab="jogos">Jogos</button>
-            <button type="button" data-tab="tabela">Classifica&ccedil;&atilde;o</button>
-            <button type="button" data-tab="jogos">Ao vivo</button>
-        </nav>
-    </header>
+    </div>
 
-    <main class="container">
-        <section id="hero-tabela" class="hero">
-            <div class="hero-texto">
-                <p class="hero-kicker">Campeonato Brasileiro</p>
-                <h1>Brasileir&atilde;o <span>2026</span></h1>
-                <p class="hero-subtitulo">Tabela oficial com classifica&ccedil;&atilde;o em tempo real</p>
-                <p id="status" class="info">Carregando...</p>
-            </div>
-            <img id="logo" src="logo do brasil.png" alt="Logo do Brasil">
-        </section>
-
-        <section id="hero-jogos" class="hero hero-jogos hidden">
-            <div class="hero-texto">
-                <p class="hero-kicker">Cobertura em tempo real</p>
-                <h1>Jogos <span>ao vivo</span></h1>
-                <p class="hero-subtitulo">Acompanhe partidas em andamento e os pr&oacute;ximos confrontos do Brasileir&atilde;o</p>
-                <p class="hero-chamada">Ao vivo, placares e agenda dos jogos que ainda v&atilde;o acontecer.</p>
-            </div>
-            <div class="hero-badge">
-                <span class="hero-badge-icone">(( ))</span>
-                <strong>Tempo real</strong>
-            </div>
-        </section>
-
-        <section id="painel-tabela" class="painel">
-            <div class="principal">
-                <div class="secao-titulo">
-                    <h2>Classifica&ccedil;&atilde;o</h2>
-                    <span class="temporada">Temporada 2026</span>
-                </div>
-
-                <table id="tabela">
-                    <thead>
-                        <tr>
-                            <th>#</th>
-                            <th>Time</th>
-                            <th>Pontos</th>
-                            <th>Jogos</th>
-                            <th>Vit&oacute;rias</th>
-                            <th>Empates</th>
-                            <th>Derrotas</th>
-                            <th>Saldo</th>
-                        </tr>
-                    </thead>
-                    <tbody></tbody>
-                </table>
+    <section id="auth-screen" class="auth-screen hidden">
+        <div class="auth-card">
+            <div>
+                <p class="hero-kicker">Acesso obrigatorio</p>
+                <h1>Entrar na beta</h1>
+                <p class="auth-subtitulo">Cadastre um usuario para entrar e liberar a experiencia completa.</p>
             </div>
 
-            <aside class="sidebar">
-                <section class="card info-card">
-                    <h3>Resumo</h3>
-                    <div class="info-grid">
-                        <div>
-                            <span class="info-label">Rodada</span>
-                            <strong id="rodada-atual">-</strong>
-                        </div>
-                        <div>
-                            <span class="info-label">L&iacute;der</span>
-                            <strong id="lider-time">-</strong>
-                        </div>
-                        <div>
-                            <span class="info-label">Pontos</span>
-                            <strong id="lider-pontos">-</strong>
-                        </div>
-                        <div>
-                            <span class="info-label">Atualizado</span>
-                            <strong id="ultima-atualizacao">-</strong>
-                        </div>
-                    </div>
-                </section>
+            <div class="auth-tabs">
+                <button id="tab-cadastro" class="ativo" type="button">Cadastrar</button>
+                <button id="tab-login" type="button">Entrar</button>
+            </div>
 
-                <section class="card jogos-card">
-                    <h3>Ao vivo agora</h3>
-                    <div id="jogos-ao-vivo" class="jogos-lista">
-                        <p class="lista-vazia">Carregando jogos...</p>
-                    </div>
-                </section>
+            <form id="cadastro-form" class="auth-form">
+                <label for="cadastro-usuario">Usuario</label>
+                <input id="cadastro-usuario" type="text" maxlength="18" placeholder="Seu nome" required>
 
-                <section class="card jogos-card">
-                    <h3>Rodada atual</h3>
-                    <div id="jogos-rodada" class="jogos-lista">
-                        <p class="lista-vazia">Carregando jogos...</p>
-                    </div>
-                </section>
+                <label for="cadastro-senha">Senha</label>
+                <input id="cadastro-senha" type="password" maxlength="24" placeholder="Crie uma senha" required>
 
-                <section class="card legenda-card">
-                    <h3>Zonas da Tabela</h3>
-                    <div class="legenda-item">
-                        <span class="legenda-cor libertadores-cor"></span>
-                        <div>
-                            <strong>Libertadores</strong>
-                            <p>1&ordm; ao 4&ordm;</p>
-                        </div>
-                    </div>
-                <div class="legenda-item">
-                    <span class="legenda-cor pre-libertadores-cor"></span>
-                    <div>
-                        <strong>Pr&eacute;-Libertadores</strong>
-                        <p>5&ordm; lugar</p>
-                    </div>
+                <button type="submit">Criar conta e entrar</button>
+            </form>
+
+            <form id="login-form" class="auth-form hidden">
+                <label for="login-usuario">Usuario</label>
+                <input id="login-usuario" type="text" maxlength="18" placeholder="Seu nome" required>
+
+                <label for="login-senha">Senha</label>
+                <input id="login-senha" type="password" maxlength="24" placeholder="Sua senha" required>
+
+                <button type="submit">Entrar</button>
+            </form>
+
+            <p id="auth-mensagem" class="auth-mensagem">Cadastre uma conta para entrar na beta.</p>
+        </div>
+    </section>
+
+    <div id="setup-overlay" class="overlay hidden">
+        <div class="modal-card modal-card-setup">
+            <p class="hero-kicker">Primeira entrada</p>
+            <h2>Monte seu perfil</h2>
+            <p>Escolha seu time favorito e coloque uma foto para entrar no site com tudo pronto.</p>
+
+            <div class="setup-grid">
+                <div class="setup-avatar">
+                    <img id="setup-avatar-preview" src="" alt="Preview do perfil" class="avatar-preview hidden">
+                    <div id="setup-avatar-placeholder" class="avatar-placeholder">+</div>
+                    <label class="upload-label" for="setup-avatar-input">Escolher foto</label>
+                    <input id="setup-avatar-input" type="file" accept="image/*" hidden>
                 </div>
-                <div class="legenda-item">
-                    <span class="legenda-cor sul-americana-cor"></span>
-                    <div>
-                        <strong>Sul-Americana</strong>
-                        <p>6&ordm; ao 11&ordm;</p>
-                    </div>
-                </div>
-                    <div class="legenda-item">
-                        <span class="legenda-cor rebaixamento-cor"></span>
-                        <div>
-                            <strong>Rebaixamento</strong>
-                            <p>17&ordm; ao 20&ordm;</p>
-                        </div>
-                    </div>
-                </section>
-            </aside>
-        </section>
 
-        <section id="painel-jogos" class="painel-jogos hidden">
-            <section class="jogos-destaque">
-                <div class="secao-titulo secao-titulo-jogos">
-                    <h2>Jogos em andamento</h2>
-                    <span class="temporada">Atualiza a cada 30 segundos</span>
+                <div class="setup-form">
+                    <label for="setup-favorito">Time favorito</label>
+                    <select id="setup-favorito">
+                        <option value="">Selecione um time</option>
+                    </select>
+                    <button id="salvar-setup" type="button">Salvar perfil</button>
+                    <button id="fechar-setup" class="card-acao" type="button">Agora nao</button>
                 </div>
-                <div id="jogos-tab-ao-vivo" class="jogos-grade">
-                    <p class="lista-vazia">Carregando jogos ao vivo...</p>
+            </div>
+        </div>
+    </div>
+
+    <div id="app-shell" class="hidden">
+        <header class="topbar">
+            <div class="brand">
+                <img id="logo-topo" src="logo do brasil.png" alt="Logo do Brasileirao">
+                <span>Brasileirao Beta</span>
+            </div>
+
+            <nav class="menu">
+                <button class="ativo" type="button" data-tab="tabela">Tabela</button>
+                <button type="button" data-tab="jogos">Jogos</button>
+                <button type="button" data-tab="beta">Simulador</button>
+            </nav>
+
+            <div class="user-box">
+                <img id="perfil-avatar" class="perfil-avatar hidden" alt="Foto do usuario">
+                <div id="perfil-avatar-placeholder" class="perfil-avatar perfil-avatar-placeholder">?</div>
+                <div class="user-copy">
+                    <strong id="usuario-logado">Visitante</strong>
+                    <span id="saudacao-usuario">Acesso local beta</span>
+                </div>
+                <button id="abrir-setup" class="card-acao" type="button">Perfil</button>
+                <button id="logout-botao" class="card-acao" type="button">Sair</button>
+            </div>
+        </header>
+
+        <main class="container">
+            <section id="hero-tabela" class="hero">
+                <div class="hero-texto">
+                    <p class="hero-kicker">Campeonato Brasileiro</p>
+                    <h1>Brasileirao <span>2026</span></h1>
+                    <p class="hero-subtitulo">Tabela oficial com classificacao em tempo real</p>
+                    <p id="status" class="info">Carregando...</p>
+                </div>
+                <img id="logo" src="logo do brasil.png" alt="Logo do Brasil">
+            </section>
+
+            <section id="hero-jogos" class="hero hero-jogos hidden">
+                <div class="hero-texto">
+                    <p class="hero-kicker">Cobertura em tempo real</p>
+                    <h1>Jogos <span>ao vivo</span></h1>
+                    <p class="hero-subtitulo">Acompanhe partidas em andamento e os proximos confrontos do Brasileirao</p>
+                    <p class="hero-chamada">Ao vivo, placares e agenda dos jogos que ainda vao acontecer.</p>
+                </div>
+                <div class="hero-badge">
+                    <span class="hero-badge-icone">(( ))</span>
+                    <strong>Tempo real</strong>
                 </div>
             </section>
 
-            <section class="jogos-destaque">
-                <div class="secao-titulo secao-titulo-jogos">
-                    <h2>Pr&oacute;ximos jogos</h2>
-                    <span class="temporada">Agenda oficial da competi&ccedil;&atilde;o</span>
+            <section id="hero-beta" class="hero hero-beta hidden">
+                <div class="hero-texto">
+                    <p class="hero-kicker">Versao final beta</p>
+                    <h1>Cenario <span>paralelo</span></h1>
+                    <p class="hero-subtitulo">Escolha placares, recalcule do zero e veja a classificacao mudar na hora</p>
+                    <p class="hero-chamada">O simulador sempre parte da tabela real atual, mas vira uma corrida alternativa conforme voce altera os resultados.</p>
                 </div>
-                <div id="jogos-tab-proximos" class="jogos-grade">
-                    <p class="lista-vazia">Carregando pr&oacute;ximos jogos...</p>
+                <div class="hero-badge">
+                    <span class="hero-badge-icone">01</span>
+                    <strong>Resposta imediata</strong>
                 </div>
             </section>
-        </section>
 
-        <p class="aviso">
-            No GitHub Pages, os dados sao lidos de arquivos JSON da pasta <strong>data</strong>.
-            Em modo local, voce ainda pode usar <strong>iniciar-localhost.bat</strong>.
-        </p>
-    </main>
+            <section id="painel-tabela" class="painel">
+                <div class="principal">
+                    <div class="secao-titulo">
+                        <h2>Classificacao</h2>
+                        <span class="temporada">Temporada 2026</span>
+                    </div>
+
+                    <table id="tabela">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Time</th>
+                                <th>Pontos</th>
+                                <th>Jogos</th>
+                                <th>Vitorias</th>
+                                <th>Empates</th>
+                                <th>Derrotas</th>
+                                <th>Saldo</th>
+                            </tr>
+                        </thead>
+                        <tbody></tbody>
+                    </table>
+                </div>
+
+                <aside class="sidebar">
+                    <section class="card destaque-card">
+                        <div class="card-topo">
+                            <h3>Meu clube</h3>
+                            <button id="limpar-favorito" class="card-acao hidden" type="button">Limpar</button>
+                        </div>
+                        <div id="favorito-card" class="favorito-card">
+                            <p class="lista-vazia">Escolha um time na tabela para marcar como favorito.</p>
+                        </div>
+                    </section>
+
+                    <section class="card info-card">
+                        <h3>Resumo</h3>
+                        <div class="info-grid">
+                            <div>
+                                <span class="info-label">Rodada</span>
+                                <strong id="rodada-atual">-</strong>
+                            </div>
+                            <div>
+                                <span class="info-label">Lider</span>
+                                <strong id="lider-time">-</strong>
+                            </div>
+                            <div>
+                                <span class="info-label">Pontos</span>
+                                <strong id="lider-pontos">-</strong>
+                            </div>
+                            <div>
+                                <span class="info-label">Atualizado</span>
+                                <strong id="ultima-atualizacao">-</strong>
+                            </div>
+                        </div>
+                    </section>
+
+                    <section class="card insights-card">
+                        <h3>Insights</h3>
+                        <div id="insights-lista" class="insights-lista">
+                            <p class="lista-vazia">Carregando insights...</p>
+                        </div>
+                    </section>
+
+                    <section class="card jogos-card">
+                        <h3>Ao vivo agora</h3>
+                        <div id="jogos-ao-vivo" class="jogos-lista">
+                            <p class="lista-vazia">Carregando jogos...</p>
+                        </div>
+                    </section>
+
+                    <section class="card jogos-card">
+                        <h3>Rodada atual</h3>
+                        <div id="jogos-rodada" class="jogos-lista">
+                            <p class="lista-vazia">Carregando jogos...</p>
+                        </div>
+                    </section>
+                </aside>
+            </section>
+
+            <section id="painel-jogos" class="painel-jogos hidden">
+                <section class="jogos-destaque">
+                    <div class="secao-titulo secao-titulo-jogos">
+                        <h2>Jogos em andamento</h2>
+                        <span class="temporada">Atualiza a cada 30 segundos</span>
+                    </div>
+                    <div id="jogos-tab-ao-vivo" class="jogos-grade">
+                        <p class="lista-vazia">Carregando jogos ao vivo...</p>
+                    </div>
+                </section>
+
+                <section class="jogos-destaque">
+                    <div class="secao-titulo secao-titulo-jogos">
+                        <h2>Proximos jogos</h2>
+                        <span class="temporada">Agenda oficial da competicao</span>
+                    </div>
+                    <div id="jogos-tab-proximos" class="jogos-grade">
+                        <p class="lista-vazia">Carregando proximos jogos...</p>
+                    </div>
+                </section>
+            </section>
+
+            <section id="painel-beta" class="painel-beta hidden">
+                <section class="card beta-coluna beta-coluna-tabela">
+                    <div class="secao-titulo">
+                        <h2>Classificacao simulada</h2>
+                        <span class="temporada">Cenario paralelo</span>
+                    </div>
+                    <div class="simulador-aviso">Cada placar escolhido mexe apenas numa copia da tabela atual. Nada altera os dados reais.</div>
+                    <div id="simulador-tabela" class="simulador-tabela">
+                        <p class="lista-vazia">A tabela simulada aparece aqui.</p>
+                    </div>
+                </section>
+
+                <section class="card beta-coluna beta-coluna-centro">
+                    <div class="secao-titulo">
+                        <h2>Simulador</h2>
+                        <span id="simulador-rodada-label" class="temporada">Rodada atual</span>
+                    </div>
+
+                    <div class="simulador-topbar">
+                        <div id="simulador-resumo" class="simulador-resumo">Selecione os resultados e acompanhe a tabela subindo e descendo na hora.</div>
+                        <div class="simulador-topbar-acoes">
+                            <button id="toggle-game-mode" class="card-acao" type="button">Modo Game: Off</button>
+                            <button id="reset-simulador" class="card-acao" type="button">Reiniciar</button>
+                        </div>
+                    </div>
+
+                    <div id="simulador-jogos-lista" class="simulador-jogos-lista">
+                        <p class="lista-vazia">Assim que os jogos carregarem, a lista de simulacao aparece aqui.</p>
+                    </div>
+                </section>
+
+                <aside class="beta-lateral">
+                    <section class="card beta-coluna">
+                        <div class="secao-titulo">
+                            <h2>Seu time</h2>
+                            <span class="temporada">Favorito</span>
+                        </div>
+                        <div id="simulador-time-card" class="simulador-time-card">
+                            <p class="lista-vazia">Escolha um time favorito para acompanhar seu cenario paralelo.</p>
+                        </div>
+                    </section>
+
+                    <section class="card beta-coluna">
+                        <div class="secao-titulo">
+                            <h2>Destaques</h2>
+                            <span class="temporada">Leitura rapida</span>
+                        </div>
+                        <div id="simulador-destaques" class="simulador-destaques">
+                            <p class="lista-vazia">Os destaques do simulador aparecem aqui.</p>
+                        </div>
+                    </section>
+
+                    <section id="game-mode-card" class="card beta-coluna hidden">
+                        <div class="secao-titulo">
+                            <h2>Modo Game</h2>
+                            <span class="temporada">Mini jogo</span>
+                        </div>
+                        <div id="game-objetivo" class="destaque-item">
+                            <strong>Objetivo</strong>
+                            <p>Ative o Modo Game para gerar objetivos e mensagens dinamicas.</p>
+                        </div>
+                        <div id="game-mensagens" class="simulador-destaques">
+                            <p class="lista-vazia">As mensagens do modo game aparecem aqui.</p>
+                        </div>
+                    </section>
+                </aside>
+            </section>
+        </main>
+    </div>
 
     <script src="tabela.js"></script>
 </body>
