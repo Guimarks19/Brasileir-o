@@ -1,1 +1,12 @@
-{"name":"brasileirao-app","version":"1.0.0","type":"commonjs","dependencies":{"playwright":"^1.59.1"}}
+{
+  "name": "brasileirao-app",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "update-data": "node scripts/gerar-dados-estaticos.js"
+  },
+  "dependencies": {
+    "playwright": "^1.59.1"
+  }
+}

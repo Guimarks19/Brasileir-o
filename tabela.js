@@ -1,5 +1,6 @@
-const API_URL = "/api/tabela";
-const JOGOS_URL = "/api/jogos";
+const EM_LOCALHOST = ["localhost", "127.0.0.1"].includes(window.location.hostname);
+const API_URL = EM_LOCALHOST ? "/api/tabela" : "./data/tabela.json";
+const JOGOS_URL = EM_LOCALHOST ? "/api/jogos" : "./data/jogos.json";
 const POS_JOGO_URL = "/api/estatisticas-pos-jogo";
 const TIMES_CUSTOMIZADOS = {
     1768: {
@@ -28,6 +29,21 @@ function atualizarStatus(mensagem, tipo = "info") {
     if (!statusEl) return;
     statusEl.textContent = mensagem;
     statusEl.className = tipo;
+}
+
+function formatarHorarioAtualizacao(isoString) {
+    const data = isoString ? new Date(isoString) : new Date();
+
+    if (Number.isNaN(data.getTime())) {
+        return "-";
+    }
+
+    return data.toLocaleString("pt-BR", {
+        day: "2-digit",
+        month: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit"
+    });
 }
 
 function criarLinhaTime(time) {
@@ -99,32 +115,102 @@ function formatarDataHora(utcDate) {
     });
 }
 
+function gerarHtmlEstatisticasPosJogo(estatisticas) {
+    if (!estatisticas || (!estatisticas.xg && !estatisticas.posse && !estatisticas.chutesTotais)) {
+        return `
+            <div class="jogo-estatisticas">
+                <p class="pos-jogo-vazio">Estatisticas pos-jogo indisponiveis.</p>
+            </div>
+        `;
+    }
+
+    const itens = [];
+
+    if (estatisticas.xg) {
+        itens.push({
+            label: "xG",
+            mandante: estatisticas.xg.mandante,
+            visitante: estatisticas.xg.visitante
+        });
+    }
+
+    if (estatisticas.posse) {
+        itens.push({
+            label: "Posse",
+            mandante: estatisticas.posse.mandante,
+            visitante: estatisticas.posse.visitante
+        });
+    }
+
+    if (estatisticas.chutesTotais) {
+        itens.push({
+            label: "Chutes",
+            mandante: estatisticas.chutesTotais.mandante,
+            visitante: estatisticas.chutesTotais.visitante
+        });
+    }
+
+    return `
+        <div class="jogo-estatisticas">
+            <div class="pos-jogo-cabecalho">
+                <strong>Estatisticas pos-jogo</strong>
+                <span>${estatisticas.fonte || ""}</span>
+            </div>
+            <div class="pos-jogo-grid">
+                ${itens
+                    .map(
+                        (item) => `
+                            <div class="pos-jogo-linha">
+                                <span>${item.mandante}</span>
+                                <small>${item.label}</small>
+                                <span>${item.visitante}</span>
+                            </div>
+                        `
+                    )
+                    .join("")}
+            </div>
+        </div>
+    `;
+}
+
+function criarPlaceholderEstatisticas(jogo) {
+    return `
+        <div
+            class="jogo-estatisticas carregando"
+            data-pos-jogo="1"
+            data-match-id="${jogo.id}"
+            data-status="${jogo.status}"
+            data-utc-date="${jogo.utcDate}"
+            data-home-team-id="${jogo.homeTeam.id}"
+            data-home-team-name="${jogo.homeTeam.name}"
+            data-home-team-short-name="${jogo.homeTeam.shortName || ""}"
+            data-away-team-id="${jogo.awayTeam.id}"
+            data-away-team-name="${jogo.awayTeam.name}"
+            data-away-team-short-name="${jogo.awayTeam.shortName || ""}"
+        >
+            Carregando estatisticas pos-jogo...
+        </div>
+    `;
+}
+
+function criarHtmlEstatisticas(jogo) {
+    if (jogo.postMatchStats) {
+        return gerarHtmlEstatisticasPosJogo(jogo.postMatchStats);
+    }
+
+    if (EM_LOCALHOST && jogo.status === "FINISHED") {
+        return criarPlaceholderEstatisticas(jogo);
+    }
+
+    return "";
+}
+
 function criarCardJogo(jogo) {
     const mandante = obterTimePersonalizado(jogo.homeTeam);
     const visitante = obterTimePersonalizado(jogo.awayTeam);
     const status = formatarStatusJogo(jogo);
     const golsMandante = jogo.score?.fullTime?.home ?? "-";
     const golsVisitante = jogo.score?.fullTime?.away ?? "-";
-    const estatisticasHtml =
-        jogo.status === "FINISHED"
-            ? `
-                <div
-                    class="jogo-estatisticas carregando"
-                    data-pos-jogo="1"
-                    data-match-id="${jogo.id}"
-                    data-status="${jogo.status}"
-                    data-utc-date="${jogo.utcDate}"
-                    data-home-team-id="${jogo.homeTeam.id}"
-                    data-home-team-name="${jogo.homeTeam.name}"
-                    data-home-team-short-name="${jogo.homeTeam.shortName || ""}"
-                    data-away-team-id="${jogo.awayTeam.id}"
-                    data-away-team-name="${jogo.awayTeam.name}"
-                    data-away-team-short-name="${jogo.awayTeam.shortName || ""}"
-                >
-                    Carregando estatisticas pos-jogo...
-                </div>
-            `
-            : "";
 
     return `
         <article class="jogo-item">
@@ -147,7 +233,7 @@ function criarCardJogo(jogo) {
                     <img src="${visitante.escudo}" alt="Escudo do ${visitante.nome}">
                 </div>
             </div>
-            ${estatisticasHtml}
+            ${criarHtmlEstatisticas(jogo)}
         </article>
     `;
 }
@@ -163,26 +249,6 @@ function criarCardJogoGrande(jogo, tipo) {
         tipo === "ao-vivo"
             ? "Partida em andamento agora"
             : `Comeca em ${formatarDataHora(jogo.utcDate)}`;
-    const estatisticasHtml =
-        jogo.status === "FINISHED"
-            ? `
-                <div
-                    class="jogo-estatisticas carregando"
-                    data-pos-jogo="1"
-                    data-match-id="${jogo.id}"
-                    data-status="${jogo.status}"
-                    data-utc-date="${jogo.utcDate}"
-                    data-home-team-id="${jogo.homeTeam.id}"
-                    data-home-team-name="${jogo.homeTeam.name}"
-                    data-home-team-short-name="${jogo.homeTeam.shortName || ""}"
-                    data-away-team-id="${jogo.awayTeam.id}"
-                    data-away-team-name="${jogo.awayTeam.name}"
-                    data-away-team-short-name="${jogo.awayTeam.shortName || ""}"
-                >
-                    Carregando estatisticas pos-jogo...
-                </div>
-            `
-            : "";
 
     return `
         <article class="jogo-item grande">
@@ -206,7 +272,7 @@ function criarCardJogoGrande(jogo, tipo) {
                 </div>
             </div>
             <div class="jogo-extra">${extra}</div>
-            ${estatisticasHtml}
+            ${criarHtmlEstatisticas(jogo)}
         </article>
     `;
 }
@@ -236,63 +302,15 @@ function preencherGradeJogos(elemento, jogos, mensagemVazia, tipo) {
 function renderizarEstatisticasPosJogo(elemento, estatisticas) {
     if (!elemento) return;
 
-    if (!estatisticas || (!estatisticas.xg && !estatisticas.posse && !estatisticas.chutesTotais)) {
-        elemento.classList.remove("carregando");
-        elemento.innerHTML = `
-            <p class="pos-jogo-vazio">Estatisticas pos-jogo indisponiveis.</p>
-        `;
-        return;
-    }
-
-    const itens = [];
-
-    if (estatisticas.xg) {
-        itens.push({
-            label: "xG",
-            mandante: estatisticas.xg.mandante,
-            visitante: estatisticas.xg.visitante
-        });
-    }
-
-    if (estatisticas.posse) {
-        itens.push({
-            label: "Posse",
-            mandante: estatisticas.posse.mandante,
-            visitante: estatisticas.posse.visitante
-        });
-    }
-
-    if (estatisticas.chutesTotais) {
-        itens.push({
-            label: "Chutes",
-            mandante: estatisticas.chutesTotais.mandante,
-            visitante: estatisticas.chutesTotais.visitante
-        });
-    }
-
     elemento.classList.remove("carregando");
-    elemento.innerHTML = `
-        <div class="pos-jogo-cabecalho">
-            <strong>Estatisticas pos-jogo</strong>
-            <span>${estatisticas.fonte || ""}</span>
-        </div>
-        <div class="pos-jogo-grid">
-            ${itens
-                .map(
-                    (item) => `
-                        <div class="pos-jogo-linha">
-                            <span>${item.mandante}</span>
-                            <small>${item.label}</small>
-                            <span>${item.visitante}</span>
-                        </div>
-                    `
-                )
-                .join("")}
-        </div>
-    `;
+    elemento.outerHTML = gerarHtmlEstatisticasPosJogo(estatisticas);
 }
 
 async function carregarEstatisticasPosJogo() {
+    if (!EM_LOCALHOST) {
+        return;
+    }
+
     const blocos = document.querySelectorAll("[data-pos-jogo='1']:not([data-carregado='1'])");
 
     for (const bloco of blocos) {
@@ -344,6 +362,17 @@ function ativarTab(tab) {
     painelJogosEl?.classList.toggle("hidden", !mostrarJogos);
 }
 
+function obterTabelaPrincipal(data) {
+    return data.standings?.find((item) => item.type === "TOTAL")?.table ?? [];
+}
+
+function enriquecerJogosComEstatisticas(jogos, estatisticasPorJogo) {
+    return jogos.map((jogo) => ({
+        ...jogo,
+        postMatchStats: jogo.postMatchStats || estatisticasPorJogo[String(jogo.id)] || null
+    }));
+}
+
 async function carregarTabela() {
     if (!tbody) {
         console.error("Tabela nao encontrada no HTML.");
@@ -351,40 +380,44 @@ async function carregarTabela() {
         return;
     }
 
-    atualizarStatus("Carregando tabela do Brasileirao...");
+    atualizarStatus(
+        EM_LOCALHOST
+            ? "Carregando tabela do Brasileirao..."
+            : "Carregando dados publicados no GitHub...",
+        "info"
+    );
 
     try {
         const resposta = await fetch(API_URL, {
             cache: "no-store"
         });
-
         const data = await resposta.json();
 
         if (!resposta.ok) {
             throw new Error(data.erro || `Erro ${resposta.status}`);
         }
 
-        const tabela = data.standings.find((item) => item.type === "TOTAL")?.table ?? [];
+        const tabela = obterTabelaPrincipal(data);
 
         tbody.innerHTML = "";
-
         tabela.forEach((time) => {
             tbody.appendChild(criarLinhaTime(time));
         });
 
         const lider = tabela[0];
-        const rodada = data.season?.currentMatchday ?? "-";
-        const agora = new Date().toLocaleTimeString("pt-BR", {
-            hour: "2-digit",
-            minute: "2-digit"
-        });
+        const rodada = data.season?.currentMatchday ?? data.rodadaAtual ?? "-";
 
         if (rodadaEl) rodadaEl.textContent = rodada;
         if (liderTimeEl) liderTimeEl.textContent = lider?.team?.shortName || lider?.team?.name || "-";
         if (liderPontosEl) liderPontosEl.textContent = lider?.points ?? "-";
-        if (atualizacaoEl) atualizacaoEl.textContent = agora;
+        if (atualizacaoEl) atualizacaoEl.textContent = formatarHorarioAtualizacao(data.atualizadoEm);
 
-        atualizarStatus(`Dados atualizados. Rodada atual: ${rodada}.`, "sucesso");
+        atualizarStatus(
+            EM_LOCALHOST
+                ? `Dados atualizados. Rodada atual: ${rodada}.`
+                : `Dados publicados carregados. Rodada atual: ${rodada}.`,
+            "sucesso"
+        );
     } catch (erro) {
         console.error("Erro ao carregar tabela:", erro);
         atualizarStatus("Nao foi possivel carregar os dados dos times.", "erro");
@@ -402,22 +435,15 @@ async function carregarJogos() {
             throw new Error(data.erro || `Erro ${resposta.status}`);
         }
 
-        const aoVivo = data.aoVivo || [];
-        const rodada = data.rodada || [];
-        const proximos = data.proximos || [];
+        const estatisticasPorJogo = data.estatisticasPosJogo || {};
+        const aoVivo = enriquecerJogosComEstatisticas(data.aoVivo || [], estatisticasPorJogo);
+        const rodada = enriquecerJogosComEstatisticas(data.rodada || [], estatisticasPorJogo);
+        const proximos = enriquecerJogosComEstatisticas(data.proximos || [], estatisticasPorJogo);
         const jogosRodada = rodada.slice(0, 6);
         const proximosJogos = proximos.slice(0, 6);
 
-        preencherListaJogos(
-            jogosAoVivoEl,
-            aoVivo,
-            "Nao ha jogos ao vivo no momento."
-        );
-        preencherListaJogos(
-            jogosRodadaEl,
-            jogosRodada,
-            "Nao foi possivel carregar os jogos da rodada."
-        );
+        preencherListaJogos(jogosAoVivoEl, aoVivo, "Nao ha jogos ao vivo no momento.");
+        preencherListaJogos(jogosRodadaEl, jogosRodada, "Nao foi possivel carregar os jogos da rodada.");
         preencherGradeJogos(
             jogosTabAoVivoEl,
             aoVivo,
@@ -430,19 +456,12 @@ async function carregarJogos() {
             "Nao foi possivel carregar os proximos jogos.",
             "proximos"
         );
+
         carregarEstatisticasPosJogo();
     } catch (erro) {
         console.error("Erro ao carregar jogos:", erro);
-        preencherListaJogos(
-            jogosAoVivoEl,
-            [],
-            "Nao foi possivel carregar os jogos ao vivo."
-        );
-        preencherListaJogos(
-            jogosRodadaEl,
-            [],
-            "Nao foi possivel carregar os jogos da rodada."
-        );
+        preencherListaJogos(jogosAoVivoEl, [], "Nao foi possivel carregar os jogos ao vivo.");
+        preencherListaJogos(jogosRodadaEl, [], "Nao foi possivel carregar os jogos da rodada.");
         preencherGradeJogos(
             jogosTabAoVivoEl,
             [],

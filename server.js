@@ -349,7 +349,7 @@ const servidor = http.createServer((req, res) => {
         return;
     }
 
-    const urlPath = pathname === "/" ? "/Tabela.html" : pathname;
+    const urlPath = pathname === "/" ? "/index.html" : pathname;
     const filePath = path.join(baseDir, urlPath);
 
     if (!filePath.startsWith(baseDir)) {
