@@ -20,7 +20,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554862,
@@ -29,7 +29,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-25T23:43:55Z",
+      "lastUpdated": "2026-04-26T01:38:55Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -54,18 +54,6 @@
         "halfTime": {
           "home": 0,
           "away": 2
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -98,7 +86,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554863,
@@ -107,7 +95,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-25T23:32:45Z",
+      "lastUpdated": "2026-04-26T01:27:45Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -130,18 +118,6 @@
           "away": 2
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
           "home": 0,
           "away": 0
         }
@@ -176,7 +152,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554868,
@@ -185,7 +161,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-25T23:35:05Z",
+      "lastUpdated": "2026-04-26T01:30:05Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -210,18 +186,6 @@
         "halfTime": {
           "home": 0,
           "away": 1
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -254,7 +218,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554869,
@@ -332,7 +296,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554865,
@@ -341,7 +305,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-21T05:21:07Z",
+      "lastUpdated": "2026-04-25T20:20:48Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -391,7 +355,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554867,
@@ -400,7 +364,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-20T01:32:05Z",
+      "lastUpdated": "2026-04-26T01:32:01Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -450,7 +414,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554860,
@@ -459,7 +423,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-20T01:32:05Z",
+      "lastUpdated": "2026-04-26T01:32:01Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -509,7 +473,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554864,
@@ -518,7 +482,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-21T05:21:07Z",
+      "lastUpdated": "2026-04-25T20:20:48Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -568,7 +532,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554861,
@@ -577,7 +541,7 @@
       "matchday": 13,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-21T05:21:07Z",
+      "lastUpdated": "2026-04-26T01:32:01Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -627,7 +591,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 13,
         "winner": null
       },
       "id": 554866,
@@ -1144,6 +1108,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-04-26T15:08:29.513Z",
+  "atualizadoEm": "2026-04-26T16:05:58.442Z",
   "origem": "static-json"
 }
