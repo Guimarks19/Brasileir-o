@@ -654,22 +654,10 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 1
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
           "home": 0,
           "away": 0
         }
@@ -1162,6 +1150,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-04-27T18:49:05.137Z",
+  "atualizadoEm": "2026-04-27T20:08:03.393Z",
   "origem": "static-json"
 }
