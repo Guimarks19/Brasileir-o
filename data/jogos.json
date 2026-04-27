@@ -20,7 +20,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554862,
@@ -98,7 +98,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554863,
@@ -176,7 +176,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554868,
@@ -254,7 +254,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554869,
@@ -332,7 +332,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554865,
@@ -410,7 +410,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554867,
@@ -488,7 +488,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554860,
@@ -566,7 +566,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554864,
@@ -644,7 +644,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554861,
@@ -722,7 +722,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554866,
@@ -1258,6 +1258,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-04-27T04:07:00.214Z",
+  "atualizadoEm": "2026-04-27T07:14:28.978Z",
   "origem": "static-json"
 }
