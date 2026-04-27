@@ -654,22 +654,10 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 1
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
           "home": 0,
           "away": 0
         }
@@ -706,7 +694,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554871,
@@ -715,7 +703,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:02Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -765,7 +753,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554877,
@@ -774,7 +762,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:02Z",
+      "lastUpdated": "2026-04-21T05:21:07Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -824,7 +812,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554879,
@@ -833,7 +821,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:02Z",
+      "lastUpdated": "2026-04-10T15:21:22Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -883,7 +871,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554870,
@@ -892,7 +880,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:02Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -942,7 +930,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554873,
@@ -951,7 +939,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:03Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -1001,7 +989,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554874,
@@ -1010,7 +998,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:04Z",
+      "lastUpdated": "2026-04-21T05:21:07Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -1060,7 +1048,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554878,
@@ -1069,7 +1057,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:04Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -1119,7 +1107,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 13,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554872,
@@ -1128,7 +1116,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-27T01:32:04Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -1162,6 +1150,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-04-27T22:52:15.106Z",
+  "atualizadoEm": "2026-04-27T23:53:33.345Z",
   "origem": "static-json"
 }
