@@ -62,9 +62,9 @@
           "draw": 2,
           "lost": 2,
           "points": 26,
-          "goalsFor": 21,
+          "goalsFor": 24,
           "goalsAgainst": 10,
-          "goalDifference": 11
+          "goalDifference": 14
         },
         {
           "position": 3,
@@ -77,13 +77,13 @@
           },
           "playedGames": 13,
           "form": null,
-          "won": 7,
-          "draw": 3,
+          "won": 8,
+          "draw": 2,
           "lost": 3,
-          "points": 24,
-          "goalsFor": 21,
-          "goalsAgainst": 15,
-          "goalDifference": 6
+          "points": 26,
+          "goalsFor": 23,
+          "goalsAgainst": 16,
+          "goalDifference": 7
         },
         {
           "position": 4,
@@ -310,8 +310,8 @@
           "lost": 7,
           "points": 14,
           "goalsFor": 14,
-          "goalsAgainst": 16,
-          "goalDifference": -2
+          "goalsAgainst": 19,
+          "goalDifference": -5
         },
         {
           "position": 16,
@@ -373,25 +373,6 @@
         {
           "position": 19,
           "team": {
-            "id": 1772,
-            "name": "Chapecoense AF",
-            "shortName": "Chapecoense",
-            "tla": "CHA",
-            "crest": "https://crests.football-data.org/1772_large.png"
-          },
-          "playedGames": 12,
-          "form": null,
-          "won": 1,
-          "draw": 6,
-          "lost": 5,
-          "points": 9,
-          "goalsFor": 11,
-          "goalsAgainst": 22,
-          "goalDifference": -11
-        },
-        {
-          "position": 20,
-          "team": {
             "id": 4287,
             "name": "Clube do Remo",
             "shortName": "Clube do Remo",
@@ -407,10 +388,29 @@
           "goalsFor": 13,
           "goalsAgainst": 23,
           "goalDifference": -10
+        },
+        {
+          "position": 20,
+          "team": {
+            "id": 1772,
+            "name": "Chapecoense AF",
+            "shortName": "Chapecoense",
+            "tla": "CHA",
+            "crest": "https://crests.football-data.org/1772_large.png"
+          },
+          "playedGames": 12,
+          "form": null,
+          "won": 1,
+          "draw": 5,
+          "lost": 6,
+          "points": 8,
+          "goalsFor": 12,
+          "goalsAgainst": 24,
+          "goalDifference": -12
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-04-27T00:04:31.825Z",
+  "atualizadoEm": "2026-04-27T04:07:00.214Z",
   "origem": "static-json"
 }
