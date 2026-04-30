@@ -612,7 +612,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554871,
@@ -671,7 +671,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554877,
@@ -680,7 +680,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-21T05:21:07Z",
+      "lastUpdated": "2026-04-11T15:20:35Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -730,7 +730,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554879,
@@ -789,7 +789,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554870,
@@ -848,7 +848,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554873,
@@ -907,7 +907,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554874,
@@ -916,7 +916,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-21T05:21:07Z",
+      "lastUpdated": "2026-04-11T15:20:35Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -966,7 +966,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554878,
@@ -1025,7 +1025,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 11,
         "winner": null
       },
       "id": 554872,
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-04-30T10:55:40.555Z",
+  "atualizadoEm": "2026-04-30T12:16:03.212Z",
   "origem": "static-json"
 }
