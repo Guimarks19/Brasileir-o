@@ -62,9 +62,9 @@
           "draw": 2,
           "lost": 2,
           "points": 29,
-          "goalsFor": 25,
+          "goalsFor": 26,
           "goalsAgainst": 10,
-          "goalDifference": 15
+          "goalDifference": 16
         },
         {
           "position": 3,
@@ -96,13 +96,13 @@
           },
           "playedGames": 14,
           "form": null,
-          "won": 8,
-          "draw": 2,
+          "won": 7,
+          "draw": 3,
           "lost": 4,
-          "points": 26,
+          "points": 24,
           "goalsFor": 18,
-          "goalsAgainst": 11,
-          "goalDifference": 7
+          "goalsAgainst": 12,
+          "goalDifference": 6
         },
         {
           "position": 5,
@@ -135,12 +135,12 @@
           "playedGames": 13,
           "form": null,
           "won": 6,
-          "draw": 3,
-          "lost": 4,
-          "points": 21,
-          "goalsFor": 17,
+          "draw": 4,
+          "lost": 3,
+          "points": 22,
+          "goalsFor": 18,
           "goalsAgainst": 15,
-          "goalDifference": 2
+          "goalDifference": 3
         },
         {
           "position": 7,
@@ -272,8 +272,8 @@
           "lost": 6,
           "points": 16,
           "goalsFor": 18,
-          "goalsAgainst": 20,
-          "goalDifference": -2
+          "goalsAgainst": 21,
+          "goalDifference": -3
         },
         {
           "position": 14,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-03T19:33:23.454Z",
+  "atualizadoEm": "2026-05-03T20:42:12.454Z",
   "origem": "static-json"
 }
