@@ -56,15 +56,15 @@
             "tla": "FLA",
             "crest": "https://crests.football-data.org/1783.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
-          "won": 8,
+          "won": 9,
           "draw": 2,
           "lost": 2,
-          "points": 26,
-          "goalsFor": 24,
+          "points": 29,
+          "goalsFor": 25,
           "goalsAgainst": 10,
-          "goalDifference": 14
+          "goalDifference": 15
         },
         {
           "position": 3,
@@ -94,15 +94,15 @@
             "tla": "PAU",
             "crest": "https://crests.football-data.org/1776.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
-          "won": 7,
+          "won": 8,
           "draw": 2,
           "lost": 4,
-          "points": 23,
-          "goalsFor": 17,
+          "points": 26,
+          "goalsFor": 18,
           "goalsAgainst": 11,
-          "goalDifference": 6
+          "goalDifference": 7
         },
         {
           "position": 5,
@@ -132,15 +132,15 @@
             "tla": "BAH",
             "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 12,
+          "playedGames": 13,
           "form": null,
           "won": 6,
           "draw": 3,
-          "lost": 3,
+          "lost": 4,
           "points": 21,
           "goalsFor": 17,
-          "goalsAgainst": 14,
-          "goalDifference": 3
+          "goalsAgainst": 15,
+          "goalDifference": 2
         },
         {
           "position": 7,
@@ -265,15 +265,15 @@
             "tla": "VAS",
             "crest": "https://crests.football-data.org/1780.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 4,
           "draw": 4,
-          "lost": 5,
+          "lost": 6,
           "points": 16,
           "goalsFor": 18,
-          "goalsAgainst": 19,
-          "goalDifference": -1
+          "goalsAgainst": 20,
+          "goalDifference": -2
         },
         {
           "position": 14,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-03T18:10:46.635Z",
+  "atualizadoEm": "2026-05-03T19:33:23.454Z",
   "origem": "static-json"
 }
