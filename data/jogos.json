@@ -22,36 +22,36 @@
         "currentMatchday": 14,
         "winner": null
       },
-      "id": 554874,
-      "utcDate": "2026-05-03T19:00:00Z",
+      "id": 554872,
+      "utcDate": "2026-05-03T21:30:00Z",
       "status": "IN_PLAY",
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-03T20:24:41Z",
+      "lastUpdated": "2026-05-03T21:35:30Z",
       "homeTeam": {
-        "id": 1783,
-        "name": "CR Flamengo",
-        "shortName": "Flamengo",
-        "tla": "FLA",
-        "crest": "https://crests.football-data.org/1783.png"
+        "id": 1772,
+        "name": "Chapecoense AF",
+        "shortName": "Chapecoense",
+        "tla": "CHA",
+        "crest": "https://crests.football-data.org/1772_large.png"
       },
       "awayTeam": {
-        "id": 1780,
-        "name": "CR Vasco da Gama",
-        "shortName": "Vasco da Gama",
-        "tla": "VAS",
-        "crest": "https://crests.football-data.org/1780.png"
+        "id": 4286,
+        "name": "RB Bragantino",
+        "shortName": "Bragantino",
+        "tla": "RBB",
+        "crest": "https://crests.football-data.org/4286.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 0,
           "away": 0
         },
         "halfTime": {
-          "home": 1,
+          "home": 0,
           "away": 0
         },
         "regularTime": {
@@ -72,8 +72,8 @@
       },
       "referees": [
         {
-          "id": 11412,
-          "name": "Wilton Sampaio",
+          "id": 206954,
+          "name": "Paulo Zanovelli da Silva",
           "type": "REFEREE",
           "nationality": "Brazil"
         }
@@ -100,36 +100,36 @@
         "currentMatchday": 14,
         "winner": null
       },
-      "id": 554878,
-      "utcDate": "2026-05-03T19:00:00Z",
+      "id": 554875,
+      "utcDate": "2026-05-03T21:30:00Z",
       "status": "IN_PLAY",
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-03T20:39:05Z",
+      "lastUpdated": "2026-05-03T21:35:30Z",
       "homeTeam": {
-        "id": 1776,
-        "name": "São Paulo FC",
-        "shortName": "São Paulo",
-        "tla": "PAU",
-        "crest": "https://crests.football-data.org/1776.png"
+        "id": 6684,
+        "name": "SC Internacional",
+        "shortName": "Internacional",
+        "tla": "SCI",
+        "crest": "https://crests.football-data.org/6684.png"
       },
       "awayTeam": {
-        "id": 1777,
-        "name": "EC Bahia",
-        "shortName": "Bahia",
-        "tla": "BAH",
-        "crest": "https://crests.football-data.org/1777.png"
+        "id": 1765,
+        "name": "Fluminense FC",
+        "shortName": "Fluminense",
+        "tla": "FLU",
+        "crest": "https://crests.football-data.org/1765.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 1
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": 1,
+          "home": 0,
           "away": 0
         },
         "regularTime": {
@@ -150,8 +150,8 @@
       },
       "referees": [
         {
-          "id": 244605,
-          "name": "Davi de Oliveira Lacerda",
+          "id": 60899,
+          "name": "Felipe Fernandes de Lima",
           "type": "REFEREE",
           "nationality": "Brazil"
         }
@@ -177,7 +177,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554871,
@@ -186,7 +186,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-02T21:07:23Z",
+      "lastUpdated": "2026-05-02T23:02:23Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -210,18 +210,6 @@
         },
         "halfTime": {
           "home": 1,
-          "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
           "away": 0
         }
       },
@@ -255,7 +243,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554877,
@@ -264,7 +252,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-02T23:37:03Z",
+      "lastUpdated": "2026-05-03T01:32:03Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -280,27 +268,15 @@
         "crest": "https://crests.football-data.org/6685.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
           "home": 0,
           "away": 1
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -333,7 +309,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554879,
@@ -342,7 +318,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-02T23:29:04Z",
+      "lastUpdated": "2026-05-03T01:24:04Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -367,18 +343,6 @@
         "halfTime": {
           "home": 2,
           "away": 1
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -411,7 +375,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554870,
@@ -443,18 +407,6 @@
           "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
           "home": 0,
           "away": 0
         }
@@ -489,7 +441,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554873,
@@ -567,16 +519,16 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554874,
       "utcDate": "2026-05-03T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-03T20:24:41Z",
+      "lastUpdated": "2026-05-03T21:04:39Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -592,11 +544,11 @@
         "crest": "https://crests.football-data.org/1780.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -645,16 +597,16 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554878,
       "utcDate": "2026-05-03T19:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-03T20:39:05Z",
+      "lastUpdated": "2026-05-03T21:07:43Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -670,11 +622,11 @@
         "crest": "https://crests.football-data.org/1777.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -723,16 +675,16 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554872,
       "utcDate": "2026-05-03T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-03T21:35:30Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -748,15 +700,27 @@
         "crest": "https://crests.football-data.org/4286.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
+        },
+        "regularTime": {
+          "home": 0,
+          "away": 0
+        },
+        "extraTime": {
+          "home": 0,
+          "away": 0
+        },
+        "penalties": {
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -789,16 +753,16 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554875,
       "utcDate": "2026-05-03T21:30:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-03T21:35:30Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -814,15 +778,27 @@
         "crest": "https://crests.football-data.org/1765.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
+        },
+        "regularTime": {
+          "home": 0,
+          "away": 0
+        },
+        "extraTime": {
+          "home": 0,
+          "away": 0
+        },
+        "penalties": {
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -855,7 +831,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554876,
@@ -864,7 +840,7 @@
       "matchday": 14,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-11T15:20:35Z",
+      "lastUpdated": "2026-05-03T01:32:01Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -894,7 +870,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206929,
+          "name": "Matheus Delgado Candançan",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     }
   ],
   "proximos": [
@@ -919,138 +902,6 @@
         "currentMatchday": 14,
         "winner": null
       },
-      "id": 554872,
-      "utcDate": "2026-05-03T21:30:00Z",
-      "status": "TIMED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-04-28T01:32:03Z",
-      "homeTeam": {
-        "id": 1772,
-        "name": "Chapecoense AF",
-        "shortName": "Chapecoense",
-        "tla": "CHA",
-        "crest": "https://crests.football-data.org/1772_large.png"
-      },
-      "awayTeam": {
-        "id": 4286,
-        "name": "RB Bragantino",
-        "shortName": "Bragantino",
-        "tla": "RBB",
-        "crest": "https://crests.football-data.org/4286.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 206954,
-          "name": "Paulo Zanovelli da Silva",
-          "type": "REFEREE",
-          "nationality": "Brazil"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 14,
-        "winner": null
-      },
-      "id": 554875,
-      "utcDate": "2026-05-03T21:30:00Z",
-      "status": "TIMED",
-      "matchday": 14,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-05-03T01:32:01Z",
-      "homeTeam": {
-        "id": 6684,
-        "name": "SC Internacional",
-        "shortName": "Internacional",
-        "tla": "SCI",
-        "crest": "https://crests.football-data.org/6684.png"
-      },
-      "awayTeam": {
-        "id": 1765,
-        "name": "Fluminense FC",
-        "shortName": "Fluminense",
-        "tla": "FLU",
-        "crest": "https://crests.football-data.org/1765.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 60899,
-          "name": "Felipe Fernandes de Lima",
-          "type": "REFEREE",
-          "nationality": "Brazil"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 14,
-        "winner": null
-      },
       "id": 554876,
       "utcDate": "2026-05-03T23:30:00Z",
       "status": "TIMED",
@@ -1087,7 +938,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206929,
+          "name": "Matheus Delgado Candançan",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -1383,9 +1241,127 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 14,
+        "winner": null
+      },
+      "id": 554882,
+      "utcDate": "2026-05-10T21:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-05-02T15:20:46Z",
+      "homeTeam": {
+        "id": 1779,
+        "name": "SC Corinthians Paulista",
+        "shortName": "Corinthians",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/1779.png"
+      },
+      "awayTeam": {
+        "id": 1776,
+        "name": "São Paulo FC",
+        "shortName": "São Paulo",
+        "tla": "PAU",
+        "crest": "https://crests.football-data.org/1776.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    },
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 14,
+        "winner": null
+      },
+      "id": 554886,
+      "utcDate": "2026-05-10T21:30:00Z",
+      "status": "TIMED",
+      "matchday": 15,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-03-31T15:21:15Z",
+      "homeTeam": {
+        "id": 4364,
+        "name": "Mirassol FC",
+        "shortName": "Mirassol",
+        "tla": "MIR",
+        "crest": "https://crests.football-data.org/4364.png"
+      },
+      "awayTeam": {
+        "id": 1772,
+        "name": "Chapecoense AF",
+        "shortName": "Chapecoense",
+        "tla": "CHA",
+        "crest": "https://crests.football-data.org/1772_large.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-03T20:42:12.454Z",
+  "atualizadoEm": "2026-05-03T21:41:37.529Z",
   "origem": "static-json"
 }
