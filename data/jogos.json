@@ -20,7 +20,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554871,
@@ -98,7 +98,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554877,
@@ -176,7 +176,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554879,
@@ -254,7 +254,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554870,
@@ -332,7 +332,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554873,
@@ -410,7 +410,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554874,
@@ -488,7 +488,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554878,
@@ -566,7 +566,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554872,
@@ -644,7 +644,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554875,
@@ -722,7 +722,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 11,
+        "currentMatchday": 12,
         "winner": null
       },
       "id": 554876,
@@ -802,7 +802,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554883,
@@ -811,7 +811,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-04T01:32:01Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -861,7 +861,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554884,
@@ -870,7 +870,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-04T01:32:01Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -920,7 +920,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554881,
@@ -929,7 +929,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-04T01:32:01Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -979,7 +979,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554880,
@@ -988,7 +988,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-04T01:32:02Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -1038,7 +1038,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554887,
@@ -1047,7 +1047,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-21T05:21:07Z",
+      "lastUpdated": "2026-05-04T01:32:02Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -1097,7 +1097,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554882,
@@ -1106,7 +1106,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-04-21T05:21:07Z",
+      "lastUpdated": "2026-05-04T01:32:02Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -1156,7 +1156,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554886,
@@ -1165,7 +1165,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-04T01:32:02Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -1215,7 +1215,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 12,
+        "currentMatchday": 14,
         "winner": null
       },
       "id": 554888,
@@ -1224,7 +1224,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-03-31T15:21:15Z",
+      "lastUpdated": "2026-05-04T01:32:02Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -1258,6 +1258,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-04T09:02:35.407Z",
+  "atualizadoEm": "2026-05-04T11:22:03.056Z",
   "origem": "static-json"
 }
