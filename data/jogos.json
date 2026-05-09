@@ -22,48 +22,36 @@
         "currentMatchday": 15,
         "winner": null
       },
-      "id": 554884,
-      "utcDate": "2026-05-09T21:00:00Z",
-      "status": "IN_PLAY",
+      "id": 554883,
+      "utcDate": "2026-05-09T19:00:00Z",
+      "status": "PAUSED",
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-09T22:33:53Z",
+      "lastUpdated": "2026-05-09T22:01:18Z",
       "homeTeam": {
-        "id": 1765,
-        "name": "Fluminense FC",
-        "shortName": "Fluminense",
-        "tla": "FLU",
-        "crest": "https://crests.football-data.org/1765.png"
+        "id": 4241,
+        "name": "Coritiba FBC",
+        "shortName": "Coritiba",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/4241.png"
       },
       "awayTeam": {
-        "id": 1782,
-        "name": "EC Vitória",
-        "shortName": "Vitória",
-        "tla": "VIT",
-        "crest": "https://crests.football-data.org/1782.png"
+        "id": 6684,
+        "name": "SC Internacional",
+        "shortName": "Internacional",
+        "tla": "SCI",
+        "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 2
+          "away": 0
         },
         "halfTime": {
           "home": 1,
-          "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
           "away": 0
         }
       },
@@ -72,8 +60,8 @@
       },
       "referees": [
         {
-          "id": 11173,
-          "name": "Braulio da Silva Machado",
+          "id": 11277,
+          "name": "Wagner do Nascimento Magalhaes",
           "type": "REFEREE",
           "nationality": "Brazil"
         }
@@ -182,11 +170,11 @@
       },
       "id": 554884,
       "utcDate": "2026-05-09T21:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-09T22:33:53Z",
+      "lastUpdated": "2026-05-09T23:06:17Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -202,10 +190,10 @@
         "crest": "https://crests.football-data.org/1782.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 2
         },
         "halfTime": {
@@ -1206,6 +1194,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-09T22:43:18.633Z",
+  "atualizadoEm": "2026-05-09T23:50:23.191Z",
   "origem": "static-json"
 }
