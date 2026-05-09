@@ -78,12 +78,12 @@
           "playedGames": 15,
           "form": null,
           "won": 8,
-          "draw": 3,
-          "lost": 4,
-          "points": 27,
-          "goalsFor": 23,
-          "goalsAgainst": 18,
-          "goalDifference": 5
+          "draw": 2,
+          "lost": 5,
+          "points": 26,
+          "goalsFor": 24,
+          "goalsAgainst": 20,
+          "goalDifference": 4
         },
         {
           "position": 4,
@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 1782,
+            "name": "EC Vitória",
+            "shortName": "Vitória",
+            "tla": "VIT",
+            "crest": "https://crests.football-data.org/1782.png"
+          },
+          "playedGames": 14,
+          "form": null,
+          "won": 6,
+          "draw": 3,
+          "lost": 5,
+          "points": 21,
+          "goalsFor": 18,
+          "goalsAgainst": 19,
+          "goalDifference": -1
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 4286,
             "name": "RB Bragantino",
             "shortName": "Bragantino",
@@ -162,7 +181,7 @@
           "goalDifference": 1
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 4241,
             "name": "Coritiba FBC",
@@ -179,25 +198,6 @@
           "goalsFor": 18,
           "goalsAgainst": 19,
           "goalDifference": -1
-        },
-        {
-          "position": 9,
-          "team": {
-            "id": 1782,
-            "name": "EC Vitória",
-            "shortName": "Vitória",
-            "tla": "VIT",
-            "crest": "https://crests.football-data.org/1782.png"
-          },
-          "playedGames": 14,
-          "form": null,
-          "won": 5,
-          "draw": 4,
-          "lost": 5,
-          "points": 19,
-          "goalsFor": 16,
-          "goalsAgainst": 18,
-          "goalDifference": -2
         },
         {
           "position": 10,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-09T21:42:41.237Z",
+  "atualizadoEm": "2026-05-09T22:43:18.633Z",
   "origem": "static-json"
 }
