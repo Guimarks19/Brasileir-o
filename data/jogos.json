@@ -29,7 +29,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-09T23:06:57Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -95,7 +95,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-10T01:01:17Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -161,7 +161,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-10T02:10:02Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -186,6 +186,18 @@
         "halfTime": {
           "home": 1,
           "away": 1
+        },
+        "regularTime": {
+          "home": 0,
+          "away": 0
+        },
+        "extraTime": {
+          "home": 0,
+          "away": 0
+        },
+        "penalties": {
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -293,7 +305,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-09T15:21:00Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -359,7 +371,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-09T15:21:00Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -536,7 +548,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-09T15:21:00Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -722,7 +734,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-09T15:21:00Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -788,7 +800,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-09T15:21:00Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -965,7 +977,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T05:21:16Z",
+      "lastUpdated": "2026-05-09T15:21:00Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -1117,6 +1129,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-10T17:30:34.939Z",
+  "atualizadoEm": "2026-05-10T19:03:50.279Z",
   "origem": "static-json"
 }
