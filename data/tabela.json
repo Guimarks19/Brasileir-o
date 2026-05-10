@@ -40,12 +40,12 @@
           "playedGames": 15,
           "form": null,
           "won": 10,
-          "draw": 3,
-          "lost": 2,
-          "points": 33,
-          "goalsFor": 24,
+          "draw": 4,
+          "lost": 1,
+          "points": 34,
+          "goalsFor": 25,
           "goalsAgainst": 12,
-          "goalDifference": 12
+          "goalDifference": 13
         },
         {
           "position": 2,
@@ -94,15 +94,15 @@
             "tla": "PAU",
             "crest": "https://crests.football-data.org/1776.png"
           },
-          "playedGames": 14,
+          "playedGames": 15,
           "form": null,
           "won": 7,
           "draw": 3,
-          "lost": 4,
+          "lost": 5,
           "points": 24,
           "goalsFor": 19,
-          "goalsAgainst": 13,
-          "goalDifference": 6
+          "goalsAgainst": 14,
+          "goalDifference": 5
         },
         {
           "position": 5,
@@ -151,12 +151,12 @@
             "tla": "RBB",
             "crest": "https://crests.football-data.org/4286.png"
           },
-          "playedGames": 14,
+          "playedGames": 15,
           "form": null,
           "won": 6,
-          "draw": 2,
+          "draw": 3,
           "lost": 6,
-          "points": 20,
+          "points": 21,
           "goalsFor": 17,
           "goalsAgainst": 16,
           "goalDifference": 1
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 1779,
+            "name": "SC Corinthians Paulista",
+            "shortName": "Corinthians",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/1779.png"
+          },
+          "playedGames": 15,
+          "form": null,
+          "won": 4,
+          "draw": 6,
+          "lost": 5,
+          "points": 18,
+          "goalsFor": 11,
+          "goalsAgainst": 13,
+          "goalDifference": -2
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 1780,
             "name": "CR Vasco da Gama",
             "shortName": "Vasco da Gama",
@@ -295,7 +314,7 @@
           "goalDifference": -1
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 1767,
             "name": "Grêmio FBPA",
@@ -314,7 +333,7 @@
           "goalDifference": -1
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 6685,
             "name": "Santos FC",
@@ -322,37 +341,37 @@
             "tla": "SAN",
             "crest": "https://crests.football-data.org/6685.png"
           },
-          "playedGames": 14,
+          "playedGames": 15,
           "form": null,
           "won": 3,
-          "draw": 6,
+          "draw": 7,
           "lost": 5,
-          "points": 15,
+          "points": 16,
           "goalsFor": 19,
           "goalsAgainst": 22,
           "goalDifference": -3
         },
         {
-          "position": 17,
+          "position": 18,
           "team": {
-            "id": 1779,
-            "name": "SC Corinthians Paulista",
-            "shortName": "Corinthians",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/1779.png"
+            "id": 4364,
+            "name": "Mirassol FC",
+            "shortName": "Mirassol",
+            "tla": "MIR",
+            "crest": "https://crests.football-data.org/4364.png"
           },
           "playedGames": 14,
           "form": null,
           "won": 3,
-          "draw": 6,
-          "lost": 5,
-          "points": 15,
-          "goalsFor": 10,
-          "goalsAgainst": 13,
-          "goalDifference": -3
+          "draw": 4,
+          "lost": 7,
+          "points": 13,
+          "goalsFor": 15,
+          "goalsAgainst": 19,
+          "goalDifference": -4
         },
         {
-          "position": 18,
+          "position": 19,
           "team": {
             "id": 4287,
             "name": "Clube do Remo",
@@ -362,32 +381,13 @@
           },
           "playedGames": 15,
           "form": null,
-          "won": 3,
-          "draw": 5,
-          "lost": 7,
-          "points": 14,
-          "goalsFor": 16,
-          "goalsAgainst": 24,
-          "goalDifference": -8
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 4364,
-            "name": "Mirassol FC",
-            "shortName": "Mirassol",
-            "tla": "MIR",
-            "crest": "https://crests.football-data.org/4364.png"
-          },
-          "playedGames": 13,
-          "form": null,
-          "won": 3,
-          "draw": 3,
+          "won": 2,
+          "draw": 6,
           "lost": 7,
           "points": 12,
-          "goalsFor": 15,
-          "goalsAgainst": 19,
-          "goalDifference": -4
+          "goalsFor": 16,
+          "goalsAgainst": 25,
+          "goalDifference": -9
         },
         {
           "position": 20,
@@ -398,12 +398,12 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 13,
+          "playedGames": 14,
           "form": null,
           "won": 1,
-          "draw": 5,
+          "draw": 6,
           "lost": 7,
-          "points": 8,
+          "points": 9,
           "goalsFor": 13,
           "goalsAgainst": 26,
           "goalDifference": -13
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-10T21:12:30.209Z",
+  "atualizadoEm": "2026-05-10T22:09:55.311Z",
   "origem": "static-json"
 }
