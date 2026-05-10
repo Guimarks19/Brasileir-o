@@ -29,7 +29,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-09T23:06:57Z",
+      "lastUpdated": "2026-05-10T05:21:16Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -95,7 +95,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T01:01:17Z",
+      "lastUpdated": "2026-05-10T05:21:16Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -161,7 +161,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-10T02:10:02Z",
+      "lastUpdated": "2026-05-10T05:21:16Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -186,18 +186,6 @@
         "halfTime": {
           "home": 1,
           "away": 1
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -298,7 +286,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-09T15:21:00Z",
+      "lastUpdated": "2026-05-10T05:21:16Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -357,7 +345,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-09T15:21:00Z",
+      "lastUpdated": "2026-05-10T05:21:16Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -534,7 +522,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-09T15:21:00Z",
+      "lastUpdated": "2026-05-10T05:21:16Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -1101,6 +1089,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-10T13:59:48.851Z",
+  "atualizadoEm": "2026-05-10T15:03:44.146Z",
   "origem": "static-json"
 }
