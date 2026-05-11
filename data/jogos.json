@@ -868,7 +868,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-11T01:32:02Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -1045,7 +1045,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-11T01:32:03Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -1138,6 +1138,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-11T17:54:42.630Z",
+  "atualizadoEm": "2026-05-11T19:46:56.173Z",
   "origem": "static-json"
 }
