@@ -29,7 +29,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -95,7 +95,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -161,7 +161,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -227,7 +227,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -293,7 +293,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -359,7 +359,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -425,7 +425,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -491,7 +491,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -557,7 +557,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -623,7 +623,7 @@
       "matchday": 15,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T00:21:05Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -1138,6 +1138,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-12T21:51:34.784Z",
+  "atualizadoEm": "2026-05-12T23:01:13.792Z",
   "origem": "static-json"
 }
