@@ -29,7 +29,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T01:32:01Z",
+      "lastUpdated": "2026-05-10T01:32:03Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -88,7 +88,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T01:32:01Z",
+      "lastUpdated": "2026-05-11T01:32:01Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -147,7 +147,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T15:21:09Z",
+      "lastUpdated": "2026-05-12T13:25:21Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -206,7 +206,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-13T00:20:57Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -265,7 +265,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T01:32:02Z",
+      "lastUpdated": "2026-05-11T01:32:02Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -324,7 +324,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T01:32:02Z",
+      "lastUpdated": "2026-05-11T01:32:03Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -383,7 +383,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-13T00:20:57Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -442,7 +442,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T01:32:02Z",
+      "lastUpdated": "2026-05-11T01:32:03Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -560,7 +560,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-13T00:20:57Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-13T16:19:12.484Z",
+  "atualizadoEm": "2026-05-13T18:22:55.327Z",
   "origem": "static-json"
 }
