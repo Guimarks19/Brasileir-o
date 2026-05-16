@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 1780,
+            "name": "CR Vasco da Gama",
+            "shortName": "Vasco da Gama",
+            "tla": "VAS",
+            "crest": "https://crests.football-data.org/1780.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 5,
+          "draw": 6,
+          "lost": 5,
+          "points": 21,
+          "goalsFor": 21,
+          "goalsAgainst": 21,
+          "goalDifference": 0
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 4286,
             "name": "RB Bragantino",
             "shortName": "Bragantino",
@@ -160,25 +179,6 @@
           "goalsFor": 17,
           "goalsAgainst": 18,
           "goalDifference": -1
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 1780,
-            "name": "CR Vasco da Gama",
-            "shortName": "Vasco da Gama",
-            "tla": "VAS",
-            "crest": "https://crests.football-data.org/1780.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 5,
-          "draw": 5,
-          "lost": 5,
-          "points": 20,
-          "goalsFor": 21,
-          "goalsAgainst": 21,
-          "goalDifference": 0
         },
         {
           "position": 9,
@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 1766,
+            "name": "CA Mineiro",
+            "shortName": "Mineiro",
+            "tla": "CAM",
+            "crest": "https://crests.football-data.org/1766.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 5,
+          "draw": 4,
+          "lost": 7,
+          "points": 19,
+          "goalsFor": 18,
+          "goalsAgainst": 21,
+          "goalDifference": -3
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 1771,
             "name": "Cruzeiro EC",
             "shortName": "Cruzeiro",
@@ -238,7 +257,26 @@
           "goalDifference": -5
         },
         {
-          "position": 12,
+          "position": 13,
+          "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 4,
+          "draw": 7,
+          "lost": 5,
+          "points": 19,
+          "goalsFor": 16,
+          "goalsAgainst": 16,
+          "goalDifference": 0
+        },
+        {
+          "position": 14,
           "team": {
             "id": 1770,
             "name": "Botafogo FR",
@@ -255,44 +293,6 @@
           "goalsFor": 26,
           "goalsAgainst": 27,
           "goalDifference": -1
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 1766,
-            "name": "CA Mineiro",
-            "shortName": "Mineiro",
-            "tla": "CAM",
-            "crest": "https://crests.football-data.org/1766.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 5,
-          "draw": 3,
-          "lost": 7,
-          "points": 18,
-          "goalsFor": 18,
-          "goalsAgainst": 21,
-          "goalDifference": -3
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 4,
-          "draw": 6,
-          "lost": 5,
-          "points": 18,
-          "goalsFor": 16,
-          "goalsAgainst": 16,
-          "goalDifference": 0
         },
         {
           "position": 15,
@@ -360,12 +360,12 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 14,
+          "playedGames": 15,
           "form": null,
           "won": 3,
-          "draw": 4,
+          "draw": 5,
           "lost": 7,
-          "points": 13,
+          "points": 14,
           "goalsFor": 16,
           "goalsAgainst": 20,
           "goalDifference": -4
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-16T20:46:48.784Z",
+  "atualizadoEm": "2026-05-16T21:49:34.657Z",
   "origem": "static-json"
 }
