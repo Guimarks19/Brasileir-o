@@ -126,6 +126,25 @@
         {
           "position": 6,
           "team": {
+            "id": 4241,
+            "name": "Coritiba FBC",
+            "shortName": "Coritiba",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/4241.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 6,
+          "draw": 5,
+          "lost": 5,
+          "points": 23,
+          "goalsFor": 20,
+          "goalsAgainst": 19,
+          "goalDifference": 1
+        },
+        {
+          "position": 7,
+          "team": {
             "id": 1777,
             "name": "EC Bahia",
             "shortName": "Bahia",
@@ -143,7 +162,7 @@
           "goalDifference": 2
         },
         {
-          "position": 7,
+          "position": 8,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -162,7 +181,7 @@
           "goalDifference": -1
         },
         {
-          "position": 8,
+          "position": 9,
           "team": {
             "id": 6684,
             "name": "SC Internacional",
@@ -181,7 +200,7 @@
           "goalDifference": 3
         },
         {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 4286,
             "name": "RB Bragantino",
@@ -197,25 +216,6 @@
           "points": 20,
           "goalsFor": 17,
           "goalsAgainst": 18,
-          "goalDifference": -1
-        },
-        {
-          "position": 10,
-          "team": {
-            "id": 4241,
-            "name": "Coritiba FBC",
-            "shortName": "Coritiba",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/4241.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 5,
-          "draw": 5,
-          "lost": 5,
-          "points": 20,
-          "goalsFor": 18,
-          "goalsAgainst": 19,
           "goalDifference": -1
         },
         {
@@ -297,25 +297,6 @@
         {
           "position": 15,
           "team": {
-            "id": 6685,
-            "name": "Santos FC",
-            "shortName": "Santos",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/6685.png"
-          },
-          "playedGames": 15,
-          "form": null,
-          "won": 4,
-          "draw": 6,
-          "lost": 5,
-          "points": 18,
-          "goalsFor": 21,
-          "goalsAgainst": 22,
-          "goalDifference": -1
-        },
-        {
-          "position": 16,
-          "team": {
             "id": 1779,
             "name": "SC Corinthians Paulista",
             "shortName": "Corinthians",
@@ -331,6 +312,25 @@
           "goalsFor": 13,
           "goalsAgainst": 15,
           "goalDifference": -2
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 6685,
+            "name": "Santos FC",
+            "shortName": "Santos",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/6685.png"
+          },
+          "playedGames": 16,
+          "form": null,
+          "won": 4,
+          "draw": 6,
+          "lost": 6,
+          "points": 18,
+          "goalsFor": 21,
+          "goalsAgainst": 24,
+          "goalDifference": -3
         },
         {
           "position": 17,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-17T13:51:41.549Z",
+  "atualizadoEm": "2026-05-17T14:56:15.506Z",
   "origem": "static-json"
 }
