@@ -1,66 +1,6 @@
 {
   "rodadaAtual": 16,
-  "aoVivo": [
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 16,
-        "winner": null
-      },
-      "id": 554899,
-      "utcDate": "2026-05-17T14:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 16,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-05-17T15:59:57Z",
-      "homeTeam": {
-        "id": 6685,
-        "name": "Santos FC",
-        "shortName": "Santos",
-        "tla": "SAN",
-        "crest": "https://crests.football-data.org/6685.png"
-      },
-      "awayTeam": {
-        "id": 4241,
-        "name": "Coritiba FBC",
-        "shortName": "Coritiba",
-        "tla": "COR",
-        "crest": "https://crests.football-data.org/4241.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 3
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 3
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    }
-  ],
+  "aoVivo": [],
   "rodada": [
     {
       "area": {
@@ -321,11 +261,11 @@
       },
       "id": 554899,
       "utcDate": "2026-05-17T14:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-17T15:19:23Z",
+      "lastUpdated": "2026-05-17T16:11:47Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -350,18 +290,6 @@
         "halfTime": {
           "home": 0,
           "away": 3
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -684,7 +612,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554892,
@@ -693,7 +621,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-12T01:32:02Z",
+      "lastUpdated": "2026-05-11T01:32:03Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -743,7 +671,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554893,
@@ -752,7 +680,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-17T01:32:00Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -802,7 +730,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554894,
@@ -811,7 +739,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-17T01:32:00Z",
+      "lastUpdated": "2026-05-11T01:32:03Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -861,7 +789,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554895,
@@ -920,7 +848,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554890,
@@ -929,7 +857,7 @@
       "matchday": 16,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-16T20:20:47Z",
+      "lastUpdated": "2026-05-11T05:21:09Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -979,7 +907,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554907,
@@ -988,7 +916,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-17T01:32:01Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -1038,7 +966,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554909,
@@ -1047,7 +975,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-17T01:32:01Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -1097,7 +1025,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 16,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554904,
@@ -1106,7 +1034,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-17T01:32:01Z",
+      "lastUpdated": "2026-03-31T15:21:15Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -1140,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-17T16:00:32.666Z",
+  "atualizadoEm": "2026-05-17T17:31:56.913Z",
   "origem": "static-json"
 }
