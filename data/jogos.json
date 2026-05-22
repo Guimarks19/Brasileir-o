@@ -265,7 +265,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-21T00:20:49Z",
+      "lastUpdated": "2026-05-22T00:20:48Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -442,7 +442,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-21T00:20:49Z",
+      "lastUpdated": "2026-05-22T00:20:48Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -857,7 +857,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-21T00:20:49Z",
+      "lastUpdated": "2026-05-22T00:20:48Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -1034,7 +1034,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-21T00:20:49Z",
+      "lastUpdated": "2026-05-22T00:20:48Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-22T00:01:56.399Z",
+  "atualizadoEm": "2026-05-22T04:43:35.157Z",
   "origem": "static-json"
 }
