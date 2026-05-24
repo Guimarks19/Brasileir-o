@@ -88,6 +88,25 @@
         {
           "position": 4,
           "team": {
+            "id": 1768,
+            "name": "CA Paranaense",
+            "shortName": "Paranaense",
+            "tla": "CAP",
+            "crest": "https://crests.football-data.org/1768.png"
+          },
+          "playedGames": 17,
+          "form": null,
+          "won": 8,
+          "draw": 3,
+          "lost": 6,
+          "points": 27,
+          "goalsFor": 23,
+          "goalsAgainst": 18,
+          "goalDifference": 5
+        },
+        {
+          "position": 5,
+          "team": {
             "id": 1776,
             "name": "São Paulo FC",
             "shortName": "São Paulo",
@@ -102,25 +121,6 @@
           "points": 25,
           "goalsFor": 23,
           "goalsAgainst": 19,
-          "goalDifference": 4
-        },
-        {
-          "position": 5,
-          "team": {
-            "id": 1768,
-            "name": "CA Paranaense",
-            "shortName": "Paranaense",
-            "tla": "CAP",
-            "crest": "https://crests.football-data.org/1768.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 7,
-          "draw": 4,
-          "lost": 6,
-          "points": 25,
-          "goalsFor": 22,
-          "goalsAgainst": 18,
           "goalDifference": 4
         },
         {
@@ -195,8 +195,8 @@
           "draw": 5,
           "lost": 6,
           "points": 23,
-          "goalsFor": 22,
-          "goalsAgainst": 26,
+          "goalsFor": 23,
+          "goalsAgainst": 27,
           "goalDifference": -4
         },
         {
@@ -382,12 +382,12 @@
           "playedGames": 17,
           "form": null,
           "won": 3,
-          "draw": 7,
-          "lost": 7,
-          "points": 16,
+          "draw": 6,
+          "lost": 8,
+          "points": 15,
           "goalsFor": 20,
-          "goalsAgainst": 28,
-          "goalDifference": -8
+          "goalsAgainst": 29,
+          "goalDifference": -9
         },
         {
           "position": 20,
@@ -404,13 +404,13 @@
           "draw": 6,
           "lost": 9,
           "points": 9,
-          "goalsFor": 16,
-          "goalsAgainst": 31,
+          "goalsFor": 17,
+          "goalsAgainst": 32,
           "goalDifference": -15
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-05-24T20:05:18.533Z",
+  "atualizadoEm": "2026-05-24T21:28:01.412Z",
   "origem": "static-json"
 }
