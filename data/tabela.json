@@ -37,15 +37,15 @@
             "tla": "PAL",
             "crest": "https://crests.football-data.org/1769.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
-          "won": 10,
+          "won": 11,
           "draw": 5,
           "lost": 1,
-          "points": 35,
-          "goalsFor": 26,
+          "points": 38,
+          "goalsFor": 29,
           "goalsAgainst": 13,
-          "goalDifference": 13
+          "goalDifference": 16
         },
         {
           "position": 2,
@@ -56,15 +56,15 @@
             "tla": "FLA",
             "crest": "https://crests.football-data.org/1783.png"
           },
-          "playedGames": 15,
+          "playedGames": 16,
           "form": null,
           "won": 9,
           "draw": 4,
-          "lost": 2,
+          "lost": 3,
           "points": 31,
           "goalsFor": 28,
-          "goalsAgainst": 13,
-          "goalDifference": 15
+          "goalsAgainst": 16,
+          "goalDifference": 12
         },
         {
           "position": 3,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-23T23:57:40.995Z",
+  "atualizadoEm": "2026-05-24T04:13:23.012Z",
   "origem": "static-json"
 }
