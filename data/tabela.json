@@ -126,20 +126,20 @@
         {
           "position": 6,
           "team": {
-            "id": 1777,
-            "name": "EC Bahia",
-            "shortName": "Bahia",
-            "tla": "BAH",
-            "crest": "https://crests.football-data.org/1777.png"
+            "id": 4241,
+            "name": "Coritiba FBC",
+            "shortName": "Coritiba",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/4241.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 7,
           "draw": 5,
-          "lost": 4,
+          "lost": 5,
           "points": 26,
-          "goalsFor": 22,
-          "goalsAgainst": 19,
+          "goalsFor": 24,
+          "goalsAgainst": 21,
           "goalDifference": 3
         },
         {
@@ -164,20 +164,20 @@
         {
           "position": 8,
           "team": {
-            "id": 4241,
-            "name": "Coritiba FBC",
-            "shortName": "Coritiba",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/4241.png"
+            "id": 1777,
+            "name": "EC Bahia",
+            "shortName": "Bahia",
+            "tla": "BAH",
+            "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 17,
+          "playedGames": 16,
           "form": null,
           "won": 6,
           "draw": 5,
-          "lost": 6,
+          "lost": 5,
           "points": 23,
-          "goalsFor": 21,
-          "goalsAgainst": 20,
+          "goalsFor": 23,
+          "goalsAgainst": 22,
           "goalDifference": 1
         },
         {
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-26T00:05:38.368Z",
+  "atualizadoEm": "2026-05-26T04:43:20.182Z",
   "origem": "static-json"
 }
