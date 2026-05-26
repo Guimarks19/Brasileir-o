@@ -1,7 +1,6 @@
 {
   "rodadaAtual": 17,
-  "aoVivo": [],
-  "rodada": [
+  "aoVivo": [
     {
       "area": {
         "id": 2032,
@@ -23,13 +22,74 @@
         "currentMatchday": 17,
         "winner": null
       },
+      "id": 554901,
+      "utcDate": "2026-05-25T23:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 17,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-05-26T03:00:01Z",
+      "homeTeam": {
+        "id": 4241,
+        "name": "Coritiba FBC",
+        "shortName": "Coritiba",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/4241.png"
+      },
+      "awayTeam": {
+        "id": 1777,
+        "name": "EC Bahia",
+        "shortName": "Bahia",
+        "tla": "BAH",
+        "crest": "https://crests.football-data.org/1777.png"
+      },
+      "score": {
+        "winner": "HOME_TEAM",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 3,
+          "away": 1
+        },
+        "halfTime": {
+          "home": 0,
+          "away": 1
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    }
+  ],
+  "rodada": [
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 15,
+        "winner": null
+      },
       "id": 554907,
       "utcDate": "2026-05-23T20:00:00Z",
       "status": "FINISHED",
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-23T22:07:11Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -79,7 +139,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554909,
@@ -88,7 +148,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-23T22:07:56Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -138,7 +198,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554904,
@@ -147,7 +207,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-24T00:05:46Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -197,7 +257,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554905,
@@ -206,7 +266,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-24T00:07:16Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -256,7 +316,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554903,
@@ -265,7 +325,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-24T02:06:21Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -315,7 +375,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554902,
@@ -324,7 +384,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-24T21:08:21Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -340,11 +400,11 @@
         "crest": "https://crests.football-data.org/1772_large.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 2,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 1,
@@ -374,7 +434,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554906,
@@ -383,7 +443,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-24T21:17:46Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -403,7 +463,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 2
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -433,7 +493,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554900,
@@ -442,7 +502,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-24T23:33:56Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -492,7 +552,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554908,
@@ -501,7 +561,7 @@
       "matchday": 17,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-25T20:20:49Z",
+      "lastUpdated": "2026-05-25T01:30:16Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -551,7 +611,7 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 17,
+        "currentMatchday": 15,
         "winner": null
       },
       "id": 554901,
@@ -580,7 +640,7 @@
         "duration": "REGULAR",
         "fullTime": {
           "home": 3,
-          "away": 1
+          "away": 2
         },
         "halfTime": {
           "home": 0,
@@ -1068,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-26T16:23:34.959Z",
+  "atualizadoEm": "2026-05-26T18:41:26.562Z",
   "origem": "static-json"
 }
