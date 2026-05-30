@@ -56,15 +56,15 @@
             "tla": "FLA",
             "crest": "https://crests.football-data.org/1783.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
-          "won": 9,
+          "won": 10,
           "draw": 4,
           "lost": 3,
-          "points": 31,
-          "goalsFor": 28,
+          "points": 34,
+          "goalsFor": 29,
           "goalsAgainst": 16,
-          "goalDifference": 12
+          "goalDifference": 13
         },
         {
           "position": 3,
@@ -94,12 +94,12 @@
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 8,
-          "draw": 3,
+          "draw": 4,
           "lost": 6,
-          "points": 27,
+          "points": 28,
           "goalsFor": 23,
           "goalsAgainst": 18,
           "goalDifference": 5
@@ -132,15 +132,15 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/4241.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 7,
           "draw": 5,
-          "lost": 5,
+          "lost": 6,
           "points": 26,
           "goalsFor": 24,
-          "goalsAgainst": 21,
-          "goalDifference": 3
+          "goalsAgainst": 22,
+          "goalDifference": 2
         },
         {
           "position": 7,
@@ -360,12 +360,12 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 4,
-          "draw": 4,
+          "draw": 5,
           "lost": 8,
-          "points": 16,
+          "points": 17,
           "goalsFor": 18,
           "goalsAgainst": 23,
           "goalDifference": -5
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-30T18:38:34.915Z",
+  "atualizadoEm": "2026-05-30T20:08:27.221Z",
   "origem": "static-json"
 }
