@@ -19,99 +19,40 @@
         "id": 2474,
         "startDate": "2026-01-28",
         "endDate": "2026-12-02",
-        "currentMatchday": 15,
+        "currentMatchday": 18,
         "winner": null
       },
-      "id": 554916,
-      "utcDate": "2026-05-31T19:00:00Z",
-      "status": "PAUSED",
+      "id": 554918,
+      "utcDate": "2026-05-30T23:00:00Z",
+      "status": "IN_PLAY",
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T19:54:37Z",
+      "lastUpdated": "2026-05-31T03:25:06Z",
       "homeTeam": {
-        "id": 1769,
-        "name": "SE Palmeiras",
-        "shortName": "Palmeiras",
-        "tla": "PAL",
-        "crest": "https://crests.football-data.org/1769.png"
+        "id": 6685,
+        "name": "Santos FC",
+        "shortName": "Santos",
+        "tla": "SAN",
+        "crest": "https://crests.football-data.org/6685.png"
       },
       "awayTeam": {
-        "id": 1772,
-        "name": "Chapecoense AF",
-        "shortName": "Chapecoense",
-        "tla": "CHA",
-        "crest": "https://crests.football-data.org/1772_large.png"
+        "id": 1782,
+        "name": "EC Vitória",
+        "shortName": "Vitória",
+        "tla": "VIT",
+        "crest": "https://crests.football-data.org/1782.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": 0,
-          "away": 0
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 15,
-        "winner": null
-      },
-      "id": 554919,
-      "utcDate": "2026-05-31T19:00:00Z",
-      "status": "PAUSED",
-      "matchday": 18,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-05-31T19:53:57Z",
-      "homeTeam": {
-        "id": 1780,
-        "name": "CR Vasco da Gama",
-        "shortName": "Vasco da Gama",
-        "tla": "VAS",
-        "crest": "https://crests.football-data.org/1780.png"
-      },
-      "awayTeam": {
-        "id": 1766,
-        "name": "CA Mineiro",
-        "shortName": "Mineiro",
-        "tla": "CAM",
-        "crest": "https://crests.football-data.org/1766.png"
-      },
-      "score": {
-        "winner": "AWAY_TEAM",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 1
         },
         "halfTime": {
-          "home": 0,
-          "away": 1
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -148,7 +89,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-30T22:58:46Z",
+      "lastUpdated": "2026-05-31T03:25:06Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -207,7 +148,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-30T22:57:06Z",
+      "lastUpdated": "2026-05-31T03:25:06Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -266,7 +207,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T00:37:46Z",
+      "lastUpdated": "2026-05-31T03:25:06Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -325,7 +266,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T00:28:21Z",
+      "lastUpdated": "2026-05-31T03:25:06Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -384,7 +325,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T03:00:01Z",
+      "lastUpdated": "2026-05-31T03:25:06Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -468,18 +409,6 @@
         "halfTime": {
           "home": 2,
           "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -510,11 +439,11 @@
       },
       "id": 554916,
       "utcDate": "2026-05-31T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T19:54:37Z",
+      "lastUpdated": "2026-05-31T21:17:47Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -530,25 +459,13 @@
         "crest": "https://crests.football-data.org/1772_large.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 0
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
           "home": 0,
           "away": 0
         }
@@ -581,11 +498,11 @@
       },
       "id": 554919,
       "utcDate": "2026-05-31T19:00:00Z",
-      "status": "PAUSED",
+      "status": "FINISHED",
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T19:53:57Z",
+      "lastUpdated": "2026-05-31T21:02:17Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -610,18 +527,6 @@
         "halfTime": {
           "home": 0,
           "away": 1
-        },
-        "regularTime": {
-          "home": 0,
-          "away": 0
-        },
-        "extraTime": {
-          "home": 0,
-          "away": 0
-        },
-        "penalties": {
-          "home": 0,
-          "away": 0
         }
       },
       "odds": {
@@ -1223,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-31T20:07:31.689Z",
+  "atualizadoEm": "2026-05-31T21:31:47.803Z",
   "origem": "static-json"
 }
