@@ -246,15 +246,15 @@
             "tla": "VIT",
             "crest": "https://crests.football-data.org/1782.png"
           },
-          "playedGames": 16,
+          "playedGames": 17,
           "form": null,
           "won": 6,
           "draw": 4,
-          "lost": 6,
+          "lost": 7,
           "points": 22,
           "goalsFor": 20,
-          "goalsAgainst": 22,
-          "goalDifference": -2
+          "goalsAgainst": 23,
+          "goalDifference": -3
         },
         {
           "position": 13,
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 6685,
+            "name": "Santos FC",
+            "shortName": "Santos",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/6685.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 5,
+          "draw": 6,
+          "lost": 7,
+          "points": 21,
+          "goalsFor": 24,
+          "goalsAgainst": 28,
+          "goalDifference": -4
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 1780,
             "name": "CR Vasco da Gama",
             "shortName": "Vasco da Gama",
@@ -331,25 +350,6 @@
           "goalsFor": 22,
           "goalsAgainst": 28,
           "goalDifference": -6
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 6685,
-            "name": "Santos FC",
-            "shortName": "Santos",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/6685.png"
-          },
-          "playedGames": 17,
-          "form": null,
-          "won": 4,
-          "draw": 6,
-          "lost": 7,
-          "points": 18,
-          "goalsFor": 23,
-          "goalsAgainst": 28,
-          "goalDifference": -5
         },
         {
           "position": 18,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-30T22:57:06.692Z",
+  "atualizadoEm": "2026-05-31T00:04:51.219Z",
   "origem": "static-json"
 }
