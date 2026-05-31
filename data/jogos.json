@@ -87,7 +87,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T14:15:03Z",
+      "lastUpdated": "2026-05-31T15:48:27Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -103,15 +103,15 @@
         "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -443,7 +443,7 @@
       "matchday": 18,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-05-31T14:15:03Z",
+      "lastUpdated": "2026-05-31T15:48:27Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -459,15 +459,15 @@
         "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 0
         }
       },
       "odds": {
@@ -1187,6 +1187,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-05-31T14:16:59.763Z",
+  "atualizadoEm": "2026-05-31T15:48:29.791Z",
   "origem": "static-json"
 }

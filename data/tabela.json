@@ -115,13 +115,13 @@
           },
           "playedGames": 18,
           "form": null,
-          "won": 8,
-          "draw": 3,
+          "won": 9,
+          "draw": 2,
           "lost": 7,
-          "points": 27,
-          "goalsFor": 22,
+          "points": 29,
+          "goalsFor": 25,
           "goalsAgainst": 18,
-          "goalDifference": 4
+          "goalDifference": 7
         },
         {
           "position": 6,
@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 5,
-          "draw": 7,
-          "lost": 6,
-          "points": 22,
-          "goalsFor": 20,
-          "goalsAgainst": 19,
-          "goalDifference": 1
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 1766,
             "name": "CA Mineiro",
             "shortName": "Mineiro",
@@ -292,6 +273,25 @@
           "points": 21,
           "goalsFor": 21,
           "goalsAgainst": 23,
+          "goalDifference": -2
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 5,
+          "draw": 6,
+          "lost": 7,
+          "points": 21,
+          "goalsFor": 20,
+          "goalsAgainst": 22,
           "goalDifference": -2
         },
         {
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-05-31T14:16:59.763Z",
+  "atualizadoEm": "2026-05-31T15:48:29.791Z",
   "origem": "static-json"
 }
