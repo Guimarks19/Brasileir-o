@@ -81,8 +81,8 @@
           "draw": 4,
           "lost": 5,
           "points": 31,
-          "goalsFor": 27,
-          "goalsAgainst": 22,
+          "goalsFor": 28,
+          "goalsAgainst": 23,
           "goalDifference": 5
         },
         {
@@ -126,25 +126,6 @@
         {
           "position": 6,
           "team": {
-            "id": 1776,
-            "name": "São Paulo FC",
-            "shortName": "São Paulo",
-            "tla": "PAU",
-            "crest": "https://crests.football-data.org/1776.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 7,
-          "draw": 5,
-          "lost": 6,
-          "points": 26,
-          "goalsFor": 23,
-          "goalsAgainst": 19,
-          "goalDifference": 4
-        },
-        {
-          "position": 7,
-          "team": {
             "id": 1777,
             "name": "EC Bahia",
             "shortName": "Bahia",
@@ -162,7 +143,7 @@
           "goalDifference": 2
         },
         {
-          "position": 8,
+          "position": 7,
           "team": {
             "id": 4241,
             "name": "Coritiba FBC",
@@ -179,6 +160,25 @@
           "goalsFor": 24,
           "goalsAgainst": 24,
           "goalDifference": 0
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 7,
+          "draw": 4,
+          "lost": 7,
+          "points": 25,
+          "goalsFor": 23,
+          "goalsAgainst": 20,
+          "goalDifference": 3
         },
         {
           "position": 9,
@@ -233,8 +233,8 @@
           "draw": 6,
           "lost": 6,
           "points": 24,
-          "goalsFor": 23,
-          "goalsAgainst": 27,
+          "goalsFor": 24,
+          "goalsAgainst": 28,
           "goalDifference": -4
         },
         {
@@ -354,6 +354,25 @@
         {
           "position": 18,
           "team": {
+            "id": 4287,
+            "name": "Clube do Remo",
+            "shortName": "Clube do Remo",
+            "tla": "CRE",
+            "crest": "https://crests.football-data.org/4287.png"
+          },
+          "playedGames": 18,
+          "form": null,
+          "won": 4,
+          "draw": 6,
+          "lost": 8,
+          "points": 18,
+          "goalsFor": 21,
+          "goalsAgainst": 29,
+          "goalDifference": -8
+        },
+        {
+          "position": 19,
+          "team": {
             "id": 4364,
             "name": "Mirassol FC",
             "shortName": "Mirassol",
@@ -369,25 +388,6 @@
           "goalsFor": 18,
           "goalsAgainst": 24,
           "goalDifference": -6
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 4287,
-            "name": "Clube do Remo",
-            "shortName": "Clube do Remo",
-            "tla": "CRE",
-            "crest": "https://crests.football-data.org/4287.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 3,
-          "draw": 7,
-          "lost": 8,
-          "points": 16,
-          "goalsFor": 20,
-          "goalsAgainst": 29,
-          "goalDifference": -9
         },
         {
           "position": 20,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-06-01T00:12:38.903Z",
+  "atualizadoEm": "2026-06-01T05:25:03.920Z",
   "origem": "static-json"
 }
