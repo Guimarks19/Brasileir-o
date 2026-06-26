@@ -29,7 +29,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:02Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -88,7 +88,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -147,7 +147,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -206,7 +206,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -265,7 +265,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -324,7 +324,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -383,7 +383,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -442,7 +442,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -501,7 +501,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -560,7 +560,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-06-26T05:20:13Z",
+      "lastUpdated": "2026-06-24T08:25:03Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-06-26T17:47:35.364Z",
+  "atualizadoEm": "2026-06-26T19:47:21.692Z",
   "origem": "static-json"
 }
