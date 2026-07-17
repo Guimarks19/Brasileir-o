@@ -75,18 +75,37 @@
             "tla": "FLU",
             "crest": "https://crests.football-data.org/1765.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 9,
-          "draw": 4,
+          "draw": 5,
           "lost": 5,
-          "points": 31,
+          "points": 32,
           "goalsFor": 28,
           "goalsAgainst": 23,
           "goalDifference": 5
         },
         {
           "position": 4,
+          "team": {
+            "id": 4286,
+            "name": "RB Bragantino",
+            "shortName": "Bragantino",
+            "tla": "RBB",
+            "crest": "https://crests.football-data.org/4286.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 9,
+          "draw": 3,
+          "lost": 7,
+          "points": 30,
+          "goalsFor": 25,
+          "goalsAgainst": 19,
+          "goalDifference": 6
+        },
+        {
+          "position": 5,
           "team": {
             "id": 1768,
             "name": "CA Paranaense",
@@ -105,25 +124,6 @@
           "goalDifference": 6
         },
         {
-          "position": 5,
-          "team": {
-            "id": 4286,
-            "name": "RB Bragantino",
-            "shortName": "Bragantino",
-            "tla": "RBB",
-            "crest": "https://crests.football-data.org/4286.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 9,
-          "draw": 2,
-          "lost": 7,
-          "points": 29,
-          "goalsFor": 25,
-          "goalsAgainst": 19,
-          "goalDifference": 6
-        },
-        {
           "position": 6,
           "team": {
             "id": 1777,
@@ -132,15 +132,15 @@
             "tla": "BAH",
             "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
-          "won": 7,
+          "won": 8,
           "draw": 5,
           "lost": 5,
-          "points": 26,
-          "goalsFor": 25,
+          "points": 29,
+          "goalsFor": 26,
           "goalsAgainst": 23,
-          "goalDifference": 2
+          "goalDifference": 3
         },
         {
           "position": 7,
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 5,
+          "draw": 7,
+          "lost": 7,
+          "points": 22,
+          "goalsFor": 20,
+          "goalsAgainst": 23,
+          "goalDifference": -3
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 6684,
             "name": "SC Internacional",
             "shortName": "Internacional",
@@ -293,25 +312,6 @@
           "goalsFor": 21,
           "goalsAgainst": 22,
           "goalDifference": -1
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 1767,
-            "name": "Grêmio FBPA",
-            "shortName": "Grêmio",
-            "tla": "FBP",
-            "crest": "https://crests.football-data.org/1767.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 5,
-          "draw": 6,
-          "lost": 7,
-          "points": 21,
-          "goalsFor": 20,
-          "goalsAgainst": 23,
-          "goalDifference": -3
         },
         {
           "position": 16,
@@ -379,12 +379,12 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 4,
-          "draw": 4,
+          "draw": 5,
           "lost": 9,
-          "points": 16,
+          "points": 17,
           "goalsFor": 18,
           "goalsAgainst": 24,
           "goalDifference": -6
@@ -398,19 +398,19 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
           "won": 1,
           "draw": 6,
-          "lost": 10,
+          "lost": 11,
           "points": 9,
           "goalsFor": 17,
-          "goalsAgainst": 33,
-          "goalDifference": -16
+          "goalsAgainst": 34,
+          "goalDifference": -17
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-07-17T22:20:41.495Z",
+  "atualizadoEm": "2026-07-17T23:23:20.240Z",
   "origem": "static-json"
 }
