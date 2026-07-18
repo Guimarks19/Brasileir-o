@@ -69,25 +69,6 @@
         {
           "position": 3,
           "team": {
-            "id": 4286,
-            "name": "RB Bragantino",
-            "shortName": "Bragantino",
-            "tla": "RBB",
-            "crest": "https://crests.football-data.org/4286.png"
-          },
-          "playedGames": 19,
-          "form": null,
-          "won": 10,
-          "draw": 2,
-          "lost": 7,
-          "points": 32,
-          "goalsFor": 26,
-          "goalsAgainst": 19,
-          "goalDifference": 7
-        },
-        {
-          "position": 4,
-          "team": {
             "id": 1765,
             "name": "Fluminense FC",
             "shortName": "Fluminense",
@@ -97,12 +78,31 @@
           "playedGames": 19,
           "form": null,
           "won": 9,
-          "draw": 4,
-          "lost": 6,
-          "points": 31,
-          "goalsFor": 28,
+          "draw": 5,
+          "lost": 5,
+          "points": 32,
+          "goalsFor": 29,
           "goalsAgainst": 24,
-          "goalDifference": 4
+          "goalDifference": 5
+        },
+        {
+          "position": 4,
+          "team": {
+            "id": 4286,
+            "name": "RB Bragantino",
+            "shortName": "Bragantino",
+            "tla": "RBB",
+            "crest": "https://crests.football-data.org/4286.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 9,
+          "draw": 3,
+          "lost": 7,
+          "points": 30,
+          "goalsFor": 26,
+          "goalsAgainst": 20,
+          "goalDifference": 6
         },
         {
           "position": 5,
@@ -328,9 +328,9 @@
           "draw": 6,
           "lost": 8,
           "points": 21,
-          "goalsFor": 20,
+          "goalsFor": 21,
           "goalsAgainst": 25,
-          "goalDifference": -5
+          "goalDifference": -4
         },
         {
           "position": 17,
@@ -367,8 +367,8 @@
           "lost": 9,
           "points": 19,
           "goalsFor": 20,
-          "goalsAgainst": 24,
-          "goalDifference": -4
+          "goalsAgainst": 25,
+          "goalDifference": -5
         },
         {
           "position": 19,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-07-18T00:55:07.121Z",
+  "atualizadoEm": "2026-07-18T03:54:01.648Z",
   "origem": "static-json"
 }
