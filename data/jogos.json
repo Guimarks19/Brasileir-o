@@ -442,7 +442,7 @@
       "matchday": 19,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-07-23T07:52:21Z",
+      "lastUpdated": "2026-07-23T10:12:21Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-07-23T07:32:04.438Z",
+  "atualizadoEm": "2026-07-23T10:21:41.237Z",
   "origem": "static-json"
 }
