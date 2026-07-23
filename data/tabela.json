@@ -43,8 +43,8 @@
           "draw": 5,
           "lost": 1,
           "points": 44,
-          "goalsFor": 32,
-          "goalsAgainst": 13,
+          "goalsFor": 33,
+          "goalsAgainst": 14,
           "goalDifference": 19
         },
         {
@@ -56,15 +56,15 @@
             "tla": "FLA",
             "crest": "https://crests.football-data.org/1783.png"
           },
-          "playedGames": 17,
+          "playedGames": 18,
           "form": null,
-          "won": 10,
+          "won": 11,
           "draw": 4,
           "lost": 3,
-          "points": 34,
-          "goalsFor": 31,
+          "points": 37,
+          "goalsFor": 32,
           "goalsAgainst": 16,
-          "goalDifference": 15
+          "goalDifference": 16
         },
         {
           "position": 3,
@@ -113,15 +113,15 @@
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 9,
           "draw": 3,
-          "lost": 6,
+          "lost": 7,
           "points": 30,
           "goalsFor": 24,
-          "goalsAgainst": 18,
-          "goalDifference": 6
+          "goalsAgainst": 19,
+          "goalDifference": 5
         },
         {
           "position": 6,
@@ -145,6 +145,44 @@
         {
           "position": 7,
           "team": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 8,
+          "draw": 4,
+          "lost": 7,
+          "points": 28,
+          "goalsFor": 24,
+          "goalsAgainst": 20,
+          "goalDifference": 4
+        },
+        {
+          "position": 8,
+          "team": {
+            "id": 1771,
+            "name": "Cruzeiro EC",
+            "shortName": "Cruzeiro",
+            "tla": "CRU",
+            "crest": "https://crests.football-data.org/1771.png"
+          },
+          "playedGames": 19,
+          "form": null,
+          "won": 7,
+          "draw": 6,
+          "lost": 6,
+          "points": 27,
+          "goalsFor": 25,
+          "goalsAgainst": 28,
+          "goalDifference": -3
+        },
+        {
+          "position": 9,
+          "team": {
             "id": 4241,
             "name": "Coritiba FBC",
             "shortName": "Coritiba",
@@ -157,31 +195,12 @@
           "draw": 5,
           "lost": 7,
           "points": 26,
-          "goalsFor": 24,
-          "goalsAgainst": 26,
+          "goalsFor": 25,
+          "goalsAgainst": 27,
           "goalDifference": -2
         },
         {
-          "position": 8,
-          "team": {
-            "id": 1776,
-            "name": "São Paulo FC",
-            "shortName": "São Paulo",
-            "tla": "PAU",
-            "crest": "https://crests.football-data.org/1776.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 7,
-          "draw": 4,
-          "lost": 7,
-          "points": 25,
-          "goalsFor": 23,
-          "goalsAgainst": 20,
-          "goalDifference": 3
-        },
-        {
-          "position": 9,
+          "position": 10,
           "team": {
             "id": 1770,
             "name": "Botafogo FR",
@@ -200,7 +219,7 @@
           "goalDifference": 1
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -219,7 +238,7 @@
           "goalDifference": -1
         },
         {
-          "position": 11,
+          "position": 12,
           "team": {
             "id": 1782,
             "name": "EC Vitória",
@@ -238,7 +257,7 @@
           "goalDifference": -3
         },
         {
-          "position": 12,
+          "position": 13,
           "team": {
             "id": 1779,
             "name": "SC Corinthians Paulista",
@@ -257,25 +276,6 @@
           "goalDifference": -1
         },
         {
-          "position": 13,
-          "team": {
-            "id": 1771,
-            "name": "Cruzeiro EC",
-            "shortName": "Cruzeiro",
-            "tla": "CRU",
-            "crest": "https://crests.football-data.org/1771.png"
-          },
-          "playedGames": 18,
-          "form": null,
-          "won": 6,
-          "draw": 6,
-          "lost": 6,
-          "points": 24,
-          "goalsFor": 24,
-          "goalsAgainst": 28,
-          "goalDifference": -4
-        },
-        {
           "position": 14,
           "team": {
             "id": 6684,
@@ -284,15 +284,15 @@
             "tla": "SCI",
             "crest": "https://crests.football-data.org/6684.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 5,
           "draw": 6,
-          "lost": 7,
+          "lost": 8,
           "points": 21,
           "goalsFor": 21,
-          "goalsAgainst": 22,
-          "goalDifference": -1
+          "goalsAgainst": 23,
+          "goalDifference": -2
         },
         {
           "position": 15,
@@ -398,19 +398,19 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 1,
           "draw": 6,
-          "lost": 11,
+          "lost": 12,
           "points": 9,
           "goalsFor": 17,
-          "goalsAgainst": 35,
-          "goalDifference": -18
+          "goalsAgainst": 36,
+          "goalDifference": -19
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-07-22T23:29:04.517Z",
+  "atualizadoEm": "2026-07-23T01:04:22.085Z",
   "origem": "static-json"
 }
