@@ -77,13 +77,13 @@
           },
           "playedGames": 20,
           "form": null,
-          "won": 10,
-          "draw": 4,
+          "won": 11,
+          "draw": 3,
           "lost": 6,
-          "points": 34,
-          "goalsFor": 26,
+          "points": 36,
+          "goalsFor": 28,
           "goalsAgainst": 19,
-          "goalDifference": 7
+          "goalDifference": 9
         },
         {
           "position": 4,
@@ -278,25 +278,6 @@
         {
           "position": 14,
           "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 5,
-          "draw": 7,
-          "lost": 8,
-          "points": 22,
-          "goalsFor": 22,
-          "goalsAgainst": 24,
-          "goalDifference": -2
-        },
-        {
-          "position": 15,
-          "team": {
             "id": 6685,
             "name": "Santos FC",
             "shortName": "Santos",
@@ -309,8 +290,27 @@
           "draw": 7,
           "lost": 8,
           "points": 22,
-          "goalsFor": 27,
-          "goalsAgainst": 31,
+          "goalsFor": 29,
+          "goalsAgainst": 33,
+          "goalDifference": -4
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 20,
+          "form": null,
+          "won": 5,
+          "draw": 6,
+          "lost": 9,
+          "points": 21,
+          "goalsFor": 22,
+          "goalsAgainst": 26,
           "goalDifference": -4
         },
         {
@@ -341,12 +341,12 @@
             "tla": "VAS",
             "crest": "https://crests.football-data.org/1780.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 5,
-          "draw": 5,
+          "draw": 6,
           "lost": 9,
-          "points": 20,
+          "points": 21,
           "goalsFor": 22,
           "goalsAgainst": 30,
           "goalDifference": -8
@@ -360,12 +360,12 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 18,
+          "playedGames": 19,
           "form": null,
           "won": 5,
-          "draw": 4,
+          "draw": 5,
           "lost": 9,
-          "points": 19,
+          "points": 20,
           "goalsFor": 20,
           "goalsAgainst": 25,
           "goalDifference": -5
@@ -404,13 +404,13 @@
           "draw": 7,
           "lost": 12,
           "points": 10,
-          "goalsFor": 17,
-          "goalsAgainst": 39,
+          "goalsFor": 19,
+          "goalsAgainst": 41,
           "goalDifference": -22
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-07-25T22:26:20.060Z",
+  "atualizadoEm": "2026-07-25T23:31:51.850Z",
   "origem": "static-json"
 }
