@@ -132,15 +132,15 @@
             "tla": "BAH",
             "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 8,
           "draw": 6,
-          "lost": 5,
+          "lost": 6,
           "points": 30,
           "goalsFor": 28,
-          "goalsAgainst": 24,
-          "goalDifference": 4
+          "goalsAgainst": 25,
+          "goalDifference": 3
         },
         {
           "position": 7,
@@ -151,15 +151,15 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/1779.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
-          "won": 7,
+          "won": 8,
           "draw": 6,
           "lost": 6,
-          "points": 27,
-          "goalsFor": 21,
+          "points": 30,
+          "goalsFor": 22,
           "goalsAgainst": 19,
-          "goalDifference": 2
+          "goalDifference": 3
         },
         {
           "position": 8,
@@ -170,12 +170,12 @@
             "tla": "CRU",
             "crest": "https://crests.football-data.org/1771.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 7,
-          "draw": 6,
+          "draw": 7,
           "lost": 6,
-          "points": 27,
+          "points": 28,
           "goalsFor": 26,
           "goalsAgainst": 29,
           "goalDifference": -3
@@ -189,12 +189,12 @@
             "tla": "BOT",
             "crest": "https://crests.football-data.org/1770.png"
           },
-          "playedGames": 19,
+          "playedGames": 20,
           "form": null,
           "won": 7,
-          "draw": 5,
+          "draw": 6,
           "lost": 7,
-          "points": 26,
+          "points": 27,
           "goalsFor": 33,
           "goalsAgainst": 32,
           "goalDifference": 1
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-07-26T18:07:38.030Z",
+  "atualizadoEm": "2026-07-26T19:43:18.087Z",
   "origem": "static-json"
 }
