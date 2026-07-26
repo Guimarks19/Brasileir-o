@@ -28,7 +28,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-07-26T19:42:48Z",
+      "lastUpdated": "2026-07-26T20:56:36Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -44,15 +44,15 @@
         "crest": "https://crests.football-data.org/1779.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -87,7 +87,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-07-26T19:42:51Z",
+      "lastUpdated": "2026-07-26T20:56:36Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -103,15 +103,15 @@
         "crest": "https://crests.football-data.org/1770.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -325,7 +325,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-07-26T19:42:48Z",
+      "lastUpdated": "2026-07-26T20:56:36Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -341,15 +341,15 @@
         "crest": "https://crests.football-data.org/1779.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 1
         }
       },
       "odds": {
@@ -384,7 +384,7 @@
       "matchday": 20,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-07-26T19:42:51Z",
+      "lastUpdated": "2026-07-26T20:56:36Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -400,15 +400,15 @@
         "crest": "https://crests.football-data.org/1770.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -1187,6 +1187,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-07-26T19:43:18.087Z",
+  "atualizadoEm": "2026-07-26T20:56:59.936Z",
   "origem": "static-json"
 }
