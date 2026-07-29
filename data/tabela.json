@@ -59,12 +59,12 @@
           "playedGames": 20,
           "form": null,
           "won": 11,
-          "draw": 6,
-          "lost": 3,
-          "points": 39,
+          "draw": 5,
+          "lost": 4,
+          "points": 38,
           "goalsFor": 36,
-          "goalsAgainst": 17,
-          "goalDifference": 19
+          "goalsAgainst": 18,
+          "goalDifference": 18
         },
         {
           "position": 3,
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 6,
+          "draw": 6,
+          "lost": 9,
+          "points": 24,
+          "goalsFor": 23,
+          "goalsAgainst": 26,
+          "goalDifference": -3
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 6685,
             "name": "Santos FC",
             "shortName": "Santos",
@@ -295,7 +314,7 @@
           "goalDifference": -4
         },
         {
-          "position": 15,
+          "position": 16,
           "team": {
             "id": 1767,
             "name": "Grêmio FBPA",
@@ -308,25 +327,6 @@
           "won": 5,
           "draw": 7,
           "lost": 8,
-          "points": 22,
-          "goalsFor": 22,
-          "goalsAgainst": 26,
-          "goalDifference": -4
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 5,
-          "draw": 7,
-          "lost": 9,
           "points": 22,
           "goalsFor": 22,
           "goalsAgainst": 26,
@@ -347,8 +347,8 @@
           "draw": 7,
           "lost": 9,
           "points": 22,
-          "goalsFor": 23,
-          "goalsAgainst": 32,
+          "goalsFor": 24,
+          "goalsAgainst": 33,
           "goalDifference": -9
         },
         {
@@ -366,8 +366,8 @@
           "draw": 6,
           "lost": 9,
           "points": 21,
-          "goalsFor": 21,
-          "goalsAgainst": 26,
+          "goalsFor": 22,
+          "goalsAgainst": 27,
           "goalDifference": -5
         },
         {
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-07-29T22:30:44.558Z",
+  "atualizadoEm": "2026-07-29T23:58:22.689Z",
   "origem": "static-json"
 }
