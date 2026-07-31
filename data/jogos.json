@@ -501,7 +501,7 @@
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-07-31T00:36:20Z",
+      "lastUpdated": "2026-07-31T03:25:05Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -556,11 +556,11 @@
       },
       "id": 554944,
       "utcDate": "2026-07-31T00:30:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": 21,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-07-31T01:04:06Z",
+      "lastUpdated": "2026-07-31T03:25:05Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -576,15 +576,15 @@
         "crest": "https://crests.football-data.org/1771.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-07-31T01:04:15.255Z",
+  "atualizadoEm": "2026-07-31T04:58:40.139Z",
   "origem": "static-json"
 }
