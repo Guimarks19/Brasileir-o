@@ -221,6 +221,25 @@
         {
           "position": 11,
           "team": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 7,
+          "draw": 6,
+          "lost": 8,
+          "points": 27,
+          "goalsFor": 25,
+          "goalsAgainst": 23,
+          "goalDifference": 2
+        },
+        {
+          "position": 12,
+          "team": {
             "id": 4241,
             "name": "Coritiba FBC",
             "shortName": "Coritiba",
@@ -236,25 +255,6 @@
           "goalsFor": 25,
           "goalsAgainst": 28,
           "goalDifference": -3
-        },
-        {
-          "position": 12,
-          "team": {
-            "id": 1776,
-            "name": "São Paulo FC",
-            "shortName": "São Paulo",
-            "tla": "PAU",
-            "crest": "https://crests.football-data.org/1776.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 7,
-          "draw": 5,
-          "lost": 8,
-          "points": 26,
-          "goalsFor": 25,
-          "goalsAgainst": 23,
-          "goalDifference": 2
         },
         {
           "position": 13,
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 5,
+          "draw": 8,
+          "lost": 8,
+          "points": 23,
+          "goalsFor": 22,
+          "goalsAgainst": 26,
+          "goalDifference": -4
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 6685,
             "name": "Santos FC",
             "shortName": "Santos",
@@ -314,7 +333,7 @@
           "goalDifference": -4
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 6684,
             "name": "SC Internacional",
@@ -330,25 +349,6 @@
           "points": 22,
           "goalsFor": 23,
           "goalsAgainst": 27,
-          "goalDifference": -4
-        },
-        {
-          "position": 17,
-          "team": {
-            "id": 1767,
-            "name": "Grêmio FBPA",
-            "shortName": "Grêmio",
-            "tla": "FBP",
-            "crest": "https://crests.football-data.org/1767.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 5,
-          "draw": 7,
-          "lost": 8,
-          "points": 22,
-          "goalsFor": 22,
-          "goalsAgainst": 26,
           "goalDifference": -4
         },
         {
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-08T18:51:02.088Z",
+  "atualizadoEm": "2026-08-08T19:28:13.431Z",
   "origem": "static-json"
 }
