@@ -221,25 +221,6 @@
         {
           "position": 11,
           "team": {
-            "id": 1776,
-            "name": "São Paulo FC",
-            "shortName": "São Paulo",
-            "tla": "PAU",
-            "crest": "https://crests.football-data.org/1776.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 7,
-          "draw": 6,
-          "lost": 8,
-          "points": 27,
-          "goalsFor": 26,
-          "goalsAgainst": 24,
-          "goalDifference": 2
-        },
-        {
-          "position": 12,
-          "team": {
             "id": 4241,
             "name": "Coritiba FBC",
             "shortName": "Coritiba",
@@ -255,6 +236,25 @@
           "goalsFor": 25,
           "goalsAgainst": 28,
           "goalDifference": -3
+        },
+        {
+          "position": 12,
+          "team": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 7,
+          "draw": 5,
+          "lost": 9,
+          "points": 26,
+          "goalsFor": 26,
+          "goalsAgainst": 25,
+          "goalDifference": 1
         },
         {
           "position": 13,
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 6,
+          "draw": 7,
+          "lost": 8,
+          "points": 25,
+          "goalsFor": 24,
+          "goalsAgainst": 27,
+          "goalDifference": -3
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 4364,
             "name": "Mirassol FC",
             "shortName": "Mirassol",
@@ -289,25 +308,6 @@
           "won": 6,
           "draw": 5,
           "lost": 9,
-          "points": 23,
-          "goalsFor": 23,
-          "goalsAgainst": 27,
-          "goalDifference": -4
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 1767,
-            "name": "Grêmio FBPA",
-            "shortName": "Grêmio",
-            "tla": "FBP",
-            "crest": "https://crests.football-data.org/1767.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 5,
-          "draw": 8,
-          "lost": 8,
           "points": 23,
           "goalsFor": 23,
           "goalsAgainst": 27,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-08T20:31:12.648Z",
+  "atualizadoEm": "2026-08-08T21:28:32.686Z",
   "origem": "static-json"
 }

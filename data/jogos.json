@@ -25,11 +25,11 @@
       },
       "id": 554956,
       "utcDate": "2026-08-08T19:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-08T20:30:50Z",
+      "lastUpdated": "2026-08-08T21:06:45Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -45,10 +45,10 @@
         "crest": "https://crests.football-data.org/1776.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-08T20:31:12.648Z",
+  "atualizadoEm": "2026-08-08T21:28:32.686Z",
   "origem": "static-json"
 }
