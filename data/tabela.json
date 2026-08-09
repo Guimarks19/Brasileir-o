@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 1771,
+            "name": "Cruzeiro EC",
+            "shortName": "Cruzeiro",
+            "tla": "CRU",
+            "crest": "https://crests.football-data.org/1771.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 9,
+          "draw": 6,
+          "lost": 7,
+          "points": 33,
+          "goalsFor": 30,
+          "goalsAgainst": 31,
+          "goalDifference": -1
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 1777,
             "name": "EC Bahia",
             "shortName": "Bahia",
@@ -124,7 +143,7 @@
           "goalDifference": 4
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 4286,
             "name": "RB Bragantino",
@@ -141,25 +160,6 @@
           "goalsFor": 26,
           "goalsAgainst": 20,
           "goalDifference": 6
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 1771,
-            "name": "Cruzeiro EC",
-            "shortName": "Cruzeiro",
-            "tla": "CRU",
-            "crest": "https://crests.football-data.org/1771.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 8,
-          "draw": 7,
-          "lost": 7,
-          "points": 31,
-          "goalsFor": 28,
-          "goalsAgainst": 31,
-          "goalDifference": -3
         },
         {
           "position": 8,
@@ -306,12 +306,12 @@
           "playedGames": 21,
           "form": null,
           "won": 6,
-          "draw": 6,
-          "lost": 9,
-          "points": 24,
+          "draw": 5,
+          "lost": 10,
+          "points": 23,
           "goalsFor": 24,
-          "goalsAgainst": 28,
-          "goalDifference": -4
+          "goalsAgainst": 30,
+          "goalDifference": -6
         },
         {
           "position": 16,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-09T15:30:19.836Z",
+  "atualizadoEm": "2026-08-09T16:32:57.456Z",
   "origem": "static-json"
 }
