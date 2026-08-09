@@ -150,11 +150,11 @@
       },
       "id": 554953,
       "utcDate": "2026-08-08T23:30:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-09T01:45:34Z",
+      "lastUpdated": "2026-08-09T01:42:16Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -170,15 +170,15 @@
         "crest": "https://crests.football-data.org/1772_large.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -1089,6 +1089,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-09T05:03:21.251Z",
+  "atualizadoEm": "2026-08-09T06:07:18.173Z",
   "origem": "static-json"
 }
