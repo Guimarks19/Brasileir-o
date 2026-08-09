@@ -50,6 +50,25 @@
         {
           "position": 2,
           "team": {
+            "id": 1768,
+            "name": "CA Paranaense",
+            "shortName": "Paranaense",
+            "tla": "CAP",
+            "crest": "https://crests.football-data.org/1768.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 12,
+          "draw": 4,
+          "lost": 6,
+          "points": 40,
+          "goalsFor": 30,
+          "goalsAgainst": 19,
+          "goalDifference": 11
+        },
+        {
+          "position": 3,
+          "team": {
             "id": 1783,
             "name": "CR Flamengo",
             "shortName": "Flamengo",
@@ -65,25 +84,6 @@
           "goalsFor": 37,
           "goalsAgainst": 18,
           "goalDifference": 19
-        },
-        {
-          "position": 3,
-          "team": {
-            "id": 1768,
-            "name": "CA Paranaense",
-            "shortName": "Paranaense",
-            "tla": "CAP",
-            "crest": "https://crests.football-data.org/1768.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 11,
-          "draw": 5,
-          "lost": 6,
-          "points": 38,
-          "goalsFor": 28,
-          "goalsAgainst": 19,
-          "goalDifference": 9
         },
         {
           "position": 4,
@@ -316,25 +316,6 @@
         {
           "position": 16,
           "team": {
-            "id": 6685,
-            "name": "Santos FC",
-            "shortName": "Santos",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/6685.png"
-          },
-          "playedGames": 21,
-          "form": null,
-          "won": 5,
-          "draw": 8,
-          "lost": 8,
-          "points": 23,
-          "goalsFor": 29,
-          "goalsAgainst": 33,
-          "goalDifference": -4
-        },
-        {
-          "position": 17,
-          "team": {
             "id": 6684,
             "name": "SC Internacional",
             "shortName": "Internacional",
@@ -350,6 +331,25 @@
           "goalsFor": 23,
           "goalsAgainst": 27,
           "goalDifference": -4
+        },
+        {
+          "position": 17,
+          "team": {
+            "id": 6685,
+            "name": "Santos FC",
+            "shortName": "Santos",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/6685.png"
+          },
+          "playedGames": 21,
+          "form": null,
+          "won": 5,
+          "draw": 7,
+          "lost": 9,
+          "points": 22,
+          "goalsFor": 29,
+          "goalsAgainst": 35,
+          "goalDifference": -6
         },
         {
           "position": 18,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-09T21:31:00.071Z",
+  "atualizadoEm": "2026-08-09T22:29:29.137Z",
   "origem": "static-json"
 }
