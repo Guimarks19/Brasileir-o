@@ -118,7 +118,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 18754,
+          "name": "Ramon Abatti Abel",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -143,11 +150,11 @@
       },
       "id": 554953,
       "utcDate": "2026-08-08T23:30:00Z",
-      "status": "FINISHED",
+      "status": "TIMED",
       "matchday": 22,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-09T01:42:16Z",
+      "lastUpdated": "2026-08-09T01:45:34Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -163,21 +170,28 @@
         "crest": "https://crests.football-data.org/1772_large.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": null,
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 1
+          "home": null,
+          "away": null
         },
         "halfTime": {
-          "home": 1,
-          "away": 0
+          "home": null,
+          "away": null
         }
       },
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 160716,
+          "name": "Théo Vitoux",
+          "type": "REFEREE",
+          "nationality": "France"
+        }
+      ]
     },
     {
       "area": {
@@ -236,7 +250,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11426,
+          "name": "Bruno Arleu de Araujo",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -1068,6 +1089,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-09T03:41:24.439Z",
+  "atualizadoEm": "2026-08-09T05:03:21.251Z",
   "origem": "static-json"
 }
