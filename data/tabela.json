@@ -37,12 +37,12 @@
             "tla": "PAL",
             "crest": "https://crests.football-data.org/1769.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 14,
-          "draw": 5,
+          "draw": 6,
           "lost": 2,
-          "points": 47,
+          "points": 48,
           "goalsFor": 38,
           "goalsAgainst": 16,
           "goalDifference": 22
@@ -132,12 +132,12 @@
             "tla": "BAH",
             "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 21,
+          "playedGames": 22,
           "form": null,
           "won": 8,
-          "draw": 8,
+          "draw": 9,
           "lost": 5,
-          "points": 32,
+          "points": 33,
           "goalsFor": 29,
           "goalsAgainst": 25,
           "goalDifference": 4
@@ -316,6 +316,25 @@
         {
           "position": 16,
           "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 22,
+          "form": null,
+          "won": 5,
+          "draw": 8,
+          "lost": 9,
+          "points": 23,
+          "goalsFor": 23,
+          "goalsAgainst": 27,
+          "goalDifference": -4
+        },
+        {
+          "position": 17,
+          "team": {
             "id": 6685,
             "name": "Santos FC",
             "shortName": "Santos",
@@ -333,13 +352,13 @@
           "goalDifference": -4
         },
         {
-          "position": 17,
+          "position": 18,
           "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
+            "id": 1780,
+            "name": "CR Vasco da Gama",
+            "shortName": "Vasco da Gama",
+            "tla": "VAS",
+            "crest": "https://crests.football-data.org/1780.png"
           },
           "playedGames": 21,
           "form": null,
@@ -348,11 +367,11 @@
           "lost": 9,
           "points": 22,
           "goalsFor": 23,
-          "goalsAgainst": 27,
-          "goalDifference": -4
+          "goalsAgainst": 31,
+          "goalDifference": -8
         },
         {
-          "position": 18,
+          "position": 19,
           "team": {
             "id": 4287,
             "name": "Clube do Remo",
@@ -369,25 +388,6 @@
           "goalsFor": 26,
           "goalsAgainst": 36,
           "goalDifference": -10
-        },
-        {
-          "position": 19,
-          "team": {
-            "id": 1780,
-            "name": "CR Vasco da Gama",
-            "shortName": "Vasco da Gama",
-            "tla": "VAS",
-            "crest": "https://crests.football-data.org/1780.png"
-          },
-          "playedGames": 20,
-          "form": null,
-          "won": 5,
-          "draw": 6,
-          "lost": 9,
-          "points": 21,
-          "goalsFor": 23,
-          "goalsAgainst": 31,
-          "goalDifference": -8
         },
         {
           "position": 20,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-09T18:38:39.189Z",
+  "atualizadoEm": "2026-08-09T19:31:45.794Z",
   "origem": "static-json"
 }
