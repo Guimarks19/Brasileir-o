@@ -19,7 +19,7 @@
     "id": 2474,
     "startDate": "2026-01-28",
     "endDate": "2026-12-02",
-    "currentMatchday": 22,
+    "currentMatchday": 23,
     "winner": null
   },
   "standings": [
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-12T08:47:08.828Z",
+  "atualizadoEm": "2026-08-12T10:03:12.459Z",
   "origem": "static-json"
 }
