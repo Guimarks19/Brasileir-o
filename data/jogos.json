@@ -28,7 +28,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T22:46:35Z",
+      "lastUpdated": "2026-08-15T23:18:35Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -47,8 +47,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -148,7 +148,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T22:46:35Z",
+      "lastUpdated": "2026-08-15T23:18:35Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -167,8 +167,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-15T22:47:15.536Z",
+  "atualizadoEm": "2026-08-15T23:19:11.737Z",
   "origem": "static-json"
 }
