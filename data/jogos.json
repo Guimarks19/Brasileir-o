@@ -28,7 +28,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:44:11Z",
+      "lastUpdated": "2026-08-15T20:19:23Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -47,8 +47,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -89,7 +89,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T19:44:11Z",
+      "lastUpdated": "2026-08-15T20:19:23Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -108,8 +108,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-15T19:44:42.964Z",
+  "atualizadoEm": "2026-08-15T20:20:22.983Z",
   "origem": "static-json"
 }
