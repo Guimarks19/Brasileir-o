@@ -28,7 +28,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:44:11Z",
+      "lastUpdated": "2026-08-15T22:18:51Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -148,7 +148,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-15T21:44:11Z",
+      "lastUpdated": "2026-08-15T22:18:51Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-15T21:44:46.394Z",
+  "atualizadoEm": "2026-08-15T22:19:33.853Z",
   "origem": "static-json"
 }
