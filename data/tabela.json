@@ -37,12 +37,12 @@
             "tla": "PAL",
             "crest": "https://crests.football-data.org/1769.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 14,
-          "draw": 6,
+          "draw": 7,
           "lost": 2,
-          "points": 48,
+          "points": 49,
           "goalsFor": 38,
           "goalsAgainst": 16,
           "goalDifference": 22
@@ -94,12 +94,12 @@
             "tla": "FLU",
             "crest": "https://crests.football-data.org/1765.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 9,
-          "draw": 8,
+          "draw": 9,
           "lost": 5,
-          "points": 35,
+          "points": 36,
           "goalsFor": 31,
           "goalsAgainst": 26,
           "goalDifference": 5
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-15T19:24:20.353Z",
+  "atualizadoEm": "2026-08-15T19:44:42.964Z",
   "origem": "static-json"
 }
