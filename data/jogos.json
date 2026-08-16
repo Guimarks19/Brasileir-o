@@ -320,11 +320,11 @@
       },
       "id": 554968,
       "utcDate": "2026-08-16T19:00:00Z",
-      "status": "2026-08-16 18:00:00Z",
+      "status": "LIVE",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T13:37:43Z",
+      "lastUpdated": "2026-08-16T19:22:05Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -340,11 +340,11 @@
         "crest": "https://crests.football-data.org/6685.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-16T18:56:42.135Z",
+  "atualizadoEm": "2026-08-16T19:22:24.462Z",
   "origem": "static-json"
 }
