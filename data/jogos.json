@@ -28,7 +28,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T21:43:07Z",
+      "lastUpdated": "2026-08-16T22:18:19Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -44,11 +44,11 @@
         "crest": "https://crests.football-data.org/1783.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -87,7 +87,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T21:43:07Z",
+      "lastUpdated": "2026-08-16T22:18:19Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -103,10 +103,10 @@
         "crest": "https://crests.football-data.org/1770.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -502,7 +502,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T21:43:07Z",
+      "lastUpdated": "2026-08-16T22:18:19Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -518,11 +518,11 @@
         "crest": "https://crests.football-data.org/1783.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -561,7 +561,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T21:43:07Z",
+      "lastUpdated": "2026-08-16T22:18:19Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -577,10 +577,10 @@
         "crest": "https://crests.football-data.org/1770.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 2,
           "away": 0
         },
         "halfTime": {
@@ -1187,6 +1187,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-16T21:44:02.972Z",
+  "atualizadoEm": "2026-08-16T22:19:17.611Z",
   "origem": "static-json"
 }
