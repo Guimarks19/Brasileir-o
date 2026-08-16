@@ -28,7 +28,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:46:03Z",
+      "lastUpdated": "2026-08-16T23:18:03Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -47,8 +47,8 @@
         "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 1
+          "home": 1,
+          "away": 5
         },
         "halfTime": {
           "home": 0,
@@ -87,7 +87,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:46:03Z",
+      "lastUpdated": "2026-08-16T23:18:03Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -502,7 +502,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:46:03Z",
+      "lastUpdated": "2026-08-16T23:18:03Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -521,8 +521,8 @@
         "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 1
+          "home": 1,
+          "away": 5
         },
         "halfTime": {
           "home": 0,
@@ -561,7 +561,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:46:03Z",
+      "lastUpdated": "2026-08-16T23:18:03Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -620,7 +620,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:46:07Z",
+      "lastUpdated": "2026-08-16T23:18:08Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -636,11 +636,11 @@
         "crest": "https://crests.football-data.org/1771.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -1187,6 +1187,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-16T22:46:28.974Z",
+  "atualizadoEm": "2026-08-16T23:18:12.641Z",
   "origem": "static-json"
 }
