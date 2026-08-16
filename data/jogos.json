@@ -324,7 +324,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T20:19:22Z",
+      "lastUpdated": "2026-08-16T20:46:23Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -340,11 +340,11 @@
         "crest": "https://crests.football-data.org/6685.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 2
         },
         "halfTime": {
           "home": 0,
@@ -442,7 +442,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T19:35:07Z",
+      "lastUpdated": "2026-08-16T19:35:08Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -497,11 +497,11 @@
       },
       "id": 554963,
       "utcDate": "2026-08-16T22:30:00Z",
-      "status": "2026-08-16 21:30:00Z",
+      "status": "TIMED",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T13:37:43Z",
+      "lastUpdated": "2026-08-16T20:36:40Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-16T20:20:10.807Z",
+  "atualizadoEm": "2026-08-16T20:47:15.131Z",
   "origem": "static-json"
 }
