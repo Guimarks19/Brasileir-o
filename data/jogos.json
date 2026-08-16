@@ -28,7 +28,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:20:13Z",
+      "lastUpdated": "2026-08-16T15:45:48Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -47,8 +47,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 2
+          "home": 3,
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -266,7 +266,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T15:20:13Z",
+      "lastUpdated": "2026-08-16T15:45:48Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -285,8 +285,8 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
-          "away": 2
+          "home": 3,
+          "away": 3
         },
         "halfTime": {
           "home": 1,
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-16T15:20:17.191Z",
+  "atualizadoEm": "2026-08-16T15:46:00.158Z",
   "origem": "static-json"
 }
