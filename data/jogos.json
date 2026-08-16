@@ -28,7 +28,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:18:19Z",
+      "lastUpdated": "2026-08-16T22:46:03Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -51,8 +51,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -87,7 +87,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:18:19Z",
+      "lastUpdated": "2026-08-16T22:46:03Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -106,12 +106,12 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -502,7 +502,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:18:19Z",
+      "lastUpdated": "2026-08-16T22:46:03Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -525,8 +525,8 @@
           "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -561,7 +561,7 @@
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T22:18:19Z",
+      "lastUpdated": "2026-08-16T22:46:03Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -580,12 +580,12 @@
         "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 2,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -616,11 +616,11 @@
       },
       "id": 554963,
       "utcDate": "2026-08-16T22:30:00Z",
-      "status": "TIMED",
+      "status": "LIVE",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-16T20:36:40Z",
+      "lastUpdated": "2026-08-16T22:46:07Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -636,11 +636,11 @@
         "crest": "https://crests.football-data.org/1771.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -1187,6 +1187,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-16T22:19:17.611Z",
+  "atualizadoEm": "2026-08-16T22:46:28.974Z",
   "origem": "static-json"
 }
