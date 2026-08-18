@@ -278,25 +278,6 @@
         {
           "position": 14,
           "team": {
-            "id": 6684,
-            "name": "SC Internacional",
-            "shortName": "Internacional",
-            "tla": "SCI",
-            "crest": "https://crests.football-data.org/6684.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 6,
-          "draw": 8,
-          "lost": 9,
-          "points": 26,
-          "goalsFor": 24,
-          "goalsAgainst": 27,
-          "goalDifference": -3
-        },
-        {
-          "position": 15,
-          "team": {
             "id": 6685,
             "name": "Santos FC",
             "shortName": "Santos",
@@ -314,7 +295,7 @@
           "goalDifference": -3
         },
         {
-          "position": 16,
+          "position": 15,
           "team": {
             "id": 1767,
             "name": "Grêmio FBPA",
@@ -331,6 +312,25 @@
           "goalsFor": 24,
           "goalsAgainst": 30,
           "goalDifference": -6
+        },
+        {
+          "position": 16,
+          "team": {
+            "id": 6684,
+            "name": "SC Internacional",
+            "shortName": "Internacional",
+            "tla": "SCI",
+            "crest": "https://crests.football-data.org/6684.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 5,
+          "draw": 9,
+          "lost": 9,
+          "points": 24,
+          "goalsFor": 24,
+          "goalsAgainst": 28,
+          "goalDifference": -4
         },
         {
           "position": 17,
@@ -363,12 +363,12 @@
           "playedGames": 23,
           "form": null,
           "won": 5,
-          "draw": 7,
-          "lost": 11,
-          "points": 22,
-          "goalsFor": 26,
+          "draw": 8,
+          "lost": 10,
+          "points": 23,
+          "goalsFor": 27,
           "goalsAgainst": 37,
-          "goalDifference": -11
+          "goalDifference": -10
         },
         {
           "position": 19,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-17T23:46:42.940Z",
+  "atualizadoEm": "2026-08-18T01:09:55.818Z",
   "origem": "static-json"
 }

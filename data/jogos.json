@@ -556,11 +556,11 @@
       },
       "id": 554965,
       "utcDate": "2026-08-17T23:00:00Z",
-      "status": "LIVE",
+      "status": "FINISHED",
       "matchday": 23,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-17T23:46:19Z",
+      "lastUpdated": "2026-08-18T01:05:56Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -576,15 +576,15 @@
         "crest": "https://crests.football-data.org/4287.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
           "home": 1,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-17T23:46:42.940Z",
+  "atualizadoEm": "2026-08-18T01:09:55.818Z",
   "origem": "static-json"
 }
