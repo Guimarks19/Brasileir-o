@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T22:46:54Z",
+      "lastUpdated": "2026-08-22T23:18:54Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -148,7 +148,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T22:46:54Z",
+      "lastUpdated": "2026-08-22T23:18:54Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-22T22:47:48.617Z",
+  "atualizadoEm": "2026-08-22T23:19:23.641Z",
   "origem": "static-json"
 }
