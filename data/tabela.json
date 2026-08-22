@@ -145,6 +145,25 @@
         {
           "position": 7,
           "team": {
+            "id": 1766,
+            "name": "CA Mineiro",
+            "shortName": "Mineiro",
+            "tla": "CAM",
+            "crest": "https://crests.football-data.org/1766.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 9,
+          "draw": 6,
+          "lost": 8,
+          "points": 33,
+          "goalsFor": 30,
+          "goalsAgainst": 27,
+          "goalDifference": 3
+        },
+        {
+          "position": 8,
+          "team": {
             "id": 4286,
             "name": "RB Bragantino",
             "shortName": "Bragantino",
@@ -160,25 +179,6 @@
           "goalsFor": 27,
           "goalsAgainst": 23,
           "goalDifference": 4
-        },
-        {
-          "position": 8,
-          "team": {
-            "id": 1766,
-            "name": "CA Mineiro",
-            "shortName": "Mineiro",
-            "tla": "CAM",
-            "crest": "https://crests.football-data.org/1766.png"
-          },
-          "playedGames": 22,
-          "form": null,
-          "won": 9,
-          "draw": 5,
-          "lost": 8,
-          "points": 32,
-          "goalsFor": 30,
-          "goalsAgainst": 27,
-          "goalDifference": 3
         },
         {
           "position": 9,
@@ -322,12 +322,12 @@
             "tla": "SCI",
             "crest": "https://crests.football-data.org/6684.png"
           },
-          "playedGames": 23,
+          "playedGames": 24,
           "form": null,
           "won": 5,
-          "draw": 9,
+          "draw": 10,
           "lost": 9,
-          "points": 24,
+          "points": 25,
           "goalsFor": 24,
           "goalsAgainst": 28,
           "goalDifference": -4
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-22T21:20:09.890Z",
+  "atualizadoEm": "2026-08-22T21:46:03.901Z",
   "origem": "static-json"
 }
