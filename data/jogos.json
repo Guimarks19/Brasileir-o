@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T22:19:10Z",
+      "lastUpdated": "2026-08-22T22:46:54Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -51,8 +51,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -148,7 +148,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T22:19:10Z",
+      "lastUpdated": "2026-08-22T22:46:54Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -171,8 +171,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-22T22:20:08.303Z",
+  "atualizadoEm": "2026-08-22T22:47:48.617Z",
   "origem": "static-json"
 }
