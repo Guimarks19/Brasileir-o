@@ -189,12 +189,12 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/1779.png"
           },
-          "playedGames": 23,
+          "playedGames": 24,
           "form": null,
           "won": 8,
-          "draw": 8,
+          "draw": 9,
           "lost": 7,
-          "points": 32,
+          "points": 33,
           "goalsFor": 25,
           "goalsAgainst": 22,
           "goalDifference": 3
@@ -208,12 +208,12 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/4241.png"
           },
-          "playedGames": 23,
+          "playedGames": 24,
           "form": null,
           "won": 8,
-          "draw": 7,
+          "draw": 8,
           "lost": 8,
-          "points": 31,
+          "points": 32,
           "goalsFor": 28,
           "goalsAgainst": 30,
           "goalDifference": -2
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-23T22:20:21.842Z",
+  "atualizadoEm": "2026-08-23T22:47:41.960Z",
   "origem": "static-json"
 }
