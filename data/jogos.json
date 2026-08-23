@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:45:02Z",
+      "lastUpdated": "2026-08-23T22:20:14Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -44,10 +44,10 @@
         "crest": "https://crests.football-data.org/1776.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -87,7 +87,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:45:02Z",
+      "lastUpdated": "2026-08-23T22:20:14Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -103,11 +103,11 @@
         "crest": "https://crests.football-data.org/4364.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -502,7 +502,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:45:02Z",
+      "lastUpdated": "2026-08-23T22:20:14Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -518,10 +518,10 @@
         "crest": "https://crests.football-data.org/1776.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -561,7 +561,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:45:02Z",
+      "lastUpdated": "2026-08-23T22:20:14Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -577,11 +577,11 @@
         "crest": "https://crests.football-data.org/4364.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": null,
@@ -1187,6 +1187,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-23T21:45:06.486Z",
+  "atualizadoEm": "2026-08-23T22:20:21.842Z",
   "origem": "static-json"
 }
