@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T22:46:54Z",
+      "lastUpdated": "2026-08-23T23:18:54Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -87,7 +87,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T22:46:22Z",
+      "lastUpdated": "2026-08-23T23:18:22Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -103,10 +103,10 @@
         "crest": "https://crests.football-data.org/4364.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
@@ -146,7 +146,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T22:47:26Z",
+      "lastUpdated": "2026-08-23T23:18:22Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -162,10 +162,10 @@
         "crest": "https://crests.football-data.org/1779.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -384,7 +384,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T21:05:02Z",
+      "lastUpdated": "2026-08-23T21:05:03Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -561,7 +561,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T22:46:54Z",
+      "lastUpdated": "2026-08-23T23:18:54Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -620,7 +620,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T22:46:22Z",
+      "lastUpdated": "2026-08-23T23:18:22Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -636,10 +636,10 @@
         "crest": "https://crests.football-data.org/4364.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 1
         },
         "halfTime": {
@@ -679,7 +679,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T22:47:26Z",
+      "lastUpdated": "2026-08-23T23:18:22Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -695,10 +695,10 @@
         "crest": "https://crests.football-data.org/1779.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 1,
           "away": 0
         },
         "halfTime": {
@@ -1246,6 +1246,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-23T22:47:41.960Z",
+  "atualizadoEm": "2026-08-23T23:19:19.503Z",
   "origem": "static-json"
 }
