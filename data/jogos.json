@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T23:43:58Z",
+      "lastUpdated": "2026-08-23T01:15:42Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -47,12 +47,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -207,7 +207,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-22T23:43:58Z",
+      "lastUpdated": "2026-08-23T01:15:42Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -226,12 +226,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
-          "away": 0
+          "home": 1,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 1
         }
       },
       "odds": {
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-22T23:44:58.508Z",
+  "atualizadoEm": "2026-08-23T01:16:04.511Z",
   "origem": "static-json"
 }
