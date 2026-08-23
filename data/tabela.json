@@ -265,12 +265,12 @@
             "tla": "PAU",
             "crest": "https://crests.football-data.org/1776.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 7,
-          "draw": 6,
+          "draw": 7,
           "lost": 9,
-          "points": 27,
+          "points": 28,
           "goalsFor": 27,
           "goalsAgainst": 26,
           "goalDifference": 1
@@ -284,12 +284,12 @@
             "tla": "SAN",
             "crest": "https://crests.football-data.org/6685.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 6,
-          "draw": 7,
+          "draw": 8,
           "lost": 9,
-          "points": 25,
+          "points": 26,
           "goalsFor": 32,
           "goalsAgainst": 35,
           "goalDifference": -3
@@ -341,12 +341,12 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 6,
-          "draw": 5,
+          "draw": 6,
           "lost": 11,
-          "points": 23,
+          "points": 24,
           "goalsFor": 25,
           "goalsAgainst": 35,
           "goalDifference": -10
@@ -398,12 +398,12 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 22,
+          "playedGames": 23,
           "form": null,
           "won": 1,
-          "draw": 8,
+          "draw": 9,
           "lost": 13,
-          "points": 11,
+          "points": 12,
           "goalsFor": 23,
           "goalsAgainst": 46,
           "goalDifference": -23
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-23T21:19:53.167Z",
+  "atualizadoEm": "2026-08-23T21:45:06.486Z",
   "origem": "static-json"
 }
