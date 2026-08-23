@@ -43,8 +43,8 @@
           "draw": 6,
           "lost": 3,
           "points": 51,
-          "goalsFor": 43,
-          "goalsAgainst": 19,
+          "goalsFor": 44,
+          "goalsAgainst": 20,
           "goalDifference": 24
         },
         {
@@ -138,9 +138,9 @@
           "draw": 10,
           "lost": 5,
           "points": 37,
-          "goalsFor": 33,
+          "goalsFor": 34,
           "goalsAgainst": 28,
-          "goalDifference": 5
+          "goalDifference": 6
         },
         {
           "position": 7,
@@ -153,13 +153,13 @@
           },
           "playedGames": 23,
           "form": null,
-          "won": 9,
-          "draw": 6,
+          "won": 10,
+          "draw": 5,
           "lost": 8,
-          "points": 33,
-          "goalsFor": 27,
+          "points": 35,
+          "goalsFor": 28,
           "goalsAgainst": 23,
-          "goalDifference": 4
+          "goalDifference": 5
         },
         {
           "position": 8,
@@ -253,8 +253,8 @@
           "lost": 11,
           "points": 29,
           "goalsFor": 23,
-          "goalsAgainst": 34,
-          "goalDifference": -11
+          "goalsAgainst": 35,
+          "goalDifference": -12
         },
         {
           "position": 13,
@@ -278,25 +278,6 @@
         {
           "position": 14,
           "team": {
-            "id": 1767,
-            "name": "Grêmio FBPA",
-            "shortName": "Grêmio",
-            "tla": "FBP",
-            "crest": "https://crests.football-data.org/1767.png"
-          },
-          "playedGames": 23,
-          "form": null,
-          "won": 6,
-          "draw": 8,
-          "lost": 9,
-          "points": 26,
-          "goalsFor": 24,
-          "goalsAgainst": 30,
-          "goalDifference": -6
-        },
-        {
-          "position": 15,
-          "team": {
             "id": 6685,
             "name": "Santos FC",
             "shortName": "Santos",
@@ -312,6 +293,25 @@
           "goalsFor": 32,
           "goalsAgainst": 35,
           "goalDifference": -3
+        },
+        {
+          "position": 15,
+          "team": {
+            "id": 1767,
+            "name": "Grêmio FBPA",
+            "shortName": "Grêmio",
+            "tla": "FBP",
+            "crest": "https://crests.football-data.org/1767.png"
+          },
+          "playedGames": 23,
+          "form": null,
+          "won": 6,
+          "draw": 7,
+          "lost": 10,
+          "points": 25,
+          "goalsFor": 24,
+          "goalsAgainst": 31,
+          "goalDifference": -7
         },
         {
           "position": 16,
@@ -385,8 +385,8 @@
           "draw": 7,
           "lost": 11,
           "points": 22,
-          "goalsFor": 23,
-          "goalsAgainst": 37,
+          "goalsFor": 24,
+          "goalsAgainst": 38,
           "goalDifference": -14
         },
         {
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-23T20:48:37.441Z",
+  "atualizadoEm": "2026-08-23T21:19:53.167Z",
   "origem": "static-json"
 }
