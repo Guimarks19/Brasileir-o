@@ -134,13 +134,13 @@
           },
           "playedGames": 24,
           "form": null,
-          "won": 8,
-          "draw": 11,
+          "won": 9,
+          "draw": 10,
           "lost": 5,
-          "points": 35,
-          "goalsFor": 32,
+          "points": 37,
+          "goalsFor": 33,
           "goalsAgainst": 28,
-          "goalDifference": 4
+          "goalDifference": 5
         },
         {
           "position": 7,
@@ -249,12 +249,12 @@
           "playedGames": 24,
           "form": null,
           "won": 8,
-          "draw": 6,
-          "lost": 10,
-          "points": 30,
+          "draw": 5,
+          "lost": 11,
+          "points": 29,
           "goalsFor": 23,
-          "goalsAgainst": 33,
-          "goalDifference": -10
+          "goalsAgainst": 34,
+          "goalDifference": -11
         },
         {
           "position": 13,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-23T20:21:11.814Z",
+  "atualizadoEm": "2026-08-23T20:48:37.441Z",
   "origem": "static-json"
 }

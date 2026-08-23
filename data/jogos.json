@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T20:20:14Z",
+      "lastUpdated": "2026-08-23T20:47:58Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -87,7 +87,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T20:20:14Z",
+      "lastUpdated": "2026-08-23T20:48:30Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -146,7 +146,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T20:20:14Z",
+      "lastUpdated": "2026-08-23T20:48:30Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -162,11 +162,11 @@
         "crest": "https://crests.football-data.org/1777.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -384,7 +384,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T20:20:14Z",
+      "lastUpdated": "2026-08-23T20:47:58Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -443,7 +443,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T20:20:14Z",
+      "lastUpdated": "2026-08-23T20:48:30Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -502,7 +502,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T20:20:14Z",
+      "lastUpdated": "2026-08-23T20:48:30Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -518,11 +518,11 @@
         "crest": "https://crests.football-data.org/1777.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "AWAY_TEAM",
         "duration": "REGULAR",
         "fullTime": {
           "home": 0,
-          "away": 0
+          "away": 1
         },
         "halfTime": {
           "home": 0,
@@ -1246,6 +1246,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-23T20:21:11.814Z",
+  "atualizadoEm": "2026-08-23T20:48:37.441Z",
   "origem": "static-json"
 }
