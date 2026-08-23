@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:26:54Z",
+      "lastUpdated": "2026-08-23T19:46:06Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -87,7 +87,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:26:54Z",
+      "lastUpdated": "2026-08-23T19:45:02Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -146,7 +146,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:26:54Z",
+      "lastUpdated": "2026-08-23T19:45:02Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -384,7 +384,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:26:54Z",
+      "lastUpdated": "2026-08-23T19:46:06Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -443,7 +443,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:26:54Z",
+      "lastUpdated": "2026-08-23T19:45:02Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -502,7 +502,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:26:54Z",
+      "lastUpdated": "2026-08-23T19:45:02Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -1246,6 +1246,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-23T19:27:05.979Z",
+  "atualizadoEm": "2026-08-23T19:46:37.663Z",
   "origem": "static-json"
 }
