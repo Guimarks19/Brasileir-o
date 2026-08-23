@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:46:06Z",
+      "lastUpdated": "2026-08-23T20:20:14Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -44,15 +44,15 @@
         "crest": "https://crests.football-data.org/1767.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 0,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -87,7 +87,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:45:02Z",
+      "lastUpdated": "2026-08-23T20:20:14Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -103,15 +103,15 @@
         "crest": "https://crests.football-data.org/1780.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -146,7 +146,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:45:02Z",
+      "lastUpdated": "2026-08-23T20:20:14Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -169,8 +169,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -384,7 +384,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:46:06Z",
+      "lastUpdated": "2026-08-23T20:20:14Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -400,15 +400,15 @@
         "crest": "https://crests.football-data.org/1767.png"
       },
       "score": {
-        "winner": "HOME_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 0,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -443,7 +443,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:45:02Z",
+      "lastUpdated": "2026-08-23T20:20:14Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -459,15 +459,15 @@
         "crest": "https://crests.football-data.org/1780.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 0,
+          "home": 3,
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -502,7 +502,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-23T19:45:02Z",
+      "lastUpdated": "2026-08-23T20:20:14Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -525,8 +525,8 @@
           "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         }
       },
       "odds": {
@@ -1246,6 +1246,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-23T19:46:37.663Z",
+  "atualizadoEm": "2026-08-23T20:21:11.814Z",
   "origem": "static-json"
 }
