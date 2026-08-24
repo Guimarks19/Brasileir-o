@@ -206,7 +206,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T03:25:10Z",
+      "lastUpdated": "2026-08-24T03:25:09Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-24T03:53:15.243Z",
+  "atualizadoEm": "2026-08-24T04:42:36.384Z",
   "origem": "static-json"
 }
