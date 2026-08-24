@@ -28,7 +28,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T23:20:30Z",
+      "lastUpdated": "2026-08-24T23:45:02Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -620,7 +620,7 @@
       "matchday": 24,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-24T23:20:30Z",
+      "lastUpdated": "2026-08-24T23:45:02Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -1128,6 +1128,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-24T23:21:00.014Z",
+  "atualizadoEm": "2026-08-24T23:46:06.383Z",
   "origem": "static-json"
 }
