@@ -1028,26 +1028,26 @@
         "currentMatchday": 24,
         "winner": null
       },
-      "id": 554986,
-      "utcDate": "2026-08-30T21:30:00Z",
+      "id": 554982,
+      "utcDate": "2026-08-30T22:30:00Z",
       "status": "TIMED",
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
       "lastUpdated": "2026-08-26T05:20:35Z",
       "homeTeam": {
-        "id": 4364,
-        "name": "Mirassol FC",
-        "shortName": "Mirassol",
-        "tla": "MIR",
-        "crest": "https://crests.football-data.org/4364.png"
+        "id": 1777,
+        "name": "EC Bahia",
+        "shortName": "Bahia",
+        "tla": "BAH",
+        "crest": "https://crests.football-data.org/1777.png"
       },
       "awayTeam": {
-        "id": 1769,
-        "name": "SE Palmeiras",
-        "shortName": "Palmeiras",
-        "tla": "PAL",
-        "crest": "https://crests.football-data.org/1769.png"
+        "id": 6684,
+        "name": "SC Internacional",
+        "shortName": "Internacional",
+        "tla": "SCI",
+        "crest": "https://crests.football-data.org/6684.png"
       },
       "score": {
         "winner": null,
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-26T09:39:26.003Z",
+  "atualizadoEm": "2026-08-26T10:33:49.457Z",
   "origem": "static-json"
 }
