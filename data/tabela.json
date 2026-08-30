@@ -75,14 +75,14 @@
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 13,
-          "draw": 5,
+          "draw": 6,
           "lost": 6,
-          "points": 44,
-          "goalsFor": 34,
-          "goalsAgainst": 22,
+          "points": 45,
+          "goalsFor": 35,
+          "goalsAgainst": 23,
           "goalDifference": 12
         },
         {
@@ -94,14 +94,14 @@
             "tla": "FLU",
             "crest": "https://crests.football-data.org/1765.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 11,
-          "draw": 8,
+          "draw": 9,
           "lost": 5,
-          "points": 41,
-          "goalsFor": 36,
-          "goalsAgainst": 29,
+          "points": 42,
+          "goalsFor": 37,
+          "goalsAgainst": 30,
           "goalDifference": 7
         },
         {
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-08-30T09:45:41.400Z",
+  "atualizadoEm": "2026-08-30T14:41:24.463Z",
   "origem": "static-json"
 }
