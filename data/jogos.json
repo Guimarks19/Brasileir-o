@@ -147,7 +147,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-30T10:20:34Z",
+      "lastUpdated": "2026-08-31T14:51:12Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -179,10 +179,10 @@
       },
       "referees": [
         {
-          "id": 72636,
-          "name": "José Méndez",
+          "id": 250860,
+          "name": "Fernando de Salles Nascimento",
           "type": "REFEREE",
-          "nationality": "Paraguay"
+          "nationality": "Brazil"
         }
       ]
     },
@@ -272,7 +272,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-31T08:25:09Z",
+      "lastUpdated": "2026-08-31T14:50:16Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -306,6 +306,12 @@
         {
           "id": 11143,
           "name": "Savio Pereira",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        },
+        {
+          "id": 11412,
+          "name": "Wilton Sampaio",
           "type": "REFEREE",
           "nationality": "Brazil"
         }
@@ -427,7 +433,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 60916,
+          "name": "Fabio Pereira",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -665,7 +678,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 60916,
+          "name": "Fabio Pereira",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -1082,6 +1102,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-31T10:36:12.675Z",
+  "atualizadoEm": "2026-08-31T17:54:15.602Z",
   "origem": "static-json"
 }
