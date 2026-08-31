@@ -147,7 +147,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-31T14:51:12Z",
+      "lastUpdated": "2026-08-31T18:25:07Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -272,7 +272,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-31T14:50:16Z",
+      "lastUpdated": "2026-08-31T18:25:07Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -403,7 +403,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-31T08:25:09Z",
+      "lastUpdated": "2026-08-31T18:25:07Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -419,15 +419,15 @@
         "crest": "https://crests.football-data.org/1772_large.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
@@ -648,7 +648,7 @@
       "matchday": 25,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-08-31T08:25:09Z",
+      "lastUpdated": "2026-08-31T18:25:07Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -664,15 +664,15 @@
         "crest": "https://crests.football-data.org/1772_large.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 3,
+          "away": 1
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 2,
+          "away": 1
         }
       },
       "odds": {
@@ -1102,6 +1102,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-08-31T17:54:15.602Z",
+  "atualizadoEm": "2026-08-31T22:30:50.085Z",
   "origem": "static-json"
 }
