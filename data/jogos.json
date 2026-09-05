@@ -1,6 +1,66 @@
 {
   "rodadaAtual": 26,
-  "aoVivo": [],
+  "aoVivo": [
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 26,
+        "winner": null
+      },
+      "id": 554991,
+      "utcDate": "2026-09-05T19:00:00Z",
+      "status": "IN_PLAY",
+      "matchday": 26,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-05T19:15:21Z",
+      "homeTeam": {
+        "id": 4286,
+        "name": "RB Bragantino",
+        "shortName": "Bragantino",
+        "tla": "RBB",
+        "crest": "https://crests.football-data.org/4286.png"
+      },
+      "awayTeam": {
+        "id": 1777,
+        "name": "EC Bahia",
+        "shortName": "Bahia",
+        "tla": "BAH",
+        "crest": "https://crests.football-data.org/1777.png"
+      },
+      "score": {
+        "winner": "DRAW",
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": 0,
+          "away": 0
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
+    }
+  ],
   "rodada": [
     {
       "area": {
@@ -25,11 +85,11 @@
       },
       "id": 554991,
       "utcDate": "2026-09-05T19:00:00Z",
-      "status": "TIMED",
+      "status": "IN_PLAY",
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-05T00:20:34Z",
+      "lastUpdated": "2026-09-05T19:15:21Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -45,11 +105,11 @@
         "crest": "https://crests.football-data.org/1777.png"
       },
       "score": {
-        "winner": null,
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
           "home": null,
@@ -615,65 +675,6 @@
         "currentMatchday": 26,
         "winner": null
       },
-      "id": 554991,
-      "utcDate": "2026-09-05T19:00:00Z",
-      "status": "TIMED",
-      "matchday": 26,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-09-05T00:20:34Z",
-      "homeTeam": {
-        "id": 4286,
-        "name": "RB Bragantino",
-        "shortName": "Bragantino",
-        "tla": "RBB",
-        "crest": "https://crests.football-data.org/4286.png"
-      },
-      "awayTeam": {
-        "id": 1777,
-        "name": "EC Bahia",
-        "shortName": "Bahia",
-        "tla": "BAH",
-        "crest": "https://crests.football-data.org/1777.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    },
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 26,
-        "winner": null
-      },
       "id": 554998,
       "utcDate": "2026-09-05T21:30:00Z",
       "status": "TIMED",
@@ -1065,9 +1066,68 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 26,
+        "winner": null
+      },
+      "id": 554992,
+      "utcDate": "2026-09-06T22:30:00Z",
+      "status": "TIMED",
+      "matchday": 26,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-09-05T00:20:34Z",
+      "homeTeam": {
+        "id": 1779,
+        "name": "SC Corinthians Paulista",
+        "shortName": "Corinthians",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/1779.png"
+      },
+      "awayTeam": {
+        "id": 1772,
+        "name": "Chapecoense AF",
+        "shortName": "Chapecoense",
+        "tla": "CHA",
+        "crest": "https://crests.football-data.org/1772_large.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-09-05T17:09:39.644Z",
+  "atualizadoEm": "2026-09-05T19:15:48.857Z",
   "origem": "static-json"
 }
