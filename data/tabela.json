@@ -31,6 +31,25 @@
         {
           "position": 1,
           "team": {
+            "id": 1783,
+            "name": "CR Flamengo",
+            "shortName": "Flamengo",
+            "tla": "FLA",
+            "crest": "https://crests.football-data.org/1783.png"
+          },
+          "playedGames": 26,
+          "form": null,
+          "won": 15,
+          "draw": 7,
+          "lost": 4,
+          "points": 52,
+          "goalsFor": 50,
+          "goalsAgainst": 21,
+          "goalDifference": 29
+        },
+        {
+          "position": 2,
+          "team": {
             "id": 1769,
             "name": "SE Palmeiras",
             "shortName": "Palmeiras",
@@ -48,25 +67,6 @@
           "goalDifference": 24
         },
         {
-          "position": 2,
-          "team": {
-            "id": 1783,
-            "name": "CR Flamengo",
-            "shortName": "Flamengo",
-            "tla": "FLA",
-            "crest": "https://crests.football-data.org/1783.png"
-          },
-          "playedGames": 25,
-          "form": null,
-          "won": 15,
-          "draw": 6,
-          "lost": 4,
-          "points": 51,
-          "goalsFor": 50,
-          "goalsAgainst": 21,
-          "goalDifference": 29
-        },
-        {
           "position": 3,
           "team": {
             "id": 1768,
@@ -75,14 +75,14 @@
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 13,
-          "draw": 6,
+          "draw": 7,
           "lost": 6,
-          "points": 45,
-          "goalsFor": 37,
-          "goalsAgainst": 25,
+          "points": 46,
+          "goalsFor": 38,
+          "goalsAgainst": 26,
           "goalDifference": 12
         },
         {
@@ -132,14 +132,14 @@
             "tla": "CRU",
             "crest": "https://crests.football-data.org/1771.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 11,
-          "draw": 6,
+          "draw": 7,
           "lost": 8,
-          "points": 39,
-          "goalsFor": 35,
-          "goalsAgainst": 36,
+          "points": 40,
+          "goalsFor": 36,
+          "goalsAgainst": 37,
           "goalDifference": -1
         },
         {
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 6685,
+            "name": "Santos FC",
+            "shortName": "Santos",
+            "tla": "SAN",
+            "crest": "https://crests.football-data.org/6685.png"
+          },
+          "playedGames": 25,
+          "form": null,
+          "won": 8,
+          "draw": 8,
+          "lost": 9,
+          "points": 32,
+          "goalsFor": 37,
+          "goalsAgainst": 37,
+          "goalDifference": 0
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 1770,
             "name": "Botafogo FR",
             "shortName": "Botafogo",
@@ -257,7 +276,7 @@
           "goalDifference": -3
         },
         {
-          "position": 13,
+          "position": 14,
           "team": {
             "id": 1782,
             "name": "EC Vitória",
@@ -274,25 +293,6 @@
           "goalsFor": 24,
           "goalsAgainst": 37,
           "goalDifference": -13
-        },
-        {
-          "position": 14,
-          "team": {
-            "id": 6685,
-            "name": "Santos FC",
-            "shortName": "Santos",
-            "tla": "SAN",
-            "crest": "https://crests.football-data.org/6685.png"
-          },
-          "playedGames": 24,
-          "form": null,
-          "won": 7,
-          "draw": 8,
-          "lost": 9,
-          "points": 29,
-          "goalsFor": 34,
-          "goalsAgainst": 36,
-          "goalDifference": -2
         },
         {
           "position": 15,
@@ -360,15 +360,15 @@
             "tla": "SCI",
             "crest": "https://crests.football-data.org/6684.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 5,
           "draw": 10,
-          "lost": 10,
+          "lost": 11,
           "points": 25,
-          "goalsFor": 26,
-          "goalsAgainst": 31,
-          "goalDifference": -5
+          "goalsFor": 27,
+          "goalsAgainst": 34,
+          "goalDifference": -7
         },
         {
           "position": 19,
@@ -379,12 +379,12 @@
             "tla": "CRE",
             "crest": "https://crests.football-data.org/4287.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 5,
-          "draw": 8,
+          "draw": 9,
           "lost": 12,
-          "points": 23,
+          "points": 24,
           "goalsFor": 30,
           "goalsAgainst": 42,
           "goalDifference": -12
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-09-06T18:02:12.401Z",
+  "atualizadoEm": "2026-09-06T20:38:55.682Z",
   "origem": "static-json"
 }
