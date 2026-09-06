@@ -151,14 +151,14 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/4241.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 10,
-          "draw": 7,
+          "draw": 8,
           "lost": 8,
-          "points": 37,
-          "goalsFor": 33,
-          "goalsAgainst": 33,
+          "points": 38,
+          "goalsFor": 34,
+          "goalsAgainst": 34,
           "goalDifference": 0
         },
         {
@@ -322,14 +322,14 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 6,
-          "draw": 7,
+          "draw": 8,
           "lost": 12,
-          "points": 25,
-          "goalsFor": 27,
-          "goalsAgainst": 39,
+          "points": 26,
+          "goalsFor": 28,
+          "goalsAgainst": 40,
           "goalDifference": -12
         },
         {
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-09-06T12:14:21.725Z",
+  "atualizadoEm": "2026-09-06T15:37:48.612Z",
   "origem": "static-json"
 }
