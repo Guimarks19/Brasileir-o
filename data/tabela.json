@@ -284,12 +284,12 @@
             "tla": "VIT",
             "crest": "https://crests.football-data.org/1782.png"
           },
-          "playedGames": 25,
+          "playedGames": 26,
           "form": null,
           "won": 8,
-          "draw": 5,
+          "draw": 6,
           "lost": 12,
-          "points": 29,
+          "points": 30,
           "goalsFor": 24,
           "goalsAgainst": 37,
           "goalDifference": -13
@@ -303,12 +303,12 @@
             "tla": "FBP",
             "crest": "https://crests.football-data.org/1767.png"
           },
-          "playedGames": 24,
+          "playedGames": 25,
           "form": null,
           "won": 7,
-          "draw": 7,
+          "draw": 8,
           "lost": 10,
-          "points": 28,
+          "points": 29,
           "goalsFor": 27,
           "goalsAgainst": 32,
           "goalDifference": -5
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-09-07T20:42:14.575Z",
+  "atualizadoEm": "2026-09-07T23:17:13.057Z",
   "origem": "static-json"
 }
