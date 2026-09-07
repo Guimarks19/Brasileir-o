@@ -206,7 +206,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T18:04:45Z",
+      "lastUpdated": "2026-09-07T03:25:08Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -265,7 +265,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T23:03:25Z",
+      "lastUpdated": "2026-09-07T03:25:08Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -324,7 +324,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T23:01:17Z",
+      "lastUpdated": "2026-09-07T03:25:08Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -383,7 +383,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-06T23:01:17Z",
+      "lastUpdated": "2026-09-07T03:25:08Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -442,7 +442,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-07T01:27:57Z",
+      "lastUpdated": "2026-09-07T03:25:09Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -501,7 +501,7 @@
       "matchday": 26,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-07T00:36:25Z",
+      "lastUpdated": "2026-09-07T03:25:09Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-09-07T00:41:58.455Z",
+  "atualizadoEm": "2026-09-07T05:42:22.358Z",
   "origem": "static-json"
 }
