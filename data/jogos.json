@@ -29,7 +29,7 @@
       "matchday": 27,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-12T02:27:32Z",
+      "lastUpdated": "2026-09-12T03:25:07Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-09-12T03:19:15.185Z",
+  "atualizadoEm": "2026-09-12T08:03:55.402Z",
   "origem": "static-json"
 }
