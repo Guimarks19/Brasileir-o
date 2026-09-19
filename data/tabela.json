@@ -151,14 +151,14 @@
             "tla": "CAM",
             "crest": "https://crests.football-data.org/1766.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 11,
-          "draw": 6,
+          "draw": 7,
           "lost": 9,
-          "points": 39,
-          "goalsFor": 35,
-          "goalsAgainst": 31,
+          "points": 40,
+          "goalsFor": 36,
+          "goalsAgainst": 32,
           "goalDifference": 4
         },
         {
@@ -227,15 +227,15 @@
             "tla": "BOT",
             "crest": "https://crests.football-data.org/1770.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 9,
           "draw": 8,
-          "lost": 10,
+          "lost": 11,
           "points": 35,
           "goalsFor": 41,
-          "goalsAgainst": 43,
-          "goalDifference": -2
+          "goalsAgainst": 45,
+          "goalDifference": -4
         },
         {
           "position": 12,
@@ -303,15 +303,15 @@
             "tla": "MIR",
             "crest": "https://crests.football-data.org/4364.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
-          "won": 7,
+          "won": 8,
           "draw": 8,
           "lost": 12,
-          "points": 29,
-          "goalsFor": 31,
+          "points": 32,
+          "goalsFor": 33,
           "goalsAgainst": 42,
-          "goalDifference": -11
+          "goalDifference": -9
         },
         {
           "position": 16,
@@ -398,19 +398,19 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 3,
-          "draw": 8,
+          "draw": 9,
           "lost": 15,
-          "points": 17,
-          "goalsFor": 28,
-          "goalsAgainst": 52,
+          "points": 18,
+          "goalsFor": 29,
+          "goalsAgainst": 53,
           "goalDifference": -24
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-09-19T18:09:43.181Z",
+  "atualizadoEm": "2026-09-19T20:54:13.967Z",
   "origem": "static-json"
 }
