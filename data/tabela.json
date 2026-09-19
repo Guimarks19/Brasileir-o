@@ -208,12 +208,12 @@
             "tla": "SAN",
             "crest": "https://crests.football-data.org/6685.png"
           },
-          "playedGames": 26,
+          "playedGames": 27,
           "form": null,
           "won": 9,
-          "draw": 8,
+          "draw": 9,
           "lost": 9,
-          "points": 35,
+          "points": 36,
           "goalsFor": 39,
           "goalsAgainst": 39,
           "goalDifference": 0
@@ -379,12 +379,12 @@
             "tla": "CRE",
             "crest": "https://crests.football-data.org/4287.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 5,
-          "draw": 8,
+          "draw": 9,
           "lost": 14,
-          "points": 23,
+          "points": 24,
           "goalsFor": 31,
           "goalsAgainst": 45,
           "goalDifference": -14
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-09-19T20:54:13.967Z",
+  "atualizadoEm": "2026-09-19T22:41:11.029Z",
   "origem": "static-json"
 }
