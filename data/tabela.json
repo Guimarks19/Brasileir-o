@@ -69,6 +69,25 @@
         {
           "position": 3,
           "team": {
+            "id": 1765,
+            "name": "Fluminense FC",
+            "shortName": "Fluminense",
+            "tla": "FLU",
+            "crest": "https://crests.football-data.org/1765.png"
+          },
+          "playedGames": 28,
+          "form": null,
+          "won": 13,
+          "draw": 9,
+          "lost": 6,
+          "points": 48,
+          "goalsFor": 43,
+          "goalsAgainst": 36,
+          "goalDifference": 7
+        },
+        {
+          "position": 4,
+          "team": {
             "id": 1768,
             "name": "CA Paranaense",
             "shortName": "Paranaense",
@@ -86,7 +105,7 @@
           "goalDifference": 10
         },
         {
-          "position": 4,
+          "position": 5,
           "team": {
             "id": 1777,
             "name": "EC Bahia",
@@ -105,25 +124,6 @@
           "goalDifference": 9
         },
         {
-          "position": 5,
-          "team": {
-            "id": 1765,
-            "name": "Fluminense FC",
-            "shortName": "Fluminense",
-            "tla": "FLU",
-            "crest": "https://crests.football-data.org/1765.png"
-          },
-          "playedGames": 27,
-          "form": null,
-          "won": 12,
-          "draw": 9,
-          "lost": 6,
-          "points": 45,
-          "goalsFor": 41,
-          "goalsAgainst": 35,
-          "goalDifference": 6
-        },
-        {
           "position": 6,
           "team": {
             "id": 1771,
@@ -132,15 +132,15 @@
             "tla": "CRU",
             "crest": "https://crests.football-data.org/1771.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
-          "won": 12,
+          "won": 13,
           "draw": 6,
           "lost": 9,
-          "points": 42,
-          "goalsFor": 39,
-          "goalsAgainst": 39,
-          "goalDifference": 0
+          "points": 45,
+          "goalsFor": 41,
+          "goalsAgainst": 40,
+          "goalDifference": 1
         },
         {
           "position": 7,
@@ -265,15 +265,15 @@
             "tla": "VIT",
             "crest": "https://crests.football-data.org/1782.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 9,
           "draw": 6,
-          "lost": 12,
+          "lost": 13,
           "points": 33,
-          "goalsFor": 27,
-          "goalsAgainst": 39,
-          "goalDifference": -12
+          "goalsFor": 28,
+          "goalsAgainst": 41,
+          "goalDifference": -13
         },
         {
           "position": 14,
@@ -284,15 +284,15 @@
             "tla": "COR",
             "crest": "https://crests.football-data.org/1779.png"
           },
-          "playedGames": 27,
+          "playedGames": 28,
           "form": null,
           "won": 8,
           "draw": 8,
-          "lost": 11,
+          "lost": 12,
           "points": 32,
-          "goalsFor": 28,
-          "goalsAgainst": 29,
-          "goalDifference": -1
+          "goalsFor": 29,
+          "goalsAgainst": 31,
+          "goalDifference": -2
         },
         {
           "position": 15,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-09-20T17:59:13.513Z",
+  "atualizadoEm": "2026-09-20T20:42:23.839Z",
   "origem": "static-json"
 }
