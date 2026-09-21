@@ -324,7 +324,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-20T18:02:17Z",
+      "lastUpdated": "2026-09-21T03:25:07Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -383,7 +383,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-20T22:59:52Z",
+      "lastUpdated": "2026-09-21T03:25:07Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -442,7 +442,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-20T23:03:36Z",
+      "lastUpdated": "2026-09-21T03:25:07Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -501,7 +501,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-21T01:31:52Z",
+      "lastUpdated": "2026-09-21T03:25:07Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -560,7 +560,7 @@
       "matchday": 28,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-09-21T00:42:28Z",
+      "lastUpdated": "2026-09-21T03:25:07Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-09-21T01:21:31.600Z",
+  "atualizadoEm": "2026-09-21T06:47:22.928Z",
   "origem": "static-json"
 }
