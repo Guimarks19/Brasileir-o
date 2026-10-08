@@ -29,7 +29,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-08T00:34:43Z",
+      "lastUpdated": "2026-10-08T03:25:08Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -88,7 +88,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-08T00:42:31Z",
+      "lastUpdated": "2026-10-08T03:25:08Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -147,7 +147,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-08T00:36:19Z",
+      "lastUpdated": "2026-10-08T03:25:08Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -206,7 +206,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-08T01:02:59Z",
+      "lastUpdated": "2026-10-08T03:25:08Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -265,7 +265,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-08T01:46:31Z",
+      "lastUpdated": "2026-10-08T03:25:08Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -281,10 +281,10 @@
         "crest": "https://crests.football-data.org/1780.png"
       },
       "score": {
-        "winner": "AWAY_TEAM",
+        "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 2
         },
         "halfTime": {
@@ -324,7 +324,7 @@
       "matchday": 29,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-08T02:32:03Z",
+      "lastUpdated": "2026-10-08T03:25:08Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -1068,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-08T02:49:32.436Z",
+  "atualizadoEm": "2026-10-08T10:04:13.781Z",
   "origem": "static-json"
 }
