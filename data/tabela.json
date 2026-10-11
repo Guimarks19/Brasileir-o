@@ -183,6 +183,25 @@
         {
           "position": 9,
           "team": {
+            "id": 1776,
+            "name": "São Paulo FC",
+            "shortName": "São Paulo",
+            "tla": "PAU",
+            "crest": "https://crests.football-data.org/1776.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 11,
+          "draw": 6,
+          "lost": 13,
+          "points": 39,
+          "goalsFor": 35,
+          "goalsAgainst": 35,
+          "goalDifference": 0
+        },
+        {
+          "position": 10,
+          "team": {
             "id": 4241,
             "name": "Coritiba FBC",
             "shortName": "Coritiba",
@@ -200,7 +219,7 @@
           "goalDifference": -10
         },
         {
-          "position": 10,
+          "position": 11,
           "team": {
             "id": 4286,
             "name": "RB Bragantino",
@@ -219,25 +238,6 @@
           "goalDifference": 1
         },
         {
-          "position": 11,
-          "team": {
-            "id": 1776,
-            "name": "São Paulo FC",
-            "shortName": "São Paulo",
-            "tla": "PAU",
-            "crest": "https://crests.football-data.org/1776.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 10,
-          "draw": 7,
-          "lost": 13,
-          "points": 37,
-          "goalsFor": 34,
-          "goalsAgainst": 35,
-          "goalDifference": -1
-        },
-        {
           "position": 12,
           "team": {
             "id": 1782,
@@ -249,12 +249,12 @@
           "playedGames": 30,
           "form": null,
           "won": 10,
-          "draw": 7,
-          "lost": 13,
-          "points": 37,
+          "draw": 6,
+          "lost": 14,
+          "points": 36,
           "goalsFor": 33,
-          "goalsAgainst": 43,
-          "goalDifference": -10
+          "goalsAgainst": 44,
+          "goalDifference": -11
         },
         {
           "position": 13,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-10-11T01:08:12.779Z",
+  "atualizadoEm": "2026-10-11T07:37:21.478Z",
   "origem": "static-json"
 }

@@ -1,66 +1,6 @@
 {
   "rodadaAtual": 30,
-  "aoVivo": [
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 30,
-        "winner": null
-      },
-      "id": 555038,
-      "utcDate": "2026-10-11T00:00:00Z",
-      "status": "IN_PLAY",
-      "matchday": 30,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-10-11T00:58:11Z",
-      "homeTeam": {
-        "id": 1776,
-        "name": "São Paulo FC",
-        "shortName": "São Paulo",
-        "tla": "PAU",
-        "crest": "https://crests.football-data.org/1776.png"
-      },
-      "awayTeam": {
-        "id": 1782,
-        "name": "EC Vitória",
-        "shortName": "Vitória",
-        "tla": "VIT",
-        "crest": "https://crests.football-data.org/1782.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 1,
-          "away": 1
-        },
-        "halfTime": {
-          "home": 1,
-          "away": 1
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": []
-    }
-  ],
+  "aoVivo": [],
   "rodada": [
     {
       "area": {
@@ -89,7 +29,7 @@
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:57:27Z",
+      "lastUpdated": "2026-10-11T03:25:09Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -144,11 +84,11 @@
       },
       "id": 555038,
       "utcDate": "2026-10-11T00:00:00Z",
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "matchday": 30,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-11T00:58:11Z",
+      "lastUpdated": "2026-10-11T03:25:09Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -164,10 +104,10 @@
         "crest": "https://crests.football-data.org/1782.png"
       },
       "score": {
-        "winner": "DRAW",
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
+          "home": 2,
           "away": 1
         },
         "halfTime": {
@@ -1128,6 +1068,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-11T01:08:12.779Z",
+  "atualizadoEm": "2026-10-11T07:37:21.478Z",
   "origem": "static-json"
 }
