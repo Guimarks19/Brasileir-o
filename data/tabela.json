@@ -107,6 +107,25 @@
         {
           "position": 5,
           "team": {
+            "id": 1777,
+            "name": "EC Bahia",
+            "shortName": "Bahia",
+            "tla": "BAH",
+            "crest": "https://crests.football-data.org/1777.png"
+          },
+          "playedGames": 30,
+          "form": null,
+          "won": 13,
+          "draw": 10,
+          "lost": 7,
+          "points": 49,
+          "goalsFor": 44,
+          "goalsAgainst": 36,
+          "goalDifference": 8
+        },
+        {
+          "position": 6,
+          "team": {
             "id": 1771,
             "name": "Cruzeiro EC",
             "shortName": "Cruzeiro",
@@ -124,7 +143,7 @@
           "goalDifference": 4
         },
         {
-          "position": 6,
+          "position": 7,
           "team": {
             "id": 1766,
             "name": "CA Mineiro",
@@ -141,25 +160,6 @@
           "goalsFor": 41,
           "goalsAgainst": 35,
           "goalDifference": 6
-        },
-        {
-          "position": 7,
-          "team": {
-            "id": 1777,
-            "name": "EC Bahia",
-            "shortName": "Bahia",
-            "tla": "BAH",
-            "crest": "https://crests.football-data.org/1777.png"
-          },
-          "playedGames": 30,
-          "form": null,
-          "won": 12,
-          "draw": 11,
-          "lost": 7,
-          "points": 47,
-          "goalsFor": 43,
-          "goalsAgainst": 36,
-          "goalDifference": 7
         },
         {
           "position": 8,
@@ -306,12 +306,12 @@
           "playedGames": 30,
           "form": null,
           "won": 8,
-          "draw": 10,
-          "lost": 12,
-          "points": 34,
+          "draw": 9,
+          "lost": 13,
+          "points": 33,
           "goalsFor": 34,
-          "goalsAgainst": 43,
-          "goalDifference": -9
+          "goalsAgainst": 44,
+          "goalDifference": -10
         },
         {
           "position": 16,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-10-11T23:03:28.527Z",
+  "atualizadoEm": "2026-10-12T02:34:21.872Z",
   "origem": "static-json"
 }
