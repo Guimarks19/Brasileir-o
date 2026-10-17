@@ -29,7 +29,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-17T01:10:17Z",
+      "lastUpdated": "2026-10-17T03:25:08Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -1075,6 +1075,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-17T01:24:50.113Z",
+  "atualizadoEm": "2026-10-17T05:54:40.664Z",
   "origem": "static-json"
 }
