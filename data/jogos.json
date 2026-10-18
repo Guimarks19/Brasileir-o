@@ -389,7 +389,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 18754,
+          "name": "Ramon Abatti Abel",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -448,7 +455,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 147370,
+          "name": "João Vitor Gobi",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -686,7 +700,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 18754,
+          "name": "Ramon Abatti Abel",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -745,7 +766,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 147370,
+          "name": "João Vitor Gobi",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -1103,6 +1131,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-18T16:21:36.346Z",
+  "atualizadoEm": "2026-10-18T18:46:57.949Z",
   "origem": "static-json"
 }
