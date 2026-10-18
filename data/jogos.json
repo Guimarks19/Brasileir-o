@@ -95,7 +95,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-18T00:58:53Z",
+      "lastUpdated": "2026-10-18T03:25:08Z",
       "homeTeam": {
         "id": 1770,
         "name": "Botafogo FR",
@@ -161,7 +161,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-18T01:29:17Z",
+      "lastUpdated": "2026-10-18T03:25:08Z",
       "homeTeam": {
         "id": 1766,
         "name": "CA Mineiro",
@@ -227,7 +227,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-18T00:36:09Z",
+      "lastUpdated": "2026-10-18T03:25:08Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -293,7 +293,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-18T02:06:17Z",
+      "lastUpdated": "2026-10-18T03:25:08Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -1103,6 +1103,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-18T03:13:29.310Z",
+  "atualizadoEm": "2026-10-18T08:14:35.298Z",
   "origem": "static-json"
 }
