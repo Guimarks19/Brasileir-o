@@ -359,7 +359,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-18T23:04:10Z",
+      "lastUpdated": "2026-10-19T03:25:07Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -425,7 +425,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-18T23:03:06Z",
+      "lastUpdated": "2026-10-19T03:25:07Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -491,7 +491,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-19T01:29:46Z",
+      "lastUpdated": "2026-10-19T03:25:07Z",
       "homeTeam": {
         "id": 1777,
         "name": "EC Bahia",
@@ -557,7 +557,7 @@
       "matchday": 31,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-19T00:42:30Z",
+      "lastUpdated": "2026-10-19T03:25:07Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -1131,6 +1131,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-19T01:35:22.277Z",
+  "atualizadoEm": "2026-10-19T07:21:25.751Z",
   "origem": "static-json"
 }
