@@ -658,7 +658,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 244605,
+          "name": "Davi de Oliveira Lacerda",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -717,7 +724,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 265146,
+          "name": "Lucas Casagrande",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -776,7 +790,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206977,
+          "name": "André Skettino Policarpo Bento",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -1075,6 +1096,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-24T14:44:58.349Z",
+  "atualizadoEm": "2026-10-24T17:51:25.712Z",
   "origem": "static-json"
 }
