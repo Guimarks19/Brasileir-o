@@ -29,7 +29,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-24T01:04:53Z",
+      "lastUpdated": "2026-10-24T03:25:07Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -1075,6 +1075,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-24T01:23:09.375Z",
+  "atualizadoEm": "2026-10-24T06:14:02.017Z",
   "origem": "static-json"
 }
