@@ -25,11 +25,11 @@
       },
       "id": 555052,
       "utcDate": "2026-10-23T23:00:00Z",
-      "status": "TIMED",
+      "status": "FINISHED",
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-24T01:04:53Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -45,15 +45,15 @@
         "crest": "https://crests.football-data.org/4287.png"
       },
       "score": {
-        "winner": null,
+        "winner": "HOME_TEAM",
         "duration": "REGULAR",
         "fullTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         },
         "halfTime": {
-          "home": null,
-          "away": null
+          "home": 1,
+          "away": 0
         }
       },
       "odds": {
@@ -95,7 +95,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -154,7 +154,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -213,7 +213,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -272,7 +272,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -331,7 +331,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -390,7 +390,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -449,7 +449,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -508,7 +508,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -567,7 +567,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -622,79 +622,13 @@
         "currentMatchday": 32,
         "winner": null
       },
-      "id": 555052,
-      "utcDate": "2026-10-23T23:00:00Z",
-      "status": "TIMED",
-      "matchday": 32,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
-      "homeTeam": {
-        "id": 1771,
-        "name": "Cruzeiro EC",
-        "shortName": "Cruzeiro",
-        "tla": "CRU",
-        "crest": "https://crests.football-data.org/1771.png"
-      },
-      "awayTeam": {
-        "id": 4287,
-        "name": "Clube do Remo",
-        "shortName": "Clube do Remo",
-        "tla": "CRE",
-        "crest": "https://crests.football-data.org/4287.png"
-      },
-      "score": {
-        "winner": null,
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": null,
-          "away": null
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 206800,
-          "name": "Bruno de Araújo",
-          "type": "REFEREE",
-          "nationality": "Brazil"
-        }
-      ]
-    },
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 32,
-        "winner": null
-      },
       "id": 555054,
       "utcDate": "2026-10-24T19:30:00Z",
       "status": "TIMED",
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 6684,
         "name": "SC Internacional",
@@ -753,7 +687,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -812,7 +746,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -871,7 +805,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -930,7 +864,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -989,7 +923,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -1048,7 +982,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-23T00:20:28Z",
+      "lastUpdated": "2026-10-23T20:20:12Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -1079,9 +1013,68 @@
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
       "referees": []
+    },
+    {
+      "area": {
+        "id": 2032,
+        "name": "Brazil",
+        "code": "BRA",
+        "flag": "https://crests.football-data.org/764.svg"
+      },
+      "competition": {
+        "id": 2013,
+        "name": "Campeonato Brasileiro Série A",
+        "code": "BSA",
+        "type": "LEAGUE",
+        "emblem": "https://crests.football-data.org/bsa.png"
+      },
+      "season": {
+        "id": 2474,
+        "startDate": "2026-01-28",
+        "endDate": "2026-12-02",
+        "currentMatchday": 32,
+        "winner": null
+      },
+      "id": 555051,
+      "utcDate": "2026-10-26T22:30:00Z",
+      "status": "TIMED",
+      "matchday": 32,
+      "stage": "REGULAR_SEASON",
+      "group": null,
+      "lastUpdated": "2026-10-23T20:20:12Z",
+      "homeTeam": {
+        "id": 4241,
+        "name": "Coritiba FBC",
+        "shortName": "Coritiba",
+        "tla": "COR",
+        "crest": "https://crests.football-data.org/4241.png"
+      },
+      "awayTeam": {
+        "id": 1767,
+        "name": "Grêmio FBPA",
+        "shortName": "Grêmio",
+        "tla": "FBP",
+        "crest": "https://crests.football-data.org/1767.png"
+      },
+      "score": {
+        "winner": null,
+        "duration": "REGULAR",
+        "fullTime": {
+          "home": null,
+          "away": null
+        },
+        "halfTime": {
+          "home": null,
+          "away": null
+        }
+      },
+      "odds": {
+        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+      },
+      "referees": []
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-23T22:54:45.445Z",
+  "atualizadoEm": "2026-10-24T01:23:09.375Z",
   "origem": "static-json"
 }
