@@ -294,7 +294,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T04:25:08Z",
+      "lastUpdated": "2026-10-24T23:34:33Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -360,7 +360,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T04:25:08Z",
+      "lastUpdated": "2026-10-24T23:34:33Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -426,7 +426,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T04:25:08Z",
+      "lastUpdated": "2026-10-25T01:38:49Z",
       "homeTeam": {
         "id": 1769,
         "name": "SE Palmeiras",
@@ -492,7 +492,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T04:25:08Z",
+      "lastUpdated": "2026-10-25T01:30:17Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -554,11 +554,11 @@
       },
       "id": 555050,
       "utcDate": "2026-10-24T22:30:00Z",
-      "status": "FINISHED",
+      "status": "IN_PLAY",
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T04:25:08Z",
+      "lastUpdated": "2026-10-25T02:06:33Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -620,11 +620,11 @@
       },
       "id": 555057,
       "utcDate": "2026-10-25T01:00:00Z",
-      "status": "FINISHED",
+      "status": "IN_PLAY",
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T04:25:08Z",
+      "lastUpdated": "2026-10-25T02:06:33Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -643,12 +643,12 @@
         "winner": "DRAW",
         "duration": "REGULAR",
         "fullTime": {
-          "home": 1,
-          "away": 1
+          "home": 0,
+          "away": 0
         },
         "halfTime": {
-          "home": 0,
-          "away": 1
+          "home": null,
+          "away": null
         }
       },
       "odds": {
@@ -1257,6 +1257,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-25T14:50:16.705Z",
+  "atualizadoEm": "2026-10-25T18:09:31.514Z",
   "origem": "static-json"
 }
