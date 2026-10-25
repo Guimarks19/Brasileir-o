@@ -58,7 +58,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11173,
+          "name": "Braulio da Silva Machado",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -87,7 +94,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T00:10:29Z",
+      "lastUpdated": "2026-10-25T00:11:33Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -117,7 +124,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11161,
+          "name": "Anderson Daronco",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -146,7 +160,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T00:09:57Z",
+      "lastUpdated": "2026-10-25T00:13:09Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -176,7 +190,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206907,
+          "name": "Savio Pereira Sampaio",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     }
   ],
   "rodada": [
@@ -303,7 +324,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 244605,
+          "name": "Davi de Oliveira Lacerda",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -332,7 +360,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-24T19:55:02Z",
+      "lastUpdated": "2026-10-25T04:25:08Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -362,7 +390,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 265146,
+          "name": "Lucas Casagrande",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -421,7 +456,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206977,
+          "name": "André Skettino Policarpo Bento",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -480,7 +522,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11173,
+          "name": "Braulio da Silva Machado",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -539,7 +588,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11412,
+          "name": "Wilton Sampaio",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -568,7 +624,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T00:10:29Z",
+      "lastUpdated": "2026-10-25T00:11:33Z",
       "homeTeam": {
         "id": 1772,
         "name": "Chapecoense AF",
@@ -598,7 +654,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11161,
+          "name": "Anderson Daronco",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -627,7 +690,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-25T00:09:57Z",
+      "lastUpdated": "2026-10-25T00:13:09Z",
       "homeTeam": {
         "id": 6685,
         "name": "Santos FC",
@@ -657,7 +720,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206907,
+          "name": "Savio Pereira Sampaio",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -836,7 +906,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 244605,
+          "name": "Davi de Oliveira Lacerda",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -865,7 +942,7 @@
       "matchday": 32,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-24T19:55:02Z",
+      "lastUpdated": "2026-10-25T04:25:08Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -895,7 +972,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 265146,
+          "name": "Lucas Casagrande",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -954,7 +1038,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 206977,
+          "name": "André Skettino Policarpo Bento",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -1013,7 +1104,14 @@
       "odds": {
         "msg": "Activate Odds-Package in User-Panel to retrieve odds."
       },
-      "referees": []
+      "referees": [
+        {
+          "id": 11412,
+          "name": "Wilton Sampaio",
+          "type": "REFEREE",
+          "nationality": "Brazil"
+        }
+      ]
     },
     {
       "area": {
@@ -1253,6 +1351,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-25T05:43:24.787Z",
+  "atualizadoEm": "2026-10-25T10:48:50.320Z",
   "origem": "static-json"
 }
