@@ -43,9 +43,9 @@
           "draw": 9,
           "lost": 3,
           "points": 69,
-          "goalsFor": 55,
+          "goalsFor": 56,
           "goalsAgainst": 22,
-          "goalDifference": 33
+          "goalDifference": 34
         },
         {
           "position": 2,
@@ -116,12 +116,12 @@
           "playedGames": 32,
           "form": null,
           "won": 14,
-          "draw": 10,
-          "lost": 8,
-          "points": 52,
-          "goalsFor": 49,
-          "goalsAgainst": 39,
-          "goalDifference": 10
+          "draw": 9,
+          "lost": 9,
+          "points": 51,
+          "goalsFor": 50,
+          "goalsAgainst": 41,
+          "goalDifference": 9
         },
         {
           "position": 6,
@@ -215,8 +215,8 @@
           "lost": 13,
           "points": 41,
           "goalsFor": 39,
-          "goalsAgainst": 37,
-          "goalDifference": 2
+          "goalsAgainst": 38,
+          "goalDifference": 1
         },
         {
           "position": 11,
@@ -271,8 +271,8 @@
           "draw": 8,
           "lost": 13,
           "points": 38,
-          "goalsFor": 37,
-          "goalsAgainst": 43,
+          "goalsFor": 39,
+          "goalsAgainst": 45,
           "goalDifference": -6
         },
         {
@@ -347,8 +347,8 @@
           "draw": 9,
           "lost": 15,
           "points": 33,
-          "goalsFor": 32,
-          "goalsAgainst": 40,
+          "goalsFor": 34,
+          "goalsAgainst": 42,
           "goalDifference": -8
         },
         {
@@ -400,17 +400,17 @@
           },
           "playedGames": 31,
           "form": null,
-          "won": 3,
-          "draw": 10,
+          "won": 4,
+          "draw": 9,
           "lost": 18,
-          "points": 19,
-          "goalsFor": 30,
-          "goalsAgainst": 62,
-          "goalDifference": -32
+          "points": 21,
+          "goalsFor": 32,
+          "goalsAgainst": 63,
+          "goalDifference": -31
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-10-24T22:38:33.971Z",
+  "atualizadoEm": "2026-10-25T00:51:23.887Z",
   "origem": "static-json"
 }
