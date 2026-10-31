@@ -557,7 +557,7 @@
       "matchday": 33,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-10-31T02:01:27Z",
+      "lastUpdated": "2026-10-31T04:25:09Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -1131,6 +1131,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-10-31T02:39:56.826Z",
+  "atualizadoEm": "2026-10-31T09:18:13.735Z",
   "origem": "static-json"
 }
