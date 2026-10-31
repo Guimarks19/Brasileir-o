@@ -229,13 +229,13 @@
           },
           "playedGames": 33,
           "form": null,
-          "won": 10,
-          "draw": 10,
+          "won": 11,
+          "draw": 9,
           "lost": 13,
-          "points": 40,
-          "goalsFor": 38,
+          "points": 42,
+          "goalsFor": 40,
           "goalsAgainst": 50,
-          "goalDifference": -12
+          "goalDifference": -10
         },
         {
           "position": 12,
@@ -259,25 +259,6 @@
         {
           "position": 13,
           "team": {
-            "id": 1782,
-            "name": "EC Vitória",
-            "shortName": "Vitória",
-            "tla": "VIT",
-            "crest": "https://crests.football-data.org/1782.png"
-          },
-          "playedGames": 33,
-          "form": null,
-          "won": 10,
-          "draw": 9,
-          "lost": 14,
-          "points": 39,
-          "goalsFor": 35,
-          "goalsAgainst": 46,
-          "goalDifference": -11
-        },
-        {
-          "position": 14,
-          "team": {
             "id": 1780,
             "name": "CR Vasco da Gama",
             "shortName": "Vasco da Gama",
@@ -293,6 +274,25 @@
           "goalsFor": 40,
           "goalsAgainst": 49,
           "goalDifference": -9
+        },
+        {
+          "position": 14,
+          "team": {
+            "id": 1782,
+            "name": "EC Vitória",
+            "shortName": "Vitória",
+            "tla": "VIT",
+            "crest": "https://crests.football-data.org/1782.png"
+          },
+          "playedGames": 33,
+          "form": null,
+          "won": 10,
+          "draw": 8,
+          "lost": 15,
+          "points": 38,
+          "goalsFor": 35,
+          "goalsAgainst": 48,
+          "goalDifference": -13
         },
         {
           "position": 15,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-10-31T19:28:58.856Z",
+  "atualizadoEm": "2026-10-31T22:45:11.187Z",
   "origem": "static-json"
 }
