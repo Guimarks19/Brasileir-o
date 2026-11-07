@@ -100,9 +100,9 @@
           "draw": 9,
           "lost": 9,
           "points": 57,
-          "goalsFor": 53,
+          "goalsFor": 55,
           "goalsAgainst": 42,
-          "goalDifference": 11
+          "goalDifference": 13
         },
         {
           "position": 5,
@@ -310,8 +310,8 @@
           "lost": 16,
           "points": 38,
           "goalsFor": 35,
-          "goalsAgainst": 49,
-          "goalDifference": -14
+          "goalsAgainst": 51,
+          "goalDifference": -16
         },
         {
           "position": 16,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-11-06T23:23:43.919Z",
+  "atualizadoEm": "2026-11-07T03:01:15.610Z",
   "origem": "static-json"
 }
