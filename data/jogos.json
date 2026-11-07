@@ -623,7 +623,7 @@
       "matchday": 34,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-07T01:56:07Z",
+      "lastUpdated": "2026-11-07T04:25:07Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -1138,6 +1138,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-11-07T03:01:15.610Z",
+  "atualizadoEm": "2026-11-07T10:33:54.939Z",
   "origem": "static-json"
 }
