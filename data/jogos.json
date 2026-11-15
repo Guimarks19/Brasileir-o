@@ -1,73 +1,6 @@
 {
   "rodadaAtual": 35,
-  "aoVivo": [
-    {
-      "area": {
-        "id": 2032,
-        "name": "Brazil",
-        "code": "BRA",
-        "flag": "https://crests.football-data.org/764.svg"
-      },
-      "competition": {
-        "id": 2013,
-        "name": "Campeonato Brasileiro Série A",
-        "code": "BSA",
-        "type": "LEAGUE",
-        "emblem": "https://crests.football-data.org/bsa.png"
-      },
-      "season": {
-        "id": 2474,
-        "startDate": "2026-01-28",
-        "endDate": "2026-12-02",
-        "currentMatchday": 35,
-        "winner": null
-      },
-      "id": 554942,
-      "utcDate": "2026-11-14T23:30:00Z",
-      "status": "IN_PLAY",
-      "matchday": 21,
-      "stage": "REGULAR_SEASON",
-      "group": null,
-      "lastUpdated": "2026-11-15T00:05:07Z",
-      "homeTeam": {
-        "id": 1772,
-        "name": "Chapecoense AF",
-        "shortName": "Chapecoense",
-        "tla": "CHA",
-        "crest": "https://crests.football-data.org/1772_large.png"
-      },
-      "awayTeam": {
-        "id": 1780,
-        "name": "CR Vasco da Gama",
-        "shortName": "Vasco da Gama",
-        "tla": "VAS",
-        "crest": "https://crests.football-data.org/1780.png"
-      },
-      "score": {
-        "winner": "DRAW",
-        "duration": "REGULAR",
-        "fullTime": {
-          "home": 0,
-          "away": 0
-        },
-        "halfTime": {
-          "home": null,
-          "away": null
-        }
-      },
-      "odds": {
-        "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-      },
-      "referees": [
-        {
-          "id": 206944,
-          "name": "Rodrigo Pereira de Lima",
-          "type": "REFEREE",
-          "nationality": "Brazil"
-        }
-      ]
-    }
-  ],
+  "aoVivo": [],
   "rodada": [
     {
       "area": {
@@ -96,7 +29,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T23:35:15Z",
+      "lastUpdated": "2026-11-15T04:25:08Z",
       "homeTeam": {
         "id": 4364,
         "name": "Mirassol FC",
@@ -162,7 +95,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-15T01:32:00Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -221,7 +154,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -280,7 +213,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -339,7 +272,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -398,7 +331,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-15T01:32:00Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -457,7 +390,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -516,7 +449,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-15T01:32:00Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -575,7 +508,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -634,7 +567,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -695,7 +628,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-15T01:32:00Z",
       "homeTeam": {
         "id": 4241,
         "name": "Coritiba FBC",
@@ -754,7 +687,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 4287,
         "name": "Clube do Remo",
@@ -813,7 +746,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1771,
         "name": "Cruzeiro EC",
@@ -872,7 +805,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1783,
         "name": "CR Flamengo",
@@ -931,7 +864,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-15T01:32:00Z",
       "homeTeam": {
         "id": 1779,
         "name": "SC Corinthians Paulista",
@@ -990,7 +923,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1767,
         "name": "Grêmio FBPA",
@@ -1049,7 +982,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-15T01:32:00Z",
       "homeTeam": {
         "id": 1780,
         "name": "CR Vasco da Gama",
@@ -1108,7 +1041,7 @@
       "matchday": 35,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-14T00:20:33Z",
+      "lastUpdated": "2026-11-14T20:20:26Z",
       "homeTeam": {
         "id": 1782,
         "name": "EC Vitória",
@@ -1142,6 +1075,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-11-15T00:05:46.797Z",
+  "atualizadoEm": "2026-11-15T06:57:13.416Z",
   "origem": "static-json"
 }
