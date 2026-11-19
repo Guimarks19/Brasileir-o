@@ -39,13 +39,13 @@
           },
           "playedGames": 35,
           "form": null,
-          "won": 23,
-          "draw": 8,
+          "won": 24,
+          "draw": 7,
           "lost": 4,
-          "points": 77,
-          "goalsFor": 72,
+          "points": 79,
+          "goalsFor": 73,
           "goalsAgainst": 30,
-          "goalDifference": 42
+          "goalDifference": 43
         },
         {
           "position": 2,
@@ -59,12 +59,12 @@
           "playedGames": 35,
           "form": null,
           "won": 21,
-          "draw": 11,
-          "lost": 3,
-          "points": 74,
-          "goalsFor": 62,
-          "goalsAgainst": 23,
-          "goalDifference": 39
+          "draw": 10,
+          "lost": 4,
+          "points": 73,
+          "goalsFor": 63,
+          "goalsAgainst": 25,
+          "goalDifference": 38
         },
         {
           "position": 3,
@@ -77,13 +77,13 @@
           },
           "playedGames": 35,
           "form": null,
-          "won": 18,
-          "draw": 7,
+          "won": 19,
+          "draw": 6,
           "lost": 10,
-          "points": 61,
-          "goalsFor": 55,
-          "goalsAgainst": 48,
-          "goalDifference": 7
+          "points": 63,
+          "goalsFor": 57,
+          "goalsAgainst": 49,
+          "goalDifference": 8
         },
         {
           "position": 4,
@@ -116,12 +116,12 @@
           "playedGames": 35,
           "form": null,
           "won": 15,
-          "draw": 10,
-          "lost": 10,
-          "points": 55,
+          "draw": 9,
+          "lost": 11,
+          "points": 54,
           "goalsFor": 52,
-          "goalsAgainst": 44,
-          "goalDifference": 8
+          "goalsAgainst": 45,
+          "goalDifference": 7
         },
         {
           "position": 6,
@@ -132,12 +132,12 @@
             "tla": "BAH",
             "crest": "https://crests.football-data.org/1777.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 14,
-          "draw": 11,
+          "draw": 12,
           "lost": 9,
-          "points": 53,
+          "points": 54,
           "goalsFor": 50,
           "goalsAgainst": 45,
           "goalDifference": 5
@@ -172,13 +172,13 @@
           },
           "playedGames": 35,
           "form": null,
-          "won": 12,
-          "draw": 12,
+          "won": 13,
+          "draw": 11,
           "lost": 11,
-          "points": 48,
-          "goalsFor": 50,
+          "points": 50,
+          "goalsFor": 51,
           "goalsAgainst": 49,
-          "goalDifference": 1
+          "goalDifference": 2
         },
         {
           "position": 9,
@@ -240,6 +240,25 @@
         {
           "position": 12,
           "team": {
+            "id": 1770,
+            "name": "Botafogo FR",
+            "shortName": "Botafogo",
+            "tla": "BOT",
+            "crest": "https://crests.football-data.org/1770.png"
+          },
+          "playedGames": 35,
+          "form": null,
+          "won": 11,
+          "draw": 9,
+          "lost": 15,
+          "points": 42,
+          "goalsFor": 46,
+          "goalsAgainst": 57,
+          "goalDifference": -11
+        },
+        {
+          "position": 13,
+          "team": {
             "id": 4241,
             "name": "Coritiba FBC",
             "shortName": "Coritiba",
@@ -249,31 +268,12 @@
           "playedGames": 35,
           "form": null,
           "won": 11,
-          "draw": 10,
-          "lost": 14,
-          "points": 43,
-          "goalsFor": 40,
-          "goalsAgainst": 51,
-          "goalDifference": -11
-        },
-        {
-          "position": 13,
-          "team": {
-            "id": 1770,
-            "name": "Botafogo FR",
-            "shortName": "Botafogo",
-            "tla": "BOT",
-            "crest": "https://crests.football-data.org/1770.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 11,
           "draw": 9,
-          "lost": 14,
+          "lost": 15,
           "points": 42,
-          "goalsFor": 46,
-          "goalsAgainst": 53,
-          "goalDifference": -7
+          "goalsFor": 40,
+          "goalsAgainst": 52,
+          "goalDifference": -12
         },
         {
           "position": 14,
@@ -297,6 +297,25 @@
         {
           "position": 15,
           "team": {
+            "id": 1779,
+            "name": "SC Corinthians Paulista",
+            "shortName": "Corinthians",
+            "tla": "COR",
+            "crest": "https://crests.football-data.org/1779.png"
+          },
+          "playedGames": 35,
+          "form": null,
+          "won": 10,
+          "draw": 10,
+          "lost": 15,
+          "points": 40,
+          "goalsFor": 40,
+          "goalsAgainst": 42,
+          "goalDifference": -2
+        },
+        {
+          "position": 16,
+          "team": {
             "id": 1782,
             "name": "EC Vitória",
             "shortName": "Vitória",
@@ -314,7 +333,7 @@
           "goalDifference": -16
         },
         {
-          "position": 16,
+          "position": 17,
           "team": {
             "id": 6684,
             "name": "SC Internacional",
@@ -333,25 +352,6 @@
           "goalDifference": -4
         },
         {
-          "position": 17,
-          "team": {
-            "id": 1779,
-            "name": "SC Corinthians Paulista",
-            "shortName": "Corinthians",
-            "tla": "COR",
-            "crest": "https://crests.football-data.org/1779.png"
-          },
-          "playedGames": 34,
-          "form": null,
-          "won": 9,
-          "draw": 10,
-          "lost": 15,
-          "points": 37,
-          "goalsFor": 36,
-          "goalsAgainst": 42,
-          "goalDifference": -6
-        },
-        {
           "position": 18,
           "team": {
             "id": 1767,
@@ -360,12 +360,12 @@
             "tla": "FBP",
             "crest": "https://crests.football-data.org/1767.png"
           },
-          "playedGames": 34,
+          "playedGames": 35,
           "form": null,
           "won": 9,
-          "draw": 10,
+          "draw": 11,
           "lost": 15,
-          "points": 37,
+          "points": 38,
           "goalsFor": 38,
           "goalsAgainst": 47,
           "goalDifference": -9
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-11-18T23:54:59.947Z",
+  "atualizadoEm": "2026-11-19T06:04:55.516Z",
   "origem": "static-json"
 }
