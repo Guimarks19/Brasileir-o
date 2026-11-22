@@ -94,12 +94,12 @@
             "tla": "FLU",
             "crest": "https://crests.football-data.org/1765.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 17,
-          "draw": 9,
+          "draw": 10,
           "lost": 9,
-          "points": 60,
+          "points": 61,
           "goalsFor": 56,
           "goalsAgainst": 42,
           "goalDifference": 14
@@ -113,15 +113,15 @@
             "tla": "CAP",
             "crest": "https://crests.football-data.org/1768.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
-          "won": 15,
+          "won": 16,
           "draw": 9,
           "lost": 11,
-          "points": 54,
-          "goalsFor": 52,
-          "goalsAgainst": 45,
-          "goalDifference": 7
+          "points": 57,
+          "goalsFor": 56,
+          "goalsAgainst": 47,
+          "goalDifference": 9
         },
         {
           "position": 6,
@@ -189,12 +189,12 @@
             "tla": "RBB",
             "crest": "https://crests.football-data.org/4286.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 13,
-          "draw": 8,
+          "draw": 9,
           "lost": 14,
-          "points": 47,
+          "points": 48,
           "goalsFor": 45,
           "goalsAgainst": 41,
           "goalDifference": 4
@@ -208,12 +208,12 @@
             "tla": "VAS",
             "crest": "https://crests.football-data.org/1780.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 13,
-          "draw": 8,
+          "draw": 9,
           "lost": 14,
-          "points": 47,
+          "points": 48,
           "goalsFor": 47,
           "goalsAgainst": 51,
           "goalDifference": -4
@@ -278,6 +278,25 @@
         {
           "position": 14,
           "team": {
+            "id": 4364,
+            "name": "Mirassol FC",
+            "shortName": "Mirassol",
+            "tla": "MIR",
+            "crest": "https://crests.football-data.org/4364.png"
+          },
+          "playedGames": 36,
+          "form": null,
+          "won": 10,
+          "draw": 12,
+          "lost": 14,
+          "points": 42,
+          "goalsFor": 39,
+          "goalsAgainst": 48,
+          "goalDifference": -9
+        },
+        {
+          "position": 15,
+          "team": {
             "id": 1782,
             "name": "EC Vitória",
             "shortName": "Vitória",
@@ -293,25 +312,6 @@
           "goalsFor": 37,
           "goalsAgainst": 52,
           "goalDifference": -15
-        },
-        {
-          "position": 15,
-          "team": {
-            "id": 4364,
-            "name": "Mirassol FC",
-            "shortName": "Mirassol",
-            "tla": "MIR",
-            "crest": "https://crests.football-data.org/4364.png"
-          },
-          "playedGames": 35,
-          "form": null,
-          "won": 10,
-          "draw": 11,
-          "lost": 14,
-          "points": 41,
-          "goalsFor": 39,
-          "goalsAgainst": 48,
-          "goalDifference": -9
         },
         {
           "position": 16,
@@ -379,15 +379,15 @@
             "tla": "CRE",
             "crest": "https://crests.football-data.org/4287.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 7,
           "draw": 11,
-          "lost": 17,
+          "lost": 18,
           "points": 32,
-          "goalsFor": 39,
-          "goalsAgainst": 57,
-          "goalDifference": -18
+          "goalsFor": 41,
+          "goalsAgainst": 61,
+          "goalDifference": -20
         },
         {
           "position": 20,
@@ -411,6 +411,6 @@
       ]
     }
   ],
-  "atualizadoEm": "2026-11-22T17:58:11.975Z",
+  "atualizadoEm": "2026-11-22T23:29:55.456Z",
   "origem": "static-json"
 }
