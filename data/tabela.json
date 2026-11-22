@@ -75,15 +75,15 @@
             "tla": "CRU",
             "crest": "https://crests.football-data.org/1771.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
-          "won": 19,
+          "won": 20,
           "draw": 6,
           "lost": 10,
-          "points": 63,
-          "goalsFor": 57,
-          "goalsAgainst": 49,
-          "goalDifference": 8
+          "points": 66,
+          "goalsFor": 59,
+          "goalsAgainst": 50,
+          "goalDifference": 9
         },
         {
           "position": 4,
@@ -398,19 +398,19 @@
             "tla": "CHA",
             "crest": "https://crests.football-data.org/1772_large.png"
           },
-          "playedGames": 35,
+          "playedGames": 36,
           "form": null,
           "won": 4,
           "draw": 9,
-          "lost": 22,
+          "lost": 23,
           "points": 21,
-          "goalsFor": 33,
-          "goalsAgainst": 72,
-          "goalDifference": -39
+          "goalsFor": 34,
+          "goalsAgainst": 74,
+          "goalDifference": -40
         }
       ]
     }
   ],
-  "atualizadoEm": "2026-11-21T22:16:33.236Z",
+  "atualizadoEm": "2026-11-22T02:29:14.419Z",
   "origem": "static-json"
 }
