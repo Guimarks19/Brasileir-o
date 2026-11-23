@@ -227,7 +227,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-22T22:00:46Z",
+      "lastUpdated": "2026-11-23T04:25:08Z",
       "homeTeam": {
         "id": 1768,
         "name": "CA Paranaense",
@@ -293,7 +293,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-23T00:30:06Z",
+      "lastUpdated": "2026-11-23T04:25:08Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -359,7 +359,7 @@
       "matchday": 36,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-23T01:31:26Z",
+      "lastUpdated": "2026-11-23T04:25:08Z",
       "homeTeam": {
         "id": 4286,
         "name": "RB Bragantino",
@@ -1110,6 +1110,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-11-23T03:56:14.072Z",
+  "atualizadoEm": "2026-11-23T14:09:17.192Z",
   "origem": "static-json"
 }
