@@ -95,7 +95,7 @@
       "matchday": 37,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-27T02:01:18Z",
+      "lastUpdated": "2026-11-27T04:25:08Z",
       "homeTeam": {
         "id": 1776,
         "name": "São Paulo FC",
@@ -1082,6 +1082,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-11-27T02:01:30.799Z",
+  "atualizadoEm": "2026-11-27T11:11:53.766Z",
   "origem": "static-json"
 }
