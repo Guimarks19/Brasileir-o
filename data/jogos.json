@@ -161,7 +161,7 @@
       "matchday": 37,
       "stage": "REGULAR_SEASON",
       "group": null,
-      "lastUpdated": "2026-11-28T01:57:35Z",
+      "lastUpdated": "2026-11-28T04:25:09Z",
       "homeTeam": {
         "id": 1765,
         "name": "Fluminense FC",
@@ -1089,6 +1089,6 @@
     }
   ],
   "estatisticasPosJogo": {},
-  "atualizadoEm": "2026-11-28T02:52:27.948Z",
+  "atualizadoEm": "2026-11-28T11:23:40.483Z",
   "origem": "static-json"
 }
